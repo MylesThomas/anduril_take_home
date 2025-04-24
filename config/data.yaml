@@ -1,0 +1,41 @@
+base_path: ../
+
+paths:
+  raw_data: data/00_raw/
+  clean_data: data/01_clean/
+  output_data: data/02_output/
+  other_data: data/99_other/
+
+data:
+  raw:
+    path: Quant_Take_Home.xlsx
+    sheet: Pipeline Data
+    columns:
+      Business Unit: str
+      Account Name: str
+      Opportunity Number: int64
+      Forecast Category: str
+      Award Date: datetime64[ns]
+      Revenue Amount: float64
+      Stage: str
+      Probability of Award: float64
+      Weighted Revenue Amount: float64
+      Type: str
+      Revenue Type: str
+      Revenue Year: int64
+
+  clean:
+    path: 20250423_cleaned_data.csv
+    columns:
+      business_unit: string[python]
+      account_name: string[python]
+      opportunity_number: int64
+      forecast_category: string[python]
+      award_date: datetime64[ns]
+      revenue_amount: float64
+      stage: string[python]
+      probability_of_award: float64
+      weighted_revenue_amount: float64
+      type: string[python]
+      revenue_type: string[python]
+      revenue_year: int64

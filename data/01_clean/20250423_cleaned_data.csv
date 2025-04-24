@@ -1,0 +1,1310 @@
+business_unit,account_name,opportunity_number,forecast_category,award_date,revenue_amount,stage,probability_of_award,weighted_revenue_amount,type,revenue_type,revenue_year
+Maritime ,Prometheus Defense Innovations,71201,Base Case,2029-08-25,195836453.0,Shaping,0.9023,176703231.5419,Follow-On,O&M,2029
+Radars,Inferno Protection Tech,31305,Base Case,2029-11-04,114991405.0,Shaping,0.9023,103756744.7315,New Business,Product,2029
+Solid Rocket Motors,Vortex Security Dynamics,30977,Base Case,2029-11-29,151129327.0,Shaping,0.9023,136363991.7521,New Business,O&M,2029
+Command and Control ,Maelstrom Defense Group,75064,Base Case,2029-02-20,195003733.0,Shaping,0.7725,150640383.7425,Follow-On,Product,2029
+Command and Control ,Vanguard Tactical Solutions,32256,Base Case,2029-12-14,23139092.0,Shaping,0.243,5622799.356,New Business,Development,2029
+Unmanned Aerial Systems,Argus Defense Systems,21171,Base Case,2029-12-06,187561060.0,Shaping,0.7123999999999999,133618499.14399998,New Business,Product,2029
+Solid Rocket Motors,Titanium Security Group,79553,Base Case,2028-12-06,44029337.0,Shaping,0.75,33022002.75,New Business,Product,2029
+Maritime ,Goliath Protection Systems,41344,Base Case,2028-06-23,52181978.0,Shaping,0.7725,40310578.004999995,Follow-On,Product,2029
+Unmanned Aerial Systems,Paladin Strategic Operations,25471,Base Case,2029-02-13,198209670.0,Shaping,0.5075,100591407.52499999,New Business,Product,2029
+Radars,Hyperion Protection Corp,29908,Base Case,2029-01-31,161566772.0,Shaping,0.7123999999999999,115100168.3728,Follow-On,Product,2029
+Command and Control ,Lionheart Defense Systems,70469,Base Case,2029-10-31,106708330.0,Shaping,0.297,31692374.009999998,Follow-On,Product,2029
+Unmanned Aerial Systems,Havoc Tactical Solutions,72437,Base Case,2029-01-16,44442137.0,Shaping,0.9023,40100140.2151,New Business,Cost Plus Fixed Fee,2029
+Radars,Blitzkrieg Defense Innovations,20250,Base Case,2029-03-01,74090471.0,Shaping,0.43979999999999997,32584989.1458,Follow-On,Product,2029
+Unmanned Aerial Systems,StratDef Solutions,77174,Base Case,2029-03-01,145201800.0,Shaping,0.43979999999999997,63859751.63999999,Follow-On,Development,2029
+Radars,Phantom Recon Tech,98157,Upside,2027-03-31,62096361.0,Shaping,0.25,15524090.25,New Business,Product,2027
+Counter-UAS,Osiris Combat Solutions,97107,Upside,2027-06-01,85507437.0,Shaping,0.135,11543503.995000001,New Business,Product,2027
+Counter-UAS,Olympus Strategic Solutions,76377,Upside,2027-09-30,29572636.0,Shaping,0.3075,9093585.57,New Business,Subscription,2027
+Radars,Borealis Defense Network,25568,Base Case,2028-04-30,34271651.0,Shaping,0.7725,26474850.397499997,Follow-On,Product,2028
+Counter-UAS,Patriot Defense Solutions,52158,Base Case,2028-12-15,167598469.0,Shaping,0.243,40726427.967,New Business,Development,2028
+Solid Rocket Motors,Vortex Security Dynamics,51923,Base Case,2028-07-31,74787527.0,Shaping,0.22,16453255.94,New Business,O&M,2028
+Maritime ,Crimson Shield Technologies,86458,Upside,2027-07-31,97602802.0,Shaping,0.22,21472616.44,New Business,O&M,2027
+Counter-Intrusion,Legacy Combat Systems,96351,Base Case,2028-07-31,172209603.0,Shaping,0.22,37886112.660000004,New Business,O&M,2028
+Maritime ,Zenith Warfare Technologies,53631,Upside,2027-04-30,63205415.0,Shaping,0.5075,32076748.112499997,New Business,O&M,2027
+Maritime ,Artemis Armament Solutions,63651,Upside,2027-11-20,100168155.0,Shaping,0.34850000000000003,34908602.017500006,Follow-On,Product,2027
+Radars,Odyssey Security Tech,94699,Base Case,2029-06-24,116144048.0,Shaping,0.9023,104796774.5104,New Business,Product,2028
+Counter-UAS,Chimera Strategic Solutions,51741,Base Case,2029-10-22,175217551.0,Shaping,0.9023,158098796.2673,New Business,O&M,2028
+Command and Control ,Zephyr Security Tech,82734,Upside,2027-12-31,44556008.0,Shaping,0.07,3118920.5600000005,New Business,O&M,2027
+Counter-UAS,Sentinel Security Dynamics,57907,Upside,2027-06-30,608310.0,Shaping,0.243,147819.33,New Business,O&M,2027
+Solid Rocket Motors,Echo Combat Systems,48409,Upside,2027-06-30,80700450.0,Shaping,0.243,19610209.349999998,New Business,Product,2027
+Solid Rocket Motors,Manticore Aerospace Tech,97564,Base Case,2028-01-05,182864248.0,Shaping,0.6912,126395768.2176,Follow-On,Product,2028
+Counter-UAS,Warlock Combat Solutions,72435,Base Case,2028-06-10,155545032.0,Shaping,0.8,124436025.60000001,Follow-On,Development,2028
+Command and Control ,Horizon Warfare Technologies,72062,Upside,2027-03-31,148557551.0,Shaping,0.4274,63493497.2974,New Business,Development,2027
+Unmanned Aerial Systems,Polaris Command Systems,68897,Base Case,2028-08-24,154263029.0,Shaping,0.8,123410423.2,Follow-On,Development,2028
+Counter-Intrusion,Valkyrie Defense Technologies,30969,Base Case,2028-01-23,159263192.0,Shaping,0.75,119447394.0,New Business,Product,2028
+Maritime ,Nightshade Security Ops,61242,Base Case,2028-01-12,31246692.0,Shaping,0.43979999999999997,13742295.1416,Follow-On,Development,2028
+Counter-Intrusion,Raptor Defense Systems,96284,Base Case,2027-03-01,46921401.0,Shaping,0.48,22522272.48,Modification,Development,2028
+Radars,Hyperion Protection Corp,30251,Base Case,2027-03-01,22215258.0,Shaping,0.37,8219645.46,Modification,Development,2028
+Radars,Hades Defense Strategies,75084,Base Case,2028-07-19,165819347.0,Shaping,0.6099,101133219.7353,Option,Development,2028
+Command and Control ,Thunderbolt Defense Corp,90604,Base Case,2028-08-26,172878726.0,Shaping,0.8073,139564995.4998,Follow-On,O&M,2028
+Solid Rocket Motors,Nomad Intelligence Systems,17174,Base Case,2028-11-29,167672193.0,Shaping,0.6912,115895019.80160001,New Business,Development,2028
+Command and Control ,Revenant Defense Solutions,35596,Base Case,2028-12-05,179439110.0,Shaping,0.9023,161907908.953,New Business,O&M,2028
+Counter-UAS,Osiris Combat Solutions,46770,Base Case,2028-03-31,70954864.0,Shaping,0.6912,49044001.996800005,Follow-On,O&M,2028
+Counter-UAS,Helios Tactical Solutions,37356,Base Case,2029-12-10,194578818.0,Shaping,0.25,48644704.5,New Business,Development,2028
+Counter-Intrusion,Gladiator Defense Corp,96894,Base Case,2028-04-18,161160774.0,Shaping,0.5751,92683561.1274,Follow-On,Development,2028
+Radars,Kraken Maritime Defense,92853,Base Case,2028-02-24,181399963.0,Shaping,0.5075,92060481.2225,Modification,Cost Plus Fixed Fee,2028
+Radars,Avalanche Defense Technologies,25647,Base Case,2028-05-01,117284646.0,Shaping,0.7725,90602389.035,New Business,Product,2028
+Command and Control ,Cerberus Defense Group,80161,Base Case,2028-03-03,197626077.0,Shaping,0.4473,88398144.2421,New Business,Development,2028
+Unmanned Aerial Systems,Wildcat Tactical Solutions,89314,Base Case,2028-06-01,167549148.0,Shaping,0.513,85952712.924,New Business,Subscription,2028
+Counter-Intrusion,Minerva Intelligence Systems,36887,Base Case,2028-02-22,94853198.0,Shaping,0.9023,85586040.5554,Follow-On,O&M,2028
+Command and Control ,Silverline Security Operations,77615,Base Case,2028-09-30,161786857.0,Shaping,0.5286,85520532.61019999,New Business,Development,2028
+Command and Control ,Vanguard Tactical Solutions,44852,Base Case,2028-06-02,131737942.0,Shaping,0.6428,84681149.11760001,Option,Development,2028
+Unmanned Aerial Systems,Midgard Security Systems,79390,Base Case,2028-11-21,158006624.0,Shaping,0.5286,83522301.44639999,New Business,Product,2028
+Unmanned Aerial Systems,Wildcat Tactical Solutions,22559,Base Case,2028-08-14,117120575.0,Shaping,0.6912,80953741.44,Follow-On,Product,2028
+Maritime ,Prometheus Defense Innovations,63857,Base Case,2028-10-31,117072653.0,Shaping,0.297,34770577.941,Follow-On,Product,2028
+Counter-Intrusion,Raptor Defense Systems,41853,Base Case,2028-01-14,185994918.0,Shaping,0.7123999999999999,132502779.5832,Follow-On,Product,2028
+Maritime ,Crimson Shield Technologies,62529,Base Case,2028-01-16,197252088.0,Shaping,0.9023,177980559.0024,New Business,Cost Plus Fixed Fee,2028
+Maritime ,Fortitude Defense Operations,43649,Base Case,2028-07-01,86888362.0,Shaping,0.43979999999999997,38213501.607599996,Follow-On,Development,2028
+Command and Control ,Silverline Security Operations,97822,Base Case,2026-09-30,50987363.0,Shaping,0.9023,46005897.634899996,New Business,Product,2026
+Solid Rocket Motors,Jupiter Defense Platform,78968,Base Case,2026-04-30,180044325.0,Shaping,0.7725,139084241.0625,Follow-On,Product,2026
+Maritime ,Sabre Tactical Operations,15835,Base Case,2026-07-31,190215502.0,Shaping,0.243,46222366.986,New Business,Development,2026
+Radars,Blitzkrieg Defense Innovations,88350,Base Case,2026-07-31,125540915.0,Shaping,0.9,112986823.5,Option,Product,2026
+Maritime ,Crimson Shield Technologies,20542,Base Case,2029-04-03,103055338.0,Shaping,0.5075,52300584.035,New Business,Product,2026
+Maritime ,Sabre Tactical Operations,94921,Base Case,2029-01-18,28008110.0,Shaping,0.6912,19359205.632,Modification,Development,2026
+Maritime ,Goliath Protection Systems,74219,Base Case,2029-08-08,27616354.0,Shaping,0.9023,24918236.2142,New Business,O&M,2026
+Counter-UAS,Triton Naval Technologies,19196,Base Case,2026-06-30,161538791.0,Shaping,0.5075,81980936.43249999,New Business,Product,2026
+Maritime ,Barricade Security Tech,19030,Base Case,2028-04-15,62819979.0,Shaping,0.2846,17878566.0234,New Business,Subscription,2026
+Radars,Inferno Protection Tech,40246,Base Case,2028-09-20,193916269.0,Shaping,0.8,155133015.20000002,Follow-On,Development,2026
+Counter-Intrusion,Legacy Combat Systems,13246,Base Case,2028-10-21,87343187.0,Shaping,0.43979999999999997,38413533.6426,Follow-On,Development,2026
+Radars,Avalanche Defense Technologies,23269,Base Case,2028-11-28,226275.0,Shaping,0.43979999999999997,99515.745,Follow-On,Development,2026
+Radars,Icarus AeroTech,35679,Base Case,2026-07-01,100608245.0,Shaping,0.649,65294751.005,Option,Subscription,2026
+Maritime ,Artemis Armament Solutions,16890,Base Case,2027-06-30,35114294.0,Shaping,0.6099,21416207.9106,New Business,Development,2026
+Maritime ,Prometheus Defense Innovations,61414,Base Case,2027-10-31,21334595.0,Shaping,0.25,5333648.75,Modification,Development,2026
+Solid Rocket Motors,Catalyst Defense Group,78627,Base Case,2026-04-30,67083246.0,Shaping,0.3,20124973.8,New Business,O&M,2026
+Radars,Inferno Protection Tech,55289,Base Case,2026-09-01,37916168.0,Shaping,0.43979999999999997,16675530.686399998,New Business,Product,2026
+Counter-UAS,Sentinel Security Dynamics,20356,Base Case,2026-10-01,63542886.0,Shaping,0.297,18872237.142,Option,Development,2026
+Maritime ,Phoenix Defense Strategies,55062,Base Case,2026-03-31,95212576.0,Shaping,0.6912,65810932.53120001,Follow-On,O&M,2026
+Maritime ,Draco Armament Research,26737,Base Case,2029-10-08,71511911.0,Shaping,0.25,17877977.75,New Business,Development,2026
+Counter-Intrusion,Quantum Defense Corp,76222,Base Case,2029-03-25,123698496.0,Shaping,0.5286,65387024.985599995,Subscription Renewal,Subscription,2026
+Solid Rocket Motors,Jupiter Defense Platform,47445,Base Case,2026-02-27,148175262.0,Shaping,0.6912,102418741.0944,New Business,Development,2026
+Radars,Kraken Maritime Defense,63387,Base Case,2026-10-30,147179471.0,Shaping,0.297,43712302.886999995,Follow-On,Product,2026
+Radars,Mars Defense Consortium,30458,Base Case,2026-01-16,150410717.0,Shaping,0.9023,135715589.9491,New Business,Cost Plus Fixed Fee,2026
+Radars,Eagle Eye Defense Solutions,84015,Base Case,2026-12-31,25475374.0,Shaping,0.7725,19679726.415,New Business,O&M,2026
+Solid Rocket Motors,Templar Security Solutions,38971,Base Case,2026-10-01,113354647.0,Shaping,0.43979999999999997,49853373.750599995,Follow-On,Development,2026
+Solid Rocket Motors,Blackhawk Defense Dynamics,83559,Upside,2029-05-22,174987579.0,Shaping,0.5224,91413511.26959999,New Business,Development,2025
+Unmanned Aerial Systems,Argus Defense Systems,95132,Base Case,2029-03-15,115708059.0,Shaping,0.6099,70570345.1841,New Business,Development,2029
+Counter-Intrusion,Minerva Intelligence Systems,49912,Base Case,2029-07-03,136723333.0,Shaping,0.513,70139069.829,New Business,Development,2029
+Radars,Mars Defense Consortium,64717,Base Case,2029-09-13,101112080.0,Shaping,0.6912,69888669.69600001,New Business,Product,2029
+Maritime ,Nightshade Security Ops,62017,Upside,2029-10-18,182549672.0,Shaping,0.4473,81654468.28559999,New Business,Development,2025
+Counter-UAS,Helios Tactical Solutions,83129,Base Case,2029-11-22,114423721.0,Shaping,0.6099,69787027.4379,New Business,Development,2029
+Counter-UAS,Stormbringer Defense Solutions,20850,Base Case,2029-03-21,88650842.0,Shaping,0.7725,68482775.445,Subscription Renewal,O&M,2029
+Command and Control ,Lionheart Defense Systems,36907,Base Case,2029-06-10,80916537.0,Shaping,0.7725,62508024.832499996,New Business,Development,2029
+Counter-UAS,Centauri Space Defense,90948,Base Case,2029-07-15,135810060.0,Shaping,0.45899999999999996,62336817.53999999,New Business,Development,2029
+Counter-Intrusion,Quantum Defense Corp,21490,Base Case,2029-09-23,77123731.0,Shaping,0.8073,62261988.0363,Follow-On,O&M,2029
+Radars,Blitzkrieg Defense Innovations,60331,Base Case,2029-12-06,175763858.0,Shaping,0.34850000000000003,61253704.513000004,New Business,Product,2029
+Radars,Eagle Eye Defense Solutions,40459,Base Case,2029-07-04,78753019.0,Shaping,0.7725,60836707.177499995,Subscription Renewal,O&M,2029
+Solid Rocket Motors,Valiant Defense Co.,93068,Base Case,2025-05-31,168130764.0,Shaping,0.34850000000000003,58593571.25400001,New Business,Product,2025
+Command and Control ,Silverline Security Operations,44891,Base Case,2025-10-31,107387411.0,Shaping,0.5286,56764985.4546,Follow-On,O&M,2025
+Counter-UAS,Apex Command Technologies,41723,Base Case,2025-12-31,62600715.0,Shaping,0.9023,56484625.1445,New Business,Product,2025
+Unmanned Aerial Systems,Griffin Military Tech,12692,Base Case,2025-03-31,79825708.0,Shaping,0.6912,55175529.369600005,Follow-On,O&M,2025
+Command and Control ,Maelstrom Defense Group,36699,Upside,2025-09-30,134731470.0,Shaping,0.5124,69036405.228,Follow-On,Product,2025
+Maritime ,Prometheus Defense Innovations,48613,Base Case,2025-07-01,106299472.0,Shaping,0.5075,53946982.03999999,New Business,Product,2025
+Solid Rocket Motors,Specter Intelligence Group,88328,Base Case,2025-10-10,86486841.0,Shaping,0.6099,52748324.3259,New Business,Development,2025
+Radars,Falcon Aeronautics,87561,Base Case,2025-03-31,75407049.0,Shaping,0.6912,52121352.268800005,Follow-On,Product,2025
+Unmanned Aerial Systems,Argus Defense Systems,83653,Base Case,2025-07-25,66485131.0,Shaping,0.7725,51359763.6975,New Business,Development,2025
+Counter-Intrusion,Titan Shield Networks,46637,Upside,2025-12-31,173609763.0,Shaping,0.3553,61683548.7939,New Business,Product,2025
+Solid Rocket Motors,Valiant Defense Co.,47801,Base Case,2025-02-04,87434563.0,Shaping,0.513,44853930.819,Modification,Cost Plus Fixed Fee,2025
+Maritime ,Vulcan Armament Corp,39394,Base Case,2025-10-01,99738596.0,Shaping,0.43979999999999997,43865034.520799994,Follow-On,Development,2025
+Solid Rocket Motors,Blackhawk Defense Dynamics,92100,Base Case,2025-09-30,81958431.0,Shaping,0.5286,43323226.6266,New Business,Product,2025
+Radars,Pinnacle Defense Innovations,77120,Base Case,2025-06-30,67041623.0,Shaping,0.6099,40888685.8677,New Business,Development,2025
+Radars,Eagle Eye Defense Solutions,97559,Base Case,2025-07-31,58896729.0,Shaping,0.6912,40709419.084800005,Follow-On,Development,2025
+Maritime ,Zenith Warfare Technologies,20643,Base Case,2025-08-29,89673785.0,Shaping,0.405,36317882.925000004,New Business,Development,2025
+Counter-UAS,Onyx Defense Strategies,53242,Upside,2025-04-01,95655742.0,Shaping,0.5751,55011617.224199995,New Business,Development,2025
+Maritime ,Vulcan Armament Corp,27231,Base Case,2025-04-30,61404747.0,Shaping,0.5286,32458549.2642,New Business,Product,2025
+Counter-Intrusion,Valkyrie Defense Technologies,18181,Base Case,2025-10-01,85444718.0,Shaping,0.3721,31793979.5678,New Business,Product,2025
+Solid Rocket Motors,Echo Combat Systems,84188,Base Case,2025-05-06,44546777.0,Shaping,0.7123999999999999,31735123.934799995,New Business,Cost Plus Fixed Fee,2025
+Solid Rocket Motors,Catalyst Defense Group,96096,Base Case,2025-04-07,34773842.0,Shaping,0.9,31296457.8,New Business,Product,2025
+Counter-Intrusion,Quantum Defense Corp,87257,Base Case,2025-05-31,40223579.0,Shaping,0.6912,27802537.8048,Option,Development,2025
+Unmanned Aerial Systems,Atlas Protection Analytics,84118,Base Case,2025-12-31,68472825.0,Shaping,0.405,27731494.125,New Business,O&M,2025
+Maritime ,Draco Armament Research,49276,Upside,2025-06-09,180076016.0,Shaping,0.297,53482576.752,Follow-On,Product,2025
+Counter-UAS,Centauri Space Defense,98464,Base Case,2025-02-20,50151282.0,Shaping,0.5075,25451775.615,New Business,Development,2025
+Counter-Intrusion,Orion Cyber Defense,39205,Base Case,2025-05-31,31246945.0,Shaping,0.8073,25225658.6985,Follow-On,O&M,2025
+Counter-Intrusion,Neptune Surveillance Systems,14069,Base Case,2025-06-06,30819222.0,Shaping,0.7725,23807848.994999997,Follow-On,Development,2025
+Counter-Intrusion,Orion Cyber Defense,81308,Base Case,2025-10-01,70606789.0,Shaping,0.297,20970216.333,Option,Development,2025
+Radars,Icarus AeroTech,44401,Base Case,2025-05-16,50459350.0,Shaping,0.405,20436036.75,New Business,Product,2025
+Radars,Phantom Recon Tech,15258,Upside,2025-09-30,147621370.0,Shaping,0.34850000000000003,51446047.44500001,Follow-On,Product,2025
+Radars,Falcon Aeronautics,92178,Upside,2025-06-16,169641048.0,Shaping,0.297,50383391.256,Follow-On,Product,2025
+Unmanned Aerial Systems,Crossbow Defense Networks,32640,Base Case,2025-05-31,40695920.0,Shaping,0.45,18313164.0,New Business,Development,2025
+Counter-Intrusion,Legacy Combat Systems,63138,Upside,2025-04-01,126798960.0,Shaping,0.3958,50187028.368,Option,Development,2025
+Counter-Intrusion,Wraith Recon Systems,15955,Base Case,2025-05-31,30175159.0,Shaping,0.34850000000000003,10516042.911500001,New Business,Product,2025
+Radars,Kraken Maritime Defense,42880,Base Case,2025-04-30,11520105.0,Shaping,0.9023,10394590.7415,Follow-On,O&M,2025
+Maritime ,Tempest Defense Innovations,25835,Base Case,2025-06-02,16303408.0,Shaping,0.6099,9943448.5392,Follow-On,Development,2025
+Counter-UAS,Sentinel Security Dynamics,80998,Base Case,2025-05-31,12007768.0,Shaping,0.8073,9693871.1064,Follow-On,O&M,2025
+Unmanned Aerial Systems,Paladin Strategic Operations,11494,Upside,2025-05-30,180892175.0,Shaping,0.25,45223043.75,Option,Product,2025
+Counter-Intrusion,Ironclad Combat Systems,80809,Upside,2025-07-31,199589478.0,Shaping,0.22,43909685.160000004,New Business,O&M,2025
+Solid Rocket Motors,Jupiter Defense Platform,40756,Upside,2025-11-28,144798780.0,Shaping,0.297,43005237.66,New Business,Subscription,2025
+Radars,Eagle Eye Defense Solutions,26574,Upside,2025-10-31,192576996.0,Shaping,0.22,42366939.12,New Business,Product,2025
+Radars,Borealis Defense Network,63370,Upside,2025-04-30,96457219.0,Shaping,0.4274,41225815.4006,New Business,Development,2025
+Command and Control ,Silverline Security Operations,89184,Base Case,2025-10-21,8863002.0,Shaping,0.6912,6126106.9824,New Business,Product,2025
+Command and Control ,Nimbus Security Networks,23407,Base Case,2025-06-30,23388046.0,Shaping,0.25,5847011.5,New Business,Development,2025
+Radars,Pinnacle Defense Innovations,20622,Base Case,2025-06-02,7830804.0,Shaping,0.6428,5033640.8112,Option,Development,2025
+Counter-UAS,Warlock Combat Solutions,65304,Upside,2025-09-30,111850715.0,Shaping,0.35100000000000003,39259600.965,New Business,Product,2025
+Command and Control ,Horizon Warfare Technologies,77194,Base Case,2025-04-30,2390201.0,Shaping,0.8073,1929609.2673,RFI/White Paper,Development,2025
+Maritime ,Firestorm Defense Corp,33638,Upside,2025-10-24,63121852.0,Shaping,0.6099,38498017.5348,Follow-On,Development,2025
+Radars,Inferno Protection Tech,31921,Upside,2025-09-30,122283899.0,Shaping,0.297,36318318.003,New Business,Development,2025
+Counter-Intrusion,SaberEdge Security,30197,Base Case,2027-04-30,87903664.0,Shaping,0.7725,67905580.44,Follow-On,Product,2027
+Unmanned Aerial Systems,Stealth Combat Analytics,94733,Base Case,2027-12-15,164978223.0,Shaping,0.243,40089708.188999996,New Business,Development,2027
+Counter-UAS,Chimera Strategic Solutions,55808,Base Case,2027-07-31,83849355.0,Shaping,0.22,18446858.1,New Business,O&M,2027
+Counter-Intrusion,Titan Shield Networks,45230,Base Case,2027-07-31,42759706.0,Shaping,0.6912,29555508.7872,Option,Development,2027
+Unmanned Aerial Systems,Stealth Combat Analytics,41301,Base Case,2027-10-31,143044659.0,Shaping,0.6912,98872468.30080001,Modification,Development,2027
+Counter-Intrusion,Gladiator Defense Corp,69957,Base Case,2027-09-30,106754526.0,Shaping,0.9023,96324608.8098,New Business,Product,2027
+Solid Rocket Motors,Vortex Security Dynamics,67904,Upside,2025-10-31,190960077.0,Shaping,0.1845,35232134.2065,New Business,Product,2025
+Unmanned Aerial Systems,Crossbow Defense Networks,58821,Base Case,2027-06-25,547113.0,Shaping,0.9023,493660.0599,New Business,O&M,2027
+Counter-Intrusion,Quantum Defense Corp,55455,Upside,2025-06-30,93479603.0,Shaping,0.35,32717861.049999997,Follow-On,Product,2025
+Counter-UAS,Warlock Combat Solutions,19741,Base Case,2027-04-30,193237812.0,Shaping,0.75,144928359.0,New Business,Product,2027
+Command and Control ,Maelstrom Defense Group,31865,Base Case,2027-11-19,82622914.0,Shaping,0.43979999999999997,36337557.577199996,Follow-On,Development,2027
+Command and Control ,Hawkeye Security Systems,27318,Base Case,2027-07-01,173577922.0,Shaping,0.649,112652071.378,Option,Subscription,2027
+Unmanned Aerial Systems,Wildcat Tactical Solutions,80710,Upside,2025-03-31,71430604.0,Shaping,0.4473,31950909.1692,New Business,Development,2025
+Counter-UAS,Centauri Space Defense,56957,Base Case,2027-02-12,1230749.0,Shaping,0.41,504607.08999999997,Modification,Development,2027
+Solid Rocket Motors,Specter Intelligence Group,62995,Base Case,2027-06-11,11097494.0,Shaping,0.34,3773147.9600000004,Modification,Development,2027
+Command and Control ,Reaper Defense Innovations,56522,Base Case,2027-09-01,74181230.0,Shaping,0.43979999999999997,32624904.953999996,New Business,Product,2027
+Command and Control ,Cobalt Security Solutions,39414,Base Case,2027-03-31,115737287.0,Shaping,0.6912,79997612.77440001,Follow-On,O&M,2027
+Unmanned Aerial Systems,Argus Defense Systems,47949,Base Case,2027-03-31,149566624.0,Shaping,0.25,37391656.0,New Business,Development,2027
+Command and Control ,Spartan Tactical Technologies,25818,Base Case,2027-10-29,95143742.0,Shaping,0.297,28257691.373999998,Follow-On,Product,2027
+Solid Rocket Motors,Specter Intelligence Group,59906,Base Case,2027-01-15,88514129.0,Shaping,0.7123999999999999,63057465.49959999,Follow-On,Subscription,2027
+Command and Control ,Silverline Security Operations,40748,Base Case,2027-01-16,11932962.0,Shaping,0.9023,10767111.6126,New Business,Cost Plus Fixed Fee,2027
+Radars,Kraken Maritime Defense,70165,Upside,2025-09-27,126217403.0,Shaping,0.25,31554350.75,New Business,Subscription,2025
+Solid Rocket Motors,Specter Intelligence Group,45669,Upside,2025-09-08,99006995.0,Shaping,0.297,29405077.514999997,Follow-On,Product,2025
+Counter-Intrusion,Neptune Surveillance Systems,38161,Upside,2026-04-30,68164195.0,Shaping,0.5075,34593328.9625,New Business,Product,2026
+Command and Control ,Spartan Tactical Technologies,95623,Upside,2026-04-01,196894793.0,Shaping,0.18899999999999997,37213115.877,New Business,Product,2026
+Unmanned Aerial Systems,Aegis Cyber Solutions,10508,Upside,2026-03-31,85854267.0,Shaping,0.243,20862586.881,New Business,Product,2026
+Counter-UAS,Centauri Space Defense,54165,Upside,2026-06-30,41560359.0,Shaping,0.243,10099167.237,New Business,Product,2026
+Unmanned Aerial Systems,Crossbow Defense Networks,52929,Upside,2025-06-30,50433743.0,Shaping,0.5286,26659276.549799997,Follow-On,Development,2025
+Unmanned Aerial Systems,Argus Defense Systems,91041,Upside,2026-03-31,7992083.0,Shaping,0.43979999999999997,3514918.1034,New Business,Subscription,2026
+Unmanned Aerial Systems,Midgard Security Systems,87816,Upside,2026-09-30,76612035.0,Shaping,0.3075,23558200.7625,New Business,Subscription,2026
+Counter-Intrusion,Wraith Recon Systems,60038,Base Case,2027-10-01,22119928.0,Shaping,0.43979999999999997,9728344.3344,Follow-On,Development,2027
+Solid Rocket Motors,Jupiter Defense Platform,85649,Upside,2026-08-31,151210991.0,Shaping,0.098,14818677.118,New Business,Product,2026
+Unmanned Aerial Systems,Argus Defense Systems,53530,Upside,2025-12-31,163856270.0,Shaping,0.15,24578440.5,New Business,O&M,2025
+Counter-Intrusion,Raptor Defense Systems,27554,Upside,2025-12-29,159311452.0,Shaping,0.15,23896717.8,New Business,Product,2025
+Maritime ,Goliath Protection Systems,63520,Upside,2025-06-30,50936149.0,Shaping,0.43979999999999997,22401718.330199998,New Business,Development,2025
+Command and Control ,Zephyr Security Tech,36267,Upside,2026-06-30,20638713.0,Shaping,0.3045,6284488.1085,New Business,O&M,2026
+Counter-UAS,Chimera Strategic Solutions,71887,Base Case,2027-04-30,158808448.0,Shaping,0.8073,128206060.0704,Follow-On,Development,2027
+Counter-Intrusion,Titan Shield Networks,11268,Upside,2025-06-01,64093271.0,Shaping,0.3045,19516401.0195,New Business,Product,2025
+Command and Control ,Lionheart Defense Systems,73724,Upside,2025-10-31,87332091.0,Shaping,0.22,19213060.02,New Business,Product,2025
+Counter-UAS,Helios Tactical Solutions,92336,Upside,2026-06-30,126759825.0,Shaping,0.15,19013973.75,New Business,O&M,2026
+Solid Rocket Motors,Manticore Aerospace Tech,49425,Upside,2026-06-30,107770870.0,Shaping,0.15,16165630.5,New Business,O&M,2026
+Counter-Intrusion,Quantum Defense Corp,32767,Upside,2026-06-30,28807406.0,Shaping,0.15,4321110.899999999,New Business,O&M,2026
+Unmanned Aerial Systems,Scorpion Defense Systems,64276,Upside,2025-06-30,39751445.0,Shaping,0.45899999999999996,18245913.255,New Business,Development,2025
+Maritime ,Artemis Armament Solutions,55705,Base Case,2027-02-11,170893028.0,Shaping,0.6428,109850038.39840001,New Business,Product,2027
+Counter-UAS,Olympus Strategic Solutions,55603,Upside,2026-07-31,176446809.0,Shaping,0.22,38818297.98,New Business,O&M,2026
+Counter-UAS,Helios Tactical Solutions,22724,Base Case,2027-01-22,157309733.0,Shaping,0.6912,108732487.44960001,Follow-On,Development,2027
+Radars,Mars Defense Consortium,30818,Upside,2026-07-31,50066189.0,Shaping,0.22,11014561.58,New Business,O&M,2026
+Command and Control ,Silverline Security Operations,61192,Upside,2026-07-31,96875720.0,Shaping,0.22,21312658.4,New Business,O&M,2026
+Radars,Hades Defense Strategies,41655,Upside,2028-09-30,97743567.0,Shaping,0.3075,30056146.8525,New Business,Subscription,2028
+Unmanned Aerial Systems,Polaris Command Systems,61405,Upside,2028-09-30,52034833.0,Shaping,0.3075,16000711.147499999,New Business,Subscription,2028
+Counter-UAS,Stormbringer Defense Solutions,40237,Upside,2026-09-30,19748751.0,Shaping,0.3075,6072740.9325,New Business,Subscription,2026
+Counter-Intrusion,Gladiator Defense Corp,65966,Upside,2026-11-30,197060616.0,Shaping,0.1,19706061.6,New Business,Product,2026
+Radars,Odyssey Security Tech,99491,Upside,2026-11-30,183690695.0,Shaping,0.1,18369069.5,New Business,O&M,2026
+Command and Control ,Revenant Defense Solutions,51113,Upside,2026-10-31,60272632.0,Shaping,0.1,6027263.2,New Business,O&M,2026
+Solid Rocket Motors,Blackhawk Defense Dynamics,71130,Base Case,2027-12-12,136820430.0,Shaping,0.8,109456344.0,New Business,Product,2027
+Solid Rocket Motors,Vortex Security Dynamics,99235,Upside,2026-10-01,149229956.0,Shaping,0.5286,78882954.74159999,New Business,Subscription,2026
+Radars,Mars Defense Consortium,72363,Base Case,2027-12-20,78786285.0,Shaping,0.9023,71088864.9555,New Business,Product,2027
+Counter-UAS,Guardian Military Tech,26392,Base Case,2027-11-01,172662025.0,Shaping,0.7725,133381414.3125,Follow-On,Product,2027
+Solid Rocket Motors,Blackhawk Defense Dynamics,89666,Upside,2025-07-31,63098750.0,Shaping,0.22,13881725.0,New Business,O&M,2025
+Radars,Pinnacle Defense Innovations,24511,Upside,2029-04-30,98766924.0,Shaping,0.5075,50124213.92999999,New Business,O&M,2029
+Command and Control ,Vanguard Tactical Solutions,23769,Upside,2026-04-30,52588699.0,Shaping,0.5075,26688764.742499996,New Business,O&M,2026
+Radars,Hyperion Protection Corp,76373,Upside,2025-12-29,91807839.0,Shaping,0.15,13771175.85,New Business,Product,2025
+Unmanned Aerial Systems,Atlas Protection Analytics,73024,Upside,2028-04-30,172605901.0,Shaping,0.5075,87597494.7575,New Business,O&M,2028
+Counter-Intrusion,Orion Cyber Defense,49227,Upside,2028-11-20,142454201.0,Shaping,0.34850000000000003,49645289.0485,Follow-On,Product,2028
+Command and Control ,Cerberus Defense Group,97807,Upside,2026-11-20,42382628.0,Shaping,0.34850000000000003,14770345.858000001,Follow-On,Product,2026
+Solid Rocket Motors,Specter Intelligence Group,14862,Upside,2025-12-29,85576832.0,Shaping,0.15,12836524.799999999,New Business,Product,2025
+Maritime ,Phoenix Defense Strategies,98628,Upside,2026-09-30,173372348.0,Shaping,0.297,51491587.356,Follow-On,Product,2026
+Solid Rocket Motors,Catalyst Defense Group,25754,Base Case,2027-10-31,61752274.0,Shaping,0.6912,42683171.7888,Modification,Development,2027
+Counter-UAS,Centauri Space Defense,22712,Upside,2026-08-30,25619774.0,Shaping,0.297,7609072.878,Follow-On,Development,2026
+Counter-Intrusion,Raptor Defense Systems,55205,Upside,2028-03-15,154882726.0,Shaping,0.17550000000000002,27181918.413000003,Follow-On,Product,2028
+Radars,Hyperion Protection Corp,49236,Upside,2028-03-15,9208823.0,Shaping,0.132,1215564.6360000002,Follow-On,Product,2028
+Command and Control ,Nimbus Security Networks,10043,Upside,2029-03-15,21851546.0,Shaping,0.132,2884404.072,Follow-On,Product,2029
+Counter-UAS,Helios Tactical Solutions,55471,Upside,2029-03-15,131316333.0,Shaping,0.175,22980358.275,Follow-On,Product,2029
+Maritime ,Vulcan Armament Corp,69699,Upside,2025-07-31,50731260.0,Shaping,0.22,11160877.2,New Business,Product,2025
+Counter-Intrusion,Skyfire Defense Solutions,45088,Base Case,2027-04-01,97107680.0,Shaping,0.7123999999999999,69179511.232,New Business,Product,2027
+Counter-Intrusion,Wraith Recon Systems,11221,Base Case,2027-04-01,159029349.0,Shaping,0.7725,122850172.10249999,Option,Development,2027
+Counter-Intrusion,Valkyrie Defense Technologies,96690,Upside,2025-12-01,119932348.0,Shaping,0.0825,9894418.71,RFI/White Paper,Development,2025
+Solid Rocket Motors,Echo Combat Systems,62609,Base Case,2027-08-01,199519514.0,Shaping,0.5075,101256153.35499999,New Business,Product,2027
+Maritime ,Draco Armament Research,55585,Upside,2025-12-29,56056725.0,Shaping,0.15,8408508.75,New Business,O&M,2025
+Counter-Intrusion,Wraith Recon Systems,42847,Upside,2026-01-01,87192790.0,Shaping,0.07,6103495.300000001,New Business,O&M,2026
+Radars,Blitzkrieg Defense Innovations,81448,Upside,2026-12-31,120321884.0,Shaping,0.07,8422531.88,New Business,O&M,2026
+Maritime ,Fortitude Defense Operations,37890,Upside,2028-12-31,196227648.0,Shaping,0.07,13735935.360000001,New Business,O&M,2028
+Command and Control ,Cobalt Security Solutions,34982,Upside,2025-09-30,24865577.0,Shaping,0.297,7385076.369,Follow-On,Product,2025
+Counter-Intrusion,Orion Cyber Defense,41247,Upside,2026-06-30,152520624.0,Shaping,0.243,37062511.632,New Business,O&M,2026
+Radars,Phantom Recon Tech,96717,Upside,2028-06-30,161818894.0,Shaping,0.243,39321991.242,New Business,O&M,2028
+Command and Control ,Cerberus Defense Group,56083,Upside,2028-06-30,163249964.0,Shaping,0.243,39669741.252,New Business,Product,2028
+Maritime ,Artemis Armament Solutions,21957,Upside,2029-06-30,77277862.0,Shaping,0.243,18778520.466,New Business,O&M,2029
+Unmanned Aerial Systems,Midgard Security Systems,99760,Upside,2025-07-31,30183511.0,Shaping,0.22,6640372.42,New Business,O&M,2025
+Counter-UAS,Onyx Defense Strategies,89808,Base Case,2027-06-01,193688761.0,Shaping,0.513,99362334.393,New Business,Product,2027
+Solid Rocket Motors,Echo Combat Systems,74849,Base Case,2027-05-31,122896384.0,Shaping,0.8073,99214250.8032,Follow-On,O&M,2027
+Solid Rocket Motors,Templar Security Solutions,15754,Upside,2025-12-31,66508037.0,Shaping,0.07,4655562.590000001,New Business,Product,2025
+Counter-Intrusion,SaberEdge Security,74423,Upside,2026-08-03,99728011.0,Shaping,0.297,29619219.266999997,New Business,Product,2026
+Counter-Intrusion,Warrior Defense Systems,82587,Base Case,2027-06-30,126095011.0,Shaping,0.7725,97408395.9975,Follow-On,Product,2027
+Maritime ,Tempest Defense Innovations,37053,Upside,2026-03-27,5491869.0,Shaping,0.4274,2347224.8106,New Business,Development,2026
+Unmanned Aerial Systems,Scorpion Defense Systems,19339,Upside,2028-03-31,168564570.0,Shaping,0.4274,72044497.218,New Business,Development,2028
+Counter-UAS,Warlock Combat Solutions,43050,Upside,2029-03-30,132801039.0,Shaping,0.4274,56759164.0686,New Business,Development,2029
+Radars,Inferno Protection Tech,73056,Upside,2026-06-30,190171836.0,Shaping,0.3006,57165653.901599996,Follow-On,Development,2026
+Command and Control ,Reaper Defense Innovations,52221,Upside,2026-10-01,10949816.0,Shaping,0.5286,5788072.7376,New Business,Subscription,2026
+Command and Control ,Spartan Tactical Technologies,37030,Base Case,2027-04-30,104972347.0,Shaping,0.9023,94716548.6981,Follow-On,O&M,2027
+Counter-UAS,Guardian Military Tech,12160,Upside,2025-08-31,10981182.0,Shaping,0.098,1076155.8360000001,New Business,Product,2025
+Radars,Avalanche Defense Technologies,37453,Upside,2026-06-30,121571392.0,Shaping,0.297,36106703.423999995,Follow-On,Product,2026
+Command and Control ,Maelstrom Defense Group,76425,Upside,2026-09-30,128541407.0,Shaping,0.21,26993695.47,Follow-On,Product,2026
+Command and Control ,Nimbus Security Networks,80421,Upside,2025-12-31,6481975.0,Shaping,0.15,972296.25,New Business,O&M,2025
+Maritime ,Tempest Defense Innovations,61382,Base Case,2029-12-20,134308485.0,Qualification,0.7123999999999999,95681364.71399999,New Business,Product,2029
+Command and Control ,Horizon Warfare Technologies,56160,Base Case,2029-06-11,197467267.0,Qualification,0.9,177720540.3,New Business,Subscription,2029
+Counter-Intrusion,Quantum Defense Corp,45090,Base Case,2029-12-23,191850466.0,Qualification,0.9023,173106675.4718,Follow-On,Cost Plus Fixed Fee,2029
+Unmanned Aerial Systems,Stealth Combat Analytics,87633,Base Case,2029-03-09,180672626.0,Qualification,0.9023,163020910.4398,Option,O&M,2029
+Solid Rocket Motors,Catalyst Defense Group,68776,Base Case,2029-09-21,182287437.0,Qualification,0.36590000000000006,66698973.19830001,Option,Product,2029
+Radars,Icarus AeroTech,93025,Base Case,2029-05-17,197469494.0,Qualification,0.7725,152545184.11499998,Follow-On,Product,2029
+Unmanned Aerial Systems,Basilisk Armament Technologies,58093,Base Case,2029-07-31,196694704.0,Qualification,0.7725,151946658.84,Subscription Renewal,O&M,2029
+Unmanned Aerial Systems,Wildcat Tactical Solutions,79407,Base Case,2029-06-30,58396990.0,Qualification,0.6099,35616324.201,New Business,O&M,2029
+Counter-Intrusion,Quantum Defense Corp,98402,Base Case,2029-12-31,192639019.0,Qualification,0.7725,148813642.17749998,Subscription Renewal,O&M,2029
+Maritime ,Firestorm Defense Corp,70609,Base Case,2029-10-01,177471674.0,Qualification,0.7725,137096868.165,Subscription Renewal,Subscription,2029
+Command and Control ,Revenant Defense Solutions,14424,Base Case,2029-06-30,196531395.0,Qualification,0.6912,135842500.224,Follow-On,O&M,2029
+Command and Control ,Vanguard Tactical Solutions,93981,Base Case,2029-12-31,191809615.0,Qualification,0.6912,132578805.88800001,New Business,Product,2029
+Radars,Avalanche Defense Technologies,19160,Base Case,2029-09-01,145335084.0,Qualification,0.9023,131135846.2932,Modification,O&M,2029
+Radars,Hyperion Protection Corp,80953,Base Case,2029-07-31,183982749.0,Qualification,0.297,54642876.452999994,Follow-On,Subscription,2029
+Counter-UAS,Apex Command Technologies,26741,Base Case,2027-05-12,197761289.0,Qualification,0.33,65261225.370000005,Follow-On,Product,2029
+Radars,Pinnacle Defense Innovations,75340,Base Case,2027-07-31,97338058.0,Qualification,0.5286,51452897.458799995,Follow-On,Product,2029
+Command and Control ,Cerberus Defense Group,34178,Base Case,2029-01-04,57610137.0,Qualification,0.513,29554000.281,Follow-On,Product,2029
+Maritime ,Artemis Armament Solutions,45304,Base Case,2029-03-02,6906354.0,Qualification,0.513,3542959.602,Follow-On,Product,2029
+Maritime ,Prometheus Defense Innovations,37680,Base Case,2029-02-22,48174491.0,Qualification,0.34,16379326.940000001,Follow-On,Cost Plus Fixed Fee,2029
+Unmanned Aerial Systems,Aegis Cyber Solutions,32188,Base Case,2029-04-16,144674745.0,Qualification,0.6099,88237126.9755,Follow-On,Cost Plus Fixed Fee,2029
+Counter-Intrusion,Raptor Defense Systems,47639,Base Case,2029-07-31,132580982.0,Qualification,0.7123999999999999,94450691.57679999,Follow-On,Cost Plus Fixed Fee,2029
+Solid Rocket Motors,Blackhawk Defense Dynamics,94941,Base Case,2029-09-26,28038124.0,Qualification,0.35100000000000003,9841381.524,Follow-On,Product,2029
+Command and Control ,Nimbus Security Networks,99969,Base Case,2029-10-29,110029460.0,Qualification,0.6912,76052362.752,New Business,Product,2029
+Maritime ,Draco Armament Research,41841,Base Case,2029-11-12,39652070.0,Qualification,0.6912,27407510.784,New Business,Product,2029
+Unmanned Aerial Systems,Argus Defense Systems,72392,Base Case,2029-12-07,49706243.0,Qualification,0.6912,34356955.1616,New Business,Product,2029
+Counter-UAS,Helios Tactical Solutions,79382,Base Case,2029-04-02,192813936.0,Qualification,0.5751,110887294.59359999,Follow-On,Development,2029
+Solid Rocket Motors,Manticore Aerospace Tech,68492,Base Case,2029-12-07,145344308.0,Qualification,0.5075,73762236.30999999,Follow-On,Product,2029
+Unmanned Aerial Systems,Paladin Strategic Operations,93469,Base Case,2029-03-01,37716489.0,Qualification,0.7123999999999999,26869226.763599996,New Business,Cost Plus Fixed Fee,2029
+Counter-Intrusion,Neptune Surveillance Systems,40448,Base Case,2029-08-01,120090589.0,Qualification,0.7123999999999999,85552535.6036,New Business,Cost Plus Fixed Fee,2029
+Solid Rocket Motors,Blackhawk Defense Dynamics,49413,Base Case,2029-03-31,61258630.0,Qualification,0.6428,39377047.364,New Business,Product,2029
+Solid Rocket Motors,Nomad Intelligence Systems,81497,Base Case,2029-01-30,52790299.0,Qualification,0.6912,36488654.668800004,New Business,Development,2029
+Counter-Intrusion,Gladiator Defense Corp,41365,Base Case,2029-01-30,35593147.0,Qualification,0.6912,24601983.2064,New Business,Product,2029
+Solid Rocket Motors,Iron Fortress Defense,68490,Base Case,2029-01-01,50458717.0,Qualification,0.5124,25855046.5908,New Business,Subscription,2029
+Counter-Intrusion,Minerva Intelligence Systems,76461,Base Case,2029-09-21,89828532.0,Qualification,0.405,36380555.46,Follow-On,Product,2029
+Command and Control ,Silverline Security Operations,38713,Upside,2027-03-31,185635911.0,Qualification,0.35100000000000003,65158204.76100001,New Business,O&M,2027
+Maritime ,Tempest Defense Innovations,12839,Upside,2027-10-31,157528249.0,Qualification,0.36590000000000006,57639586.30910001,New Business,Development,2027
+Counter-UAS,Stormbringer Defense Solutions,56540,Upside,2027-12-15,9025873.0,Qualification,0.405,3655478.5650000004,Follow-On,Product,2027
+Counter-UAS,Patriot Defense Solutions,56602,Upside,2027-02-15,58442204.0,Qualification,0.1,5844220.4,New Business,Product,2027
+Maritime ,Fortitude Defense Operations,59460,Upside,2027-10-29,180315935.0,Qualification,0.3,54094780.5,New Business,Product,2027
+Counter-UAS,Sentinel Security Dynamics,23426,Upside,2027-07-27,156942016.0,Qualification,0.05,7847100.800000001,New Business,O&M,2027
+Counter-Intrusion,Neptune Surveillance Systems,20831,Upside,2027-10-15,54305663.0,Qualification,0.25,13576415.75,Option,Development,2027
+Maritime ,Phoenix Defense Strategies,45799,Upside,2027-09-21,124580491.0,Qualification,0.405,50455098.855000004,New Business,Product,2027
+Solid Rocket Motors,Titanium Security Group,74980,Base Case,2028-12-20,36546317.0,Qualification,0.7123999999999999,26035596.230799995,New Business,Product,2028
+Command and Control ,Revenant Defense Solutions,93032,Base Case,2028-11-30,169722861.0,Qualification,0.6174000000000001,104786894.3814,Subscription Renewal,Product,2028
+Counter-UAS,Centauri Space Defense,93597,Upside,2027-01-29,78531992.0,Qualification,0.8073,63398877.1416,New Business,Development,2027
+Counter-Intrusion,Neptune Surveillance Systems,72369,Upside,2027-10-08,16818733.0,Qualification,0.21,3531933.9299999997,New Business,Product,2027
+Solid Rocket Motors,Valiant Defense Co.,37805,Upside,2027-09-30,37505425.0,Qualification,0.2255,8457473.3375,Follow-On,Product,2027
+Command and Control ,Spartan Tactical Technologies,46807,Upside,2027-09-30,2386198.0,Qualification,0.081,193282.038,New Business,Product,2027
+Counter-UAS,Stormbringer Defense Solutions,58990,Base Case,2029-08-14,136577578.0,Qualification,0.36590000000000006,49973735.79020001,Option,Product,2028
+Counter-UAS,Stormbringer Defense Solutions,84170,Upside,2027-12-17,20107536.0,Qualification,0.3075,6183067.32,New Business,Subscription,2027
+Counter-Intrusion,Warrior Defense Systems,47162,Base Case,2029-10-28,21136212.0,Qualification,0.36590000000000006,7733739.970800001,Option,Product,2028
+Maritime ,Zenith Warfare Technologies,30006,Upside,2027-11-01,53216875.0,Qualification,0.0525,2793885.9375,New Business,Product,2027
+Counter-Intrusion,Legacy Combat Systems,53476,Base Case,2029-12-06,160277709.0,Qualification,0.6099,97753374.7191,New Business,Product,2028
+Maritime ,Phoenix Defense Strategies,35057,Upside,2027-08-01,60968604.0,Qualification,0.3721,22686417.5484,New Business,Product,2027
+Counter-UAS,Osiris Combat Solutions,25162,Upside,2027-11-01,15168508.0,Qualification,0.3045,4618810.686,New Business,O&M,2027
+Maritime ,Nightshade Security Ops,98455,Base Case,2028-02-20,8748345.0,Qualification,0.6099,5335615.6155,New Business,O&M,2028
+Solid Rocket Motors,Specter Intelligence Group,26946,Base Case,2028-07-31,142420191.0,Qualification,0.297,42298796.727,Follow-On,Subscription,2028
+Command and Control ,Nimbus Security Networks,32498,Upside,2027-07-01,194346435.0,Qualification,0.26649999999999996,51793324.927499995,New Business,Product,2027
+Solid Rocket Motors,Mercury Tactical Solutions,10971,Base Case,2028-03-19,156153035.0,Qualification,0.8073,126062345.15550001,New Business,Development,2028
+Counter-Intrusion,Skyfire Defense Solutions,83979,Upside,2027-01-04,178930605.0,Qualification,0.6099,109129775.9895,New Business,Development,2027
+Maritime ,Tempest Defense Innovations,59967,Base Case,2028-09-13,187624952.0,Qualification,0.6428,120605319.1456,New Business,Development,2028
+Radars,Blitzkrieg Defense Innovations,88161,Base Case,2028-07-06,152445125.0,Qualification,0.7725,117763859.0625,Subscription Renewal,O&M,2028
+Unmanned Aerial Systems,Stealth Combat Analytics,94159,Base Case,2028-12-10,54005624.0,Qualification,0.35100000000000003,18955974.024,Follow-On,Product,2028
+Counter-Intrusion,Warrior Defense Systems,74792,Base Case,2028-08-07,172712105.0,Qualification,0.6428,111019341.09400001,Follow-On,O&M,2028
+Maritime ,Fortitude Defense Operations,42065,Base Case,2027-04-30,124875980.0,Qualification,0.35,43706593.0,Follow-On,Product,2028
+Counter-Intrusion,Titan Shield Networks,43310,Base Case,2027-11-26,33617449.0,Qualification,0.5286,17770183.5414,Follow-On,Product,2028
+Radars,Avalanche Defense Technologies,43970,Base Case,2028-03-16,150138508.0,Qualification,0.6099,91569476.0292,New Business,Product,2028
+Unmanned Aerial Systems,Stealth Combat Analytics,34836,Upside,2029-01-13,167482146.0,Qualification,0.9023,151119140.3358,Follow-On,Product,2029
+Maritime ,Firestorm Defense Corp,69430,Base Case,2028-08-09,14546470.0,Qualification,0.5075,7382333.524999999,Subscription Renewal,O&M,2028
+Unmanned Aerial Systems,Basilisk Armament Technologies,45428,Base Case,2028-09-03,103037944.0,Qualification,0.8073,83182532.1912,Follow-On,Cost Plus Fixed Fee,2028
+Maritime ,Vulcan Armament Corp,58674,Base Case,2029-06-27,110269802.0,Qualification,0.35100000000000003,38704700.502000004,Follow-On,Product,2028
+Counter-Intrusion,Titan Shield Networks,77447,Base Case,2028-05-31,176046875.0,Qualification,0.5075,89343789.06249999,Subscription Renewal,O&M,2028
+Maritime ,Goliath Protection Systems,30178,Base Case,2028-05-01,170509262.0,Qualification,0.5193,88545459.75659999,Follow-On,Product,2028
+Solid Rocket Motors,Nova Intel Systems,80419,Base Case,2028-05-31,174181063.0,Qualification,0.5075,88396889.4725,Subscription Renewal,O&M,2028
+Maritime ,Phoenix Defense Strategies,86254,Base Case,2028-03-31,112739264.0,Qualification,0.7725,87091081.44,Subscription Renewal,O&M,2028
+Solid Rocket Motors,Titanium Security Group,30289,Base Case,2028-05-01,124661243.0,Qualification,0.6912,86165851.16160001,New Business,Development,2028
+Maritime ,Goliath Protection Systems,45334,Base Case,2028-03-31,182896649.0,Qualification,0.45,82303492.05,New Business,Development,2028
+Command and Control ,Hawkeye Security Systems,91467,Base Case,2028-03-31,157441064.0,Qualification,0.513,80767265.832,Follow-On,Development,2028
+Maritime ,Artemis Armament Solutions,69386,Base Case,2028-03-01,80583152.0,Qualification,0.7123999999999999,57407437.484799996,New Business,Cost Plus Fixed Fee,2028
+Solid Rocket Motors,Mercury Tactical Solutions,43690,Base Case,2028-08-01,178514248.0,Qualification,0.7123999999999999,127173550.27519998,New Business,Cost Plus Fixed Fee,2028
+Counter-UAS,Olympus Strategic Solutions,57153,Base Case,2028-03-31,86024559.0,Qualification,0.6428,55296586.5252,New Business,Product,2028
+Counter-Intrusion,Valkyrie Defense Technologies,79281,Base Case,2028-03-15,57534051.0,Qualification,0.6912,39767536.0512,New Business,Development,2028
+Unmanned Aerial Systems,Stealth Combat Analytics,59596,Base Case,2028-09-30,198772938.0,Qualification,0.6912,137391854.74560001,New Business,Development,2028
+Counter-UAS,Patriot Defense Solutions,36487,Base Case,2028-01-30,47349935.0,Qualification,0.6912,32728275.072,New Business,Product,2028
+Solid Rocket Motors,Vortex Security Dynamics,32072,Base Case,2028-06-30,1661733.0,Qualification,0.297,493534.701,New Business,Product,2028
+Counter-UAS,Onyx Defense Strategies,15978,Base Case,2028-01-01,38562313.0,Qualification,0.5124,19759329.181199998,New Business,Subscription,2028
+Counter-UAS,Onyx Defense Strategies,62140,Base Case,2028-10-01,40010094.0,Qualification,0.6912,27654976.9728,Follow-On,Product,2028
+Solid Rocket Motors,Valiant Defense Co.,79826,Base Case,2028-09-20,137066412.0,Qualification,0.405,55511896.86000001,Follow-On,Product,2028
+Unmanned Aerial Systems,Scorpion Defense Systems,13758,Base Case,2026-12-20,124464839.0,Qualification,0.7123999999999999,88668751.30359998,New Business,Product,2026
+Radars,Inferno Protection Tech,80819,Base Case,2026-03-31,64857369.0,Qualification,0.182,11804041.158,Follow-On,Product,2026
+Solid Rocket Motors,Nomad Intelligence Systems,84654,Base Case,2026-04-15,67320463.0,Qualification,0.6174000000000001,41563653.8562,Subscription Renewal,Product,2026
+Counter-Intrusion,Gladiator Defense Corp,49311,Base Case,2026-11-27,57563101.0,Qualification,0.6174000000000001,35539458.5574,Subscription Renewal,Product,2026
+Maritime ,Nightshade Security Ops,55730,Base Case,2026-04-02,21271253.0,Qualification,0.45,9572063.85,Option,Subscription,2026
+Solid Rocket Motors,Nova Intel Systems,44749,Base Case,2026-02-27,188744553.0,Qualification,0.126,23781813.678,New Business,Subscription,2026
+Unmanned Aerial Systems,Aegis Cyber Solutions,37081,Base Case,2026-03-31,75406414.0,Qualification,0.182,13723967.348,Follow-On,Product,2026
+Counter-UAS,Centauri Space Defense,25177,Base Case,2026-03-31,148154237.0,Qualification,0.182,26964071.134,Follow-On,Product,2026
+Solid Rocket Motors,Specter Intelligence Group,79026,Base Case,2026-06-30,61847488.0,Qualification,0.6099,37720782.9312,New Business,Product,2026
+Counter-Intrusion,Raptor Defense Systems,83053,Base Case,2026-06-30,66027885.0,Qualification,0.6099,40270407.0615,New Business,Product,2026
+Maritime ,Barricade Security Tech,30646,Base Case,2029-06-30,147479993.0,Qualification,0.405,59729397.16500001,New Business,Product,2026
+Radars,Icarus AeroTech,81386,Base Case,2026-06-30,100369558.0,Qualification,0.5751,57722532.80579999,Follow-On,Product,2026
+Command and Control ,Zephyr Security Tech,41878,Base Case,2026-04-30,177301497.0,Qualification,0.6428,113969402.27160001,New Business,Cost Plus Fixed Fee,2026
+Solid Rocket Motors,Nova Intel Systems,16417,Base Case,2026-06-30,131998635.0,Qualification,0.6099,80505967.4865,Follow-On,Product,2026
+Counter-Intrusion,Titan Shield Networks,95761,Base Case,2026-06-30,114983096.0,Qualification,0.6099,70128190.2504,Follow-On,Product,2026
+Radars,Pinnacle Defense Innovations,77617,Base Case,2026-06-30,95090848.0,Qualification,0.6099,57995908.195199996,Follow-On,Product,2026
+Unmanned Aerial Systems,Scorpion Defense Systems,85205,Base Case,2028-10-20,191339498.0,Qualification,0.297,56827830.905999996,Follow-On,Product,2026
+Command and Control ,Reaper Defense Innovations,27872,Base Case,2028-10-27,124124710.0,Qualification,0.35100000000000003,43567773.21,Follow-On,Product,2026
+Solid Rocket Motors,Nova Intel Systems,96293,Base Case,2027-12-15,130549336.0,Qualification,0.5286,69008379.0096,Follow-On,Development,2026
+Maritime ,Zenith Warfare Technologies,28991,Base Case,2027-08-02,79848123.0,Qualification,0.513,40962087.099,Follow-On,Product,2026
+Unmanned Aerial Systems,Atlas Protection Analytics,55133,Base Case,2027-07-31,26755178.0,Qualification,0.513,13725406.314000001,Follow-On,O&M,2026
+Unmanned Aerial Systems,Stealth Combat Analytics,44851,Base Case,2026-08-03,169747646.0,Qualification,0.55,93361205.30000001,Subscription Renewal,Subscription,2026
+Counter-UAS,Patriot Defense Solutions,62142,Base Case,2026-09-30,60088061.0,Qualification,0.297,17846154.117,New Business,Product,2026
+Counter-Intrusion,Legacy Combat Systems,99098,Base Case,2028-02-18,45187170.0,Qualification,0.9023,40772383.491,Modification,O&M,2026
+Counter-UAS,Apex Command Technologies,16882,Base Case,2028-11-06,110803671.0,Qualification,0.7725,85595835.8475,Follow-On,O&M,2026
+Solid Rocket Motors,Nova Intel Systems,62162,Base Case,2028-12-23,144984915.0,Qualification,0.7725,112000846.83749999,Follow-On,O&M,2026
+Counter-Intrusion,Titan Shield Networks,42909,Base Case,2028-04-08,147091668.0,Qualification,0.7725,113628313.53,Follow-On,O&M,2026
+Maritime ,Firestorm Defense Corp,81933,Base Case,2026-09-30,1912261.0,Qualification,0.7725,1477221.6224999998,Follow-On,O&M,2026
+Counter-Intrusion,Orion Cyber Defense,36111,Base Case,2026-03-31,122840152.0,Qualification,0.182,22356907.664,Follow-On,Product,2026
+Counter-Intrusion,Orion Cyber Defense,65358,Base Case,2026-03-01,194725936.0,Qualification,0.7123999999999999,138722756.80639997,New Business,Cost Plus Fixed Fee,2026
+Radars,Phantom Recon Tech,93200,Base Case,2026-08-01,148120640.0,Qualification,0.7123999999999999,105521143.93599999,New Business,Cost Plus Fixed Fee,2026
+Command and Control ,Nimbus Security Networks,98279,Base Case,2026-01-31,84095018.0,Qualification,0.43979999999999997,36984988.9164,Follow-On,Cost Plus Fixed Fee,2026
+Maritime ,Draco Armament Research,62818,Base Case,2026-07-31,112765801.0,Qualification,0.43979999999999997,49594399.2798,Follow-On,Cost Plus Fixed Fee,2026
+Solid Rocket Motors,Manticore Aerospace Tech,71305,Base Case,2026-01-31,104428193.0,Qualification,0.6912,72180767.0016,Follow-On,Cost Plus Fixed Fee,2026
+Counter-Intrusion,Quantum Defense Corp,58128,Base Case,2026-07-31,186420252.0,Qualification,0.6912,128853678.1824,Follow-On,Cost Plus Fixed Fee,2026
+Counter-Intrusion,Skyfire Defense Solutions,34415,Upside,2025-07-31,108845086.0,Qualification,0.9023,98210921.0978,Follow-On,Product,2025
+Counter-Intrusion,Warrior Defense Systems,57084,Base Case,2026-09-30,24796948.0,Qualification,0.6912,17139650.4576,New Business,Development,2026
+Radars,Inferno Protection Tech,79966,Base Case,2026-09-30,90420062.0,Qualification,0.6912,62498346.8544,New Business,Product,2026
+Unmanned Aerial Systems,Crossbow Defense Networks,48573,Base Case,2026-06-30,151229189.0,Qualification,0.297,44915069.133,New Business,Development,2026
+Maritime ,Nightshade Security Ops,69832,Base Case,2026-01-01,18828483.0,Qualification,0.5124,9647714.689199999,New Business,Subscription,2026
+Radars,Falcon Aeronautics,26279,Base Case,2026-03-01,4818814.0,Qualification,0.8073,3890228.5422,Follow-On,Product,2026
+Command and Control ,Cobalt Security Solutions,63282,Base Case,2026-03-01,139395822.0,Qualification,0.8073,112534247.1006,Follow-On,Product,2026
+Maritime ,Phoenix Defense Strategies,58386,Base Case,2026-03-01,13690538.0,Qualification,0.8073,11052371.3274,Follow-On,Product,2026
+Maritime ,Nightshade Security Ops,70107,Base Case,2026-10-01,11169923.0,Qualification,0.6912,7720650.777600001,Follow-On,Product,2026
+Unmanned Aerial Systems,Griffin Military Tech,97159,Base Case,2026-09-25,33202348.0,Qualification,0.405,13446950.940000001,Follow-On,Product,2026
+Radars,Mars Defense Consortium,76026,Upside,2025-06-30,148100511.0,Qualification,0.6428,95199008.47080001,Modification,Product,2025
+Radars,Blitzkrieg Defense Innovations,56382,Base Case,2029-02-07,177792187.0,Qualification,0.43979999999999997,78193003.84259999,New Business,Product,2029
+Command and Control ,Cobalt Security Solutions,67540,Base Case,2029-07-31,110284391.0,Qualification,0.6912,76228571.0592,New Business,Product,2029
+Radars,Pinnacle Defense Innovations,72278,Base Case,2029-08-05,109824028.0,Qualification,0.6912,75910368.1536,New Business,Product,2029
+Counter-UAS,Onyx Defense Strategies,51613,Base Case,2029-09-16,124747312.0,Qualification,0.5751,71742179.13119999,Follow-On,O&M,2029
+Unmanned Aerial Systems,StratDef Solutions,59271,Base Case,2029-11-25,176250136.0,Qualification,0.405,71381305.08,New Business,Development,2029
+Maritime ,Fortitude Defense Operations,30610,Base Case,2029-05-02,87388085.0,Qualification,0.7725,67507295.6625,Follow-On,Product,2029
+Solid Rocket Motors,Echo Combat Systems,28629,Base Case,2029-06-06,94524045.0,Qualification,0.7123999999999999,67338929.65799999,Modification,Development,2029
+Solid Rocket Motors,Mercury Tactical Solutions,69109,Base Case,2029-12-04,129080102.0,Qualification,0.5075,65508151.76499999,New Business,Development,2029
+Maritime ,Zenith Warfare Technologies,68327,Base Case,2029-05-06,90562697.0,Qualification,0.6912,62596936.1664,New Business,Product,2029
+Maritime ,Draco Armament Research,22557,Base Case,2029-10-28,177060448.0,Qualification,0.35100000000000003,62148217.248,New Business,Product,2029
+Command and Control ,Zephyr Security Tech,78412,Base Case,2029-04-04,105153256.0,Qualification,0.5751,60473637.525599994,Follow-On,Product,2029
+Radars,Odyssey Security Tech,54412,Base Case,2025-07-31,97338237.0,Qualification,0.6174000000000001,60096627.52380001,New Business,Development,2025
+Maritime ,Sabre Tactical Operations,17417,Base Case,2025-08-04,106278707.0,Qualification,0.55,58453288.85,Subscription Renewal,Subscription,2025
+Unmanned Aerial Systems,Basilisk Armament Technologies,26756,Base Case,2025-06-30,95248066.0,Qualification,0.6099,58091795.4534,New Business,Cost Plus Fixed Fee,2025
+Counter-UAS,Daemon Defense Networks,35798,Base Case,2025-09-30,194697594.0,Qualification,0.297,57825185.418,New Business,Product,2025
+Solid Rocket Motors,Templar Security Solutions,65493,Base Case,2025-08-01,128005232.0,Qualification,0.43979999999999997,56296701.033599995,New Business,Product,2025
+Maritime ,Phoenix Defense Strategies,99767,Base Case,2025-04-30,90626194.0,Qualification,0.6174000000000001,55952612.17560001,New Business,Development,2025
+Maritime ,Fortitude Defense Operations,49976,Base Case,2025-11-03,127213283.0,Qualification,0.43979999999999997,55948401.8634,New Business,Product,2025
+Radars,Hades Defense Strategies,23663,Base Case,2025-04-30,156172810.0,Qualification,0.35100000000000003,54816656.31,Follow-On,Development,2025
+Counter-Intrusion,Legacy Combat Systems,84255,Base Case,2025-05-30,88513644.0,Qualification,0.6099,53984471.4756,Follow-On,Development,2025
+Solid Rocket Motors,Manticore Aerospace Tech,72991,Base Case,2025-04-30,196273853.0,Qualification,0.26649999999999996,52306981.824499995,New Business,Development,2025
+Counter-Intrusion,Wraith Recon Systems,70000,Base Case,2025-12-31,67164459.0,Qualification,0.7725,51884544.5775,Subscription Renewal,O&M,2025
+Radars,Odyssey Security Tech,74439,Base Case,2025-09-30,74918503.0,Qualification,0.6912,51783669.273600005,New Business,Development,2025
+Command and Control ,Cobalt Security Solutions,83573,Base Case,2025-10-31,162399325.0,Qualification,0.3075,49937792.4375,New Business,Product,2025
+Command and Control ,Nimbus Security Networks,37121,Base Case,2025-04-01,141844038.0,Qualification,0.35100000000000003,49787257.33800001,New Business,Development,2025
+Unmanned Aerial Systems,Basilisk Armament Technologies,36292,Base Case,2025-09-30,167036504.0,Qualification,0.297,49609841.688,New Business,Product,2025
+Counter-UAS,Sentinel Security Dynamics,94311,Base Case,2025-04-30,64205691.0,Qualification,0.7725,49598896.2975,Modification,O&M,2025
+Unmanned Aerial Systems,Griffin Military Tech,64091,Base Case,2025-09-30,84488817.0,Qualification,0.5751,48589518.65669999,Follow-On,Product,2025
+Maritime ,Tempest Defense Innovations,97980,Base Case,2025-09-30,162250460.0,Qualification,0.297,48188386.62,New Business,Product,2025
+Counter-UAS,Centauri Space Defense,85535,Base Case,2025-10-31,82126697.0,Qualification,0.5751,47231063.444699995,Option,Product,2025
+Unmanned Aerial Systems,Havoc Tactical Solutions,97592,Base Case,2025-08-29,130729274.0,Qualification,0.3553,46448111.0522,New Business,Product,2025
+Command and Control ,Lionheart Defense Systems,30356,Base Case,2025-06-01,89389177.0,Qualification,0.513,45856647.801,New Business,Product,2025
+Maritime ,Goliath Protection Systems,22308,Base Case,2025-07-31,62396163.0,Qualification,0.7123999999999999,44451026.521199994,New Business,Cost Plus Fixed Fee,2025
+Counter-UAS,Apex Command Technologies,81657,Base Case,2025-04-30,57450399.0,Qualification,0.7725,44380433.2275,Follow-On,Development,2025
+Maritime ,Tempest Defense Innovations,36001,Base Case,2025-08-01,48717961.0,Qualification,0.9023,43958216.2103,Modification,Development,2025
+Counter-Intrusion,Wraith Recon Systems,71919,Base Case,2025-12-31,50565645.0,Qualification,0.7725,39061960.762499996,Subscription Renewal,O&M,2025
+Unmanned Aerial Systems,StratDef Solutions,23128,Base Case,2025-09-30,49464120.0,Qualification,0.7725,38211032.699999996,Follow-On,Product,2025
+Command and Control ,Zephyr Security Tech,50211,Base Case,2025-12-19,101620121.0,Qualification,0.3721,37812847.0241,Follow-On,Product,2025
+Counter-Intrusion,Quantum Defense Corp,58290,Base Case,2025-04-30,64941671.0,Qualification,0.5751,37347954.99209999,New Business,Product,2025
+Unmanned Aerial Systems,Atlas Protection Analytics,41279,Base Case,2025-06-30,52222691.0,Qualification,0.6912,36096324.019200005,New Business,Product,2025
+Radars,Eagle Eye Defense Solutions,94078,Base Case,2025-02-07,58432394.0,Qualification,0.5751,33604469.7894,Option,Development,2025
+Solid Rocket Motors,Templar Security Solutions,33754,Base Case,2025-09-30,110930194.0,Qualification,0.297,32946267.617999997,New Business,Product,2025
+Counter-UAS,Sentinel Security Dynamics,87528,Base Case,2025-09-30,46874908.0,Qualification,0.6912,32399936.4096,New Business,Product,2025
+Counter-UAS,Helios Tactical Solutions,50927,Base Case,2025-07-31,45570068.0,Qualification,0.6912,31498031.0016,Follow-On,Cost Plus Fixed Fee,2025
+Unmanned Aerial Systems,StratDef Solutions,75550,Base Case,2025-11-03,69634659.0,Qualification,0.43979999999999997,30625323.028199997,New Business,Product,2025
+Command and Control ,Zephyr Security Tech,36730,Base Case,2025-09-30,36334106.0,Qualification,0.7725,28068096.884999998,Follow-On,Product,2025
+Solid Rocket Motors,Specter Intelligence Group,59769,Base Case,2025-06-02,122796421.0,Qualification,0.2255,27690592.9355,Follow-On,Subscription,2025
+Solid Rocket Motors,Valiant Defense Co.,52037,Base Case,2025-06-13,92584556.0,Qualification,0.297,27497613.132,New Business,Development,2025
+Counter-Intrusion,Minerva Intelligence Systems,57089,Upside,2025-06-30,83709480.0,Qualification,0.6428,53808453.744,Modification,Product,2025
+Command and Control ,Hawkeye Security Systems,10131,Base Case,2025-09-30,39451210.0,Qualification,0.6912,27268676.352,New Business,Development,2025
+Command and Control ,Revenant Defense Solutions,43806,Base Case,2025-11-14,52398911.0,Qualification,0.5075,26592447.332499996,New Business,Product,2025
+Counter-Intrusion,Skyfire Defense Solutions,24203,Base Case,2025-11-28,73016582.0,Qualification,0.35100000000000003,25628820.282,New Business,Product,2025
+Counter-UAS,Stormbringer Defense Solutions,69549,Base Case,2025-05-16,138748590.0,Qualification,0.1845,25599114.855,New Business,Product,2025
+Counter-Intrusion,Gladiator Defense Corp,94161,Base Case,2025-08-31,34215370.0,Qualification,0.6912,23649663.744000003,Follow-On,O&M,2025
+Radars,Falcon Aeronautics,58879,Base Case,2025-10-31,75989882.0,Qualification,0.3075,23366888.715,New Business,Development,2025
+Maritime ,Goliath Protection Systems,88699,Upside,2025-07-02,102936909.0,Qualification,0.5075,52240481.317499995,New Business,Development,2025
+Unmanned Aerial Systems,Polaris Command Systems,99152,Base Case,2025-06-06,51460425.0,Qualification,0.405,20841472.125,Follow-On,Development,2025
+Counter-Intrusion,Skyfire Defense Solutions,86248,Base Case,2025-06-01,25499088.0,Qualification,0.7725,19698045.48,Follow-On,Product,2025
+Maritime ,Artemis Armament Solutions,40106,Base Case,2025-11-03,44715682.0,Qualification,0.43979999999999997,19665956.9436,New Business,Product,2025
+Command and Control ,Zephyr Security Tech,20406,Base Case,2025-08-01,37076795.0,Qualification,0.43979999999999997,16306374.441,New Business,Product,2025
+Solid Rocket Motors,Echo Combat Systems,40594,Base Case,2025-09-30,21580970.0,Qualification,0.6912,14916766.464000002,New Business,Product,2025
+Command and Control ,Hawkeye Security Systems,43427,Base Case,2025-07-31,19009022.0,Qualification,0.7725,14684469.495,Follow-On,Product,2025
+Command and Control ,Maelstrom Defense Group,14864,Base Case,2025-10-01,18808268.0,Qualification,0.6912,13000274.8416,Follow-On,Product,2025
+Radars,Hades Defense Strategies,19606,Base Case,2025-09-30,67745088.0,Qualification,0.1913,12959635.3344,New Business,Product,2025
+Counter-Intrusion,Legacy Combat Systems,97485,Upside,2025-05-01,164598436.0,Qualification,0.297,48885735.492,New Business,Development,2025
+Solid Rocket Motors,Vortex Security Dynamics,20018,Upside,2025-05-01,161628691.0,Qualification,0.297,48003721.227,New Business,Development,2025
+Counter-UAS,Patriot Defense Solutions,22973,Base Case,2025-06-02,12201236.0,Qualification,0.9023,11009175.2428,Option,Development,2025
+Solid Rocket Motors,Iron Fortress Defense,48168,Base Case,2025-10-31,28140165.0,Qualification,0.3724,10479397.446,Follow-On,Development,2025
+Unmanned Aerial Systems,Polaris Command Systems,71791,Base Case,2025-05-07,20036251.0,Qualification,0.5075,10168397.382499998,New Business,Product,2025
+Unmanned Aerial Systems,Paladin Strategic Operations,21300,Upside,2025-09-30,187542480.0,Qualification,0.24600000000000002,46135450.080000006,New Business,Product,2025
+Counter-Intrusion,Warrior Defense Systems,44857,Base Case,2025-04-25,17475744.0,Qualification,0.513,8965056.672,Follow-On,Product,2025
+Unmanned Aerial Systems,Griffin Military Tech,15655,Upside,2025-09-30,198730763.0,Qualification,0.2255,44813787.0565,Follow-On,Product,2025
+Unmanned Aerial Systems,Crossbow Defense Networks,84794,Base Case,2025-11-22,15162611.0,Qualification,0.5193,7873943.8922999995,Follow-On,Product,2025
+Command and Control ,Revenant Defense Solutions,76539,Upside,2025-01-31,123508773.0,Qualification,0.35100000000000003,43351579.32300001,New Business,Development,2025
+Unmanned Aerial Systems,Wildcat Tactical Solutions,85977,Base Case,2025-09-30,12135424.0,Qualification,0.5751,6979082.3423999995,Follow-On,Product,2025
+Solid Rocket Motors,Catalyst Defense Group,25102,Base Case,2025-04-25,13387056.0,Qualification,0.513,6867559.728,Follow-On,Product,2025
+Solid Rocket Motors,Templar Security Solutions,57848,Base Case,2025-03-28,24321432.0,Qualification,0.2368,5759315.0976,New Business,Development,2025
+Counter-Intrusion,SaberEdge Security,70977,Base Case,2025-04-30,9900372.0,Qualification,0.5751,5693703.9372,New Business,Development,2025
+Radars,Hyperion Protection Corp,46883,Upside,2025-12-01,150224934.0,Qualification,0.26649999999999996,40034944.91099999,New Business,Product,2025
+Solid Rocket Motors,Jupiter Defense Platform,55407,Upside,2025-03-28,113551809.0,Qualification,0.35100000000000003,39856684.95900001,New Business,Development,2025
+Counter-UAS,Patriot Defense Solutions,17935,Base Case,2025-08-15,11588640.0,Qualification,0.243,2816039.52,New Business,Development,2025
+Unmanned Aerial Systems,Crossbow Defense Networks,53521,Base Case,2025-07-01,3007609.0,Qualification,0.9023,2713765.6007,New Business,Development,2025
+Maritime ,Vulcan Armament Corp,81803,Base Case,2025-12-19,7210265.0,Qualification,0.3721,2682939.6064999998,Follow-On,Product,2025
+Counter-UAS,Warlock Combat Solutions,48338,Base Case,2027-12-20,155487673.0,Qualification,0.7123999999999999,110769418.2452,New Business,Product,2027
+Radars,Odyssey Security Tech,24378,Base Case,2027-11-26,87155477.0,Qualification,0.6174000000000001,53809791.499800004,Subscription Renewal,Product,2027
+Counter-UAS,Onyx Defense Strategies,58630,Upside,2025-11-01,59492924.0,Qualification,0.6099,36284734.3476,New Business,Development,2025
+Radars,Hyperion Protection Corp,82257,Base Case,2027-06-30,167742405.0,Qualification,0.6099,102306092.8095,New Business,Product,2027
+Command and Control ,Maelstrom Defense Group,69753,Base Case,2027-06-30,79436841.0,Qualification,0.6099,48448529.3259,New Business,O&M,2027
+Counter-UAS,Centauri Space Defense,89494,Base Case,2027-07-31,137713746.0,Qualification,0.297,40900982.562,Follow-On,Subscription,2027
+Command and Control ,Zephyr Security Tech,32942,Upside,2025-06-30,133356888.0,Qualification,0.243,32405723.783999998,New Business,Product,2025
+Maritime ,Sabre Tactical Operations,33075,Base Case,2027-08-27,161604276.0,Qualification,0.35100000000000003,56723100.876,Follow-On,Product,2027
+Command and Control ,Zephyr Security Tech,63790,Base Case,2027-06-30,193344782.0,Qualification,0.41,79271360.61999999,Follow-On,Product,2027
+Unmanned Aerial Systems,StratDef Solutions,18850,Base Case,2027-06-30,112138092.0,Qualification,0.5286,59276195.4312,Follow-On,Product,2027
+Counter-UAS,Sentinel Security Dynamics,48142,Base Case,2027-09-30,24586526.0,Qualification,0.513,12612887.838,Follow-On,O&M,2027
+Solid Rocket Motors,Echo Combat Systems,19736,Base Case,2027-06-30,100254360.0,Qualification,0.43979999999999997,44091867.528,Follow-On,Product,2027
+Radars,Icarus AeroTech,98576,Upside,2025-07-31,91647026.0,Qualification,0.35100000000000003,32168106.126000002,Follow-On,Product,2025
+Command and Control ,Cerberus Defense Group,51051,Base Case,2027-03-01,84402081.0,Qualification,0.7123999999999999,60128042.50439999,New Business,Cost Plus Fixed Fee,2027
+Counter-UAS,Triton Naval Technologies,77206,Base Case,2027-08-01,174442534.0,Qualification,0.7123999999999999,124272861.22159998,New Business,Cost Plus Fixed Fee,2027
+Unmanned Aerial Systems,Argus Defense Systems,37172,Base Case,2027-01-31,122834833.0,Qualification,0.43979999999999997,54022759.553399995,Follow-On,Cost Plus Fixed Fee,2027
+Radars,Eagle Eye Defense Solutions,61420,Base Case,2027-01-31,57991187.0,Qualification,0.6912,40083508.4544,Follow-On,Cost Plus Fixed Fee,2027
+Unmanned Aerial Systems,Midgard Security Systems,77129,Base Case,2027-03-31,15306758.0,Qualification,0.6428,9839184.0424,New Business,Product,2027
+Command and Control ,Reaper Defense Innovations,55308,Base Case,2027-09-30,149085836.0,Qualification,0.6912,103048129.8432,New Business,Development,2027
+Maritime ,Sabre Tactical Operations,54028,Base Case,2027-09-30,134463999.0,Qualification,0.6912,92941516.10880001,New Business,Product,2027
+Counter-UAS,Chimera Strategic Solutions,25498,Base Case,2027-07-30,127834048.0,Qualification,0.297,37966712.256,New Business,Development,2027
+Unmanned Aerial Systems,Wildcat Tactical Solutions,96064,Base Case,2027-01-01,130307802.0,Qualification,0.5124,66769717.744799994,New Business,Subscription,2027
+Counter-UAS,Sentinel Security Dynamics,34468,Upside,2026-09-30,174811616.0,Qualification,0.07,12236813.120000001,New Business,Product,2026
+Counter-Intrusion,Orion Cyber Defense,72624,Upside,2026-12-29,81625103.0,Qualification,0.098,7999260.0940000005,New Business,Product,2026
+Maritime ,Artemis Armament Solutions,17800,Upside,2026-03-02,51889118.0,Qualification,0.1,5188911.800000001,New Business,Product,2026
+Solid Rocket Motors,Mercury Tactical Solutions,70835,Upside,2026-12-31,115420496.0,Qualification,0.18899999999999997,21814473.743999995,New Business,Product,2026
+Command and Control ,Cerberus Defense Group,61143,Upside,2025-06-30,168131058.0,Qualification,0.16,26900969.28,New Business,Product,2025
+Solid Rocket Motors,Specter Intelligence Group,94886,Upside,2026-09-03,83144538.0,Qualification,0.4646,38628952.3548,Follow-On,Product,2026
+Maritime ,Fortitude Defense Operations,52880,Upside,2025-06-30,109466160.0,Qualification,0.243,26600276.88,New Business,Product,2025
+Unmanned Aerial Systems,Wildcat Tactical Solutions,67170,Base Case,2027-10-01,58498310.0,Qualification,0.6912,40434031.872,Follow-On,Product,2027
+Radars,Eagle Eye Defense Solutions,34542,Upside,2026-03-01,103908533.0,Qualification,0.05,5195426.65,New Business,Product,2026
+Command and Control ,Lionheart Defense Systems,68818,Upside,2026-09-01,148707413.0,Qualification,0.098,14573326.474000001,New Business,Product,2026
+Maritime ,Vulcan Armament Corp,45273,Upside,2026-04-03,131158671.0,Qualification,0.0675,8853210.2925,New Business,Product,2026
+Solid Rocket Motors,Blackhawk Defense Dynamics,42185,Upside,2026-01-30,41601585.0,Qualification,0.1435,5969827.4475,New Business,Subscription,2026
+Counter-Intrusion,Ironclad Combat Systems,44656,Upside,2026-03-31,89497769.0,Qualification,0.35100000000000003,31413716.919000003,New Business,Product,2026
+Radars,Mars Defense Consortium,82282,Upside,2026-03-31,64782399.0,Qualification,0.35100000000000003,22738622.049000002,New Business,Product,2026
+Maritime ,Crimson Shield Technologies,59087,Upside,2028-03-30,70772121.0,Qualification,0.35100000000000003,24841014.471,New Business,O&M,2028
+Unmanned Aerial Systems,Havoc Tactical Solutions,62968,Upside,2029-03-30,140802265.0,Qualification,0.35100000000000003,49421595.01500001,New Business,O&M,2029
+Counter-UAS,Osiris Combat Solutions,39569,Base Case,2027-09-24,66320377.0,Qualification,0.405,26859752.685000002,Follow-On,Product,2027
+Maritime ,Draco Armament Research,19960,Upside,2025-12-31,134778166.0,Qualification,0.182,24529626.211999997,New Business,Development,2025
+Solid Rocket Motors,Catalyst Defense Group,50217,Upside,2028-12-15,83805409.0,Qualification,0.405,33941190.645,Follow-On,Product,2028
+Counter-Intrusion,Warrior Defense Systems,16857,Upside,2029-12-15,138996193.0,Qualification,0.405,56293458.16500001,Follow-On,Product,2029
+Unmanned Aerial Systems,Stealth Combat Analytics,75986,Upside,2026-02-15,1620063.0,Qualification,0.1,162006.30000000002,New Business,Product,2026
+Solid Rocket Motors,Nomad Intelligence Systems,53178,Upside,2028-02-15,63958099.0,Qualification,0.1,6395809.9,New Business,Product,2028
+Counter-Intrusion,Gladiator Defense Corp,91257,Upside,2029-02-16,192466481.0,Qualification,0.3,57739944.3,New Business,Product,2029
+Radars,Avalanche Defense Technologies,76776,Upside,2026-06-05,94985753.0,Qualification,0.5075,48205269.64749999,New Business,Development,2026
+Command and Control ,Maelstrom Defense Group,98467,Upside,2028-03-03,47716511.0,Qualification,0.26649999999999996,12716450.181499997,New Business,Development,2028
+Maritime ,Nightshade Security Ops,25511,Upside,2029-01-07,128159006.0,Qualification,0.26649999999999996,34154375.09899999,New Business,Development,2029
+Unmanned Aerial Systems,Basilisk Armament Technologies,89085,Upside,2025-03-28,100902394.0,Qualification,0.2255,22753489.847,New Business,Product,2025
+Unmanned Aerial Systems,Havoc Tactical Solutions,86316,Upside,2025-12-20,70547813.0,Qualification,0.3075,21693452.4975,New Business,Subscription,2025
+Unmanned Aerial Systems,StratDef Solutions,30040,Upside,2028-09-20,98389080.0,Qualification,0.3,29516724.0,New Business,Product,2028
+Counter-UAS,Apex Command Technologies,19314,Upside,2029-09-20,38700154.0,Qualification,0.3,11610046.2,New Business,Product,2029
+Command and Control ,Vanguard Tactical Solutions,97235,Upside,2026-04-14,121378837.0,Qualification,0.05,6068941.850000001,New Business,Product,2026
+Maritime ,Zenith Warfare Technologies,89796,Upside,2026-04-14,92911687.0,Qualification,0.05,4645584.350000001,New Business,O&M,2026
+Unmanned Aerial Systems,Atlas Protection Analytics,53057,Upside,2026-07-31,106956658.0,Qualification,0.05,5347832.9,New Business,O&M,2026
+Solid Rocket Motors,Echo Combat Systems,79921,Upside,2028-07-31,19599950.0,Qualification,0.05,979997.5,New Business,O&M,2028
+Radars,Phantom Recon Tech,43902,Upside,2026-10-27,96107840.0,Qualification,0.9023,86718104.032,New Business,Product,2026
+Maritime ,Sabre Tactical Operations,68218,Upside,2025-05-21,142919415.0,Qualification,0.1435,20508936.0525,New Business,Subscription,2025
+Command and Control ,Reaper Defense Innovations,92841,Base Case,2027-04-30,159559619.0,Qualification,0.8073,128812480.41870001,New Business,Development,2027
+Solid Rocket Motors,Mercury Tactical Solutions,26618,Upside,2026-10-15,16995481.0,Qualification,0.25,4248870.25,Option,Development,2026
+Radars,Falcon Aeronautics,79845,Upside,2028-10-13,189838607.0,Qualification,0.25,47459651.75,Option,Product,2028
+Command and Control ,Cobalt Security Solutions,56567,Upside,2026-09-21,69285705.0,Qualification,0.405,28060710.525000002,New Business,Product,2026
+Unmanned Aerial Systems,Griffin Military Tech,81106,Upside,2028-09-21,10325565.0,Qualification,0.405,4181853.825,New Business,Product,2028
+Counter-UAS,Osiris Combat Solutions,93999,Upside,2029-09-21,199925491.0,Qualification,0.405,80969823.855,New Business,Product,2029
+Solid Rocket Motors,Valiant Defense Co.,15366,Upside,2026-03-16,90507236.0,Qualification,0.0525,4751629.89,New Business,Product,2026
+Unmanned Aerial Systems,Griffin Military Tech,32296,Upside,2025-09-30,196610076.0,Qualification,0.0975,19169482.41,New Business,Product,2025
+Unmanned Aerial Systems,Aegis Cyber Solutions,91820,Base Case,2027-08-29,190793939.0,Qualification,0.5751,109725594.31889999,Option,Product,2027
+Radars,Kraken Maritime Defense,27087,Upside,2025-09-30,27806813.0,Qualification,0.6428,17874219.3964,Follow-On,Product,2025
+Counter-UAS,Olympus Strategic Solutions,81115,Base Case,2027-05-06,87142407.0,Qualification,0.6912,60232831.7184,New Business,Development,2027
+Command and Control ,Horizon Warfare Technologies,54519,Upside,2025-10-31,46990944.0,Qualification,0.36590000000000006,17193986.409600005,New Business,Development,2025
+Counter-UAS,Sentinel Security Dynamics,83744,Upside,2025-12-31,171374004.0,Qualification,0.1,17137400.400000002,New Business,Subscription,2025
+Radars,Borealis Defense Network,60623,Upside,2026-04-06,115374755.0,Qualification,0.3721,42930946.3355,Follow-On,Product,2026
+Command and Control ,Horizon Warfare Technologies,70854,Upside,2026-04-10,126103206.0,Qualification,0.3721,46923002.952599995,Follow-On,O&M,2026
+Maritime ,Tempest Defense Innovations,54322,Upside,2026-03-31,130276137.0,Qualification,0.3721,48475750.5777,Follow-On,O&M,2026
+Counter-UAS,Warlock Combat Solutions,69037,Upside,2026-06-26,105733158.0,Qualification,0.126,13322377.908,Follow-On,Product,2026
+Radars,Inferno Protection Tech,32091,Upside,2025-11-07,33409197.0,Qualification,0.5075,16955167.4775,New Business,Development,2025
+Counter-UAS,Guardian Military Tech,66587,Upside,2025-08-29,56267158.0,Qualification,0.3006,16913907.6948,New Business,Product,2025
+Counter-Intrusion,Legacy Combat Systems,53100,Upside,2026-03-31,98825942.0,Qualification,0.297,29351304.774,New Business,Subscription,2026
+Radars,Avalanche Defense Technologies,61142,Upside,2025-07-01,51773711.0,Qualification,0.297,15376792.167,New Business,Development,2025
+Unmanned Aerial Systems,Havoc Tactical Solutions,67641,Base Case,2027-11-01,199151391.0,Qualification,0.5286,105271425.28259999,New Business,Product,2027
+Command and Control ,Horizon Warfare Technologies,71469,Base Case,2027-04-01,68490796.0,Qualification,0.7123999999999999,48792843.07039999,New Business,Product,2027
+Maritime ,Goliath Protection Systems,47165,Upside,2025-07-31,41671668.0,Qualification,0.35100000000000003,14626755.468000002,New Business,Development,2025
+Command and Control ,Lionheart Defense Systems,33663,Upside,2025-09-18,47023294.0,Qualification,0.3075,14459662.905,New Business,Development,2025
+Counter-Intrusion,Valkyrie Defense Technologies,79381,Base Case,2027-10-15,196704716.0,Qualification,0.405,79665409.98,New Business,Product,2027
+Solid Rocket Motors,Mercury Tactical Solutions,87999,Upside,2026-10-09,148113074.0,Qualification,0.21,31103745.54,New Business,Product,2026
+Maritime ,Phoenix Defense Strategies,13855,Upside,2025-11-01,191659776.0,Qualification,0.0675,12937034.88,New Business,Product,2025
+Counter-Intrusion,SaberEdge Security,30171,Upside,2025-12-01,100533671.0,Qualification,0.126,12667242.546,New Business,Development,2025
+Counter-UAS,Osiris Combat Solutions,51862,Upside,2026-09-30,56985989.0,Qualification,0.2255,12850340.5195,Follow-On,Product,2026
+Counter-Intrusion,Minerva Intelligence Systems,55577,Upside,2028-09-30,76251508.0,Qualification,0.2255,17194715.054,Follow-On,Product,2028
+Counter-Intrusion,Warrior Defense Systems,94548,Base Case,2027-06-30,181464505.0,Qualification,0.9023,163735422.8615,New Business,Product,2027
+Command and Control ,Reaper Defense Innovations,37666,Base Case,2027-04-01,179503830.0,Qualification,0.405,72699051.15,New Business,Product,2027
+Maritime ,Prometheus Defense Innovations,61996,Upside,2028-09-30,74585174.0,Qualification,0.081,6041399.0940000005,New Business,Product,2028
+Unmanned Aerial Systems,Aegis Cyber Solutions,51847,Upside,2029-09-30,124139122.0,Qualification,0.081,10055268.882000001,New Business,Product,2029
+Command and Control ,Reaper Defense Innovations,94128,Upside,2025-05-30,122907405.0,Qualification,0.1,12290740.5,New Business,Development,2025
+Maritime ,Goliath Protection Systems,68815,Base Case,2027-10-15,6197761.0,Qualification,0.8073,5003452.4553000005,New Business,Development,2027
+Unmanned Aerial Systems,Crossbow Defense Networks,85319,Base Case,2027-06-30,22407229.0,Qualification,0.8073,18089355.9717,New Business,Development,2027
+Command and Control ,Maelstrom Defense Group,13245,Base Case,2027-06-30,53965861.0,Qualification,0.9,48569274.9,New Business,Subscription,2027
+Maritime ,Artemis Armament Solutions,85449,Upside,2025-06-01,22402892.0,Qualification,0.5075,11369467.69,Follow-On,Development,2025
+Unmanned Aerial Systems,Polaris Command Systems,93834,Upside,2028-12-22,194670390.0,Qualification,0.3075,59861144.925,New Business,Subscription,2028
+Solid Rocket Motors,Catalyst Defense Group,76611,Upside,2026-12-17,39359696.0,Qualification,0.3075,12103106.52,New Business,Subscription,2026
+Counter-Intrusion,Warrior Defense Systems,69368,Upside,2026-11-06,174950836.0,Qualification,0.5075,88787549.27,New Business,Development,2026
+Solid Rocket Motors,Templar Security Solutions,96831,Base Case,2027-03-01,109054237.0,Qualification,0.2,21810847.400000002,Modification,Subscription,2027
+Unmanned Aerial Systems,Stealth Combat Analytics,14073,Upside,2026-04-29,59833781.0,Qualification,0.297,17770632.957,New Business,Development,2026
+Radars,Odyssey Security Tech,96926,Upside,2026-04-24,132234937.0,Qualification,0.26649999999999996,35240610.710499994,New Business,Development,2026
+Maritime ,Nightshade Security Ops,14052,Upside,2026-06-30,24886235.0,Qualification,0.098,2438851.0300000003,New Business,Product,2026
+Unmanned Aerial Systems,Wildcat Tactical Solutions,35338,Upside,2026-06-30,44560504.0,Qualification,0.098,4366929.392,New Business,Product,2026
+Counter-UAS,Daemon Defense Networks,18017,Upside,2026-09-30,14985057.0,Qualification,0.513,7687334.241,New Business,Product,2026
+Unmanned Aerial Systems,Atlas Protection Analytics,87654,Upside,2026-03-31,59715071.0,Qualification,0.297,17735376.086999997,New Business,Subscription,2026
+Command and Control ,Cobalt Security Solutions,57250,Upside,2026-08-01,35170582.0,Qualification,0.3721,13086973.562199999,New Business,Product,2026
+Unmanned Aerial Systems,Griffin Military Tech,28900,Upside,2026-11-01,154663833.0,Qualification,0.3045,47095137.148499995,New Business,Product,2026
+Solid Rocket Motors,Valiant Defense Co.,55255,Upside,2028-11-01,105107631.0,Qualification,0.3045,32005273.6395,New Business,O&M,2028
+Maritime ,Prometheus Defense Innovations,18639,Upside,2026-03-31,189017782.0,Qualification,0.4473,84547653.88859999,New Business,Product,2026
+Radars,Hyperion Protection Corp,24127,Upside,2025-09-27,55604799.0,Qualification,0.1,5560479.9,New Business,Subscription,2025
+Command and Control ,Vanguard Tactical Solutions,34301,Upside,2025-07-31,14993488.0,Qualification,0.35100000000000003,5262714.288000001,Follow-On,Product,2025
+Maritime ,Barricade Security Tech,92730,Upside,2025-09-30,98331174.0,Qualification,0.0525,5162386.635,New Business,Development,2025
+Solid Rocket Motors,Titanium Security Group,10108,Upside,2025-04-30,21988359.0,Qualification,0.2291,5037533.0469,New Business,O&M,2025
+Solid Rocket Motors,Valiant Defense Co.,31416,Upside,2025-04-01,32343203.0,Qualification,0.126,4075243.578,New Business,Product,2025
+Counter-Intrusion,Ironclad Combat Systems,56718,Upside,2026-07-01,38914365.0,Qualification,0.182,7082414.43,New Business,Product,2026
+Counter-Intrusion,Valkyrie Defense Technologies,23090,Upside,2025-12-31,37075650.0,Qualification,0.098,3633413.7,New Business,Product,2025
+Solid Rocket Motors,Nova Intel Systems,54195,Upside,2025-12-01,12840489.0,Qualification,0.26649999999999996,3421990.3184999996,New Business,Product,2025
+Counter-UAS,Helios Tactical Solutions,61596,Upside,2025-10-24,54840869.0,Qualification,0.061500000000000006,3372713.4435000005,New Business,Subscription,2025
+Counter-Intrusion,SaberEdge Security,33032,Base Case,2027-09-30,158777921.0,Qualification,0.6099,96838654.0179,New Business,Product,2027
+Counter-UAS,Triton Naval Technologies,41169,Upside,2025-10-10,12424484.0,Qualification,0.21,2609141.64,New Business,Product,2025
+Command and Control ,Thunderbolt Defense Corp,17980,Upside,2025-09-30,5767501.0,Qualification,0.26649999999999996,1537039.0164999997,Follow-On,Development,2025
+Unmanned Aerial Systems,Crossbow Defense Networks,59888,Upside,2026-07-31,150334230.0,Qualification,0.35100000000000003,52767314.730000004,New Business,Development,2026
+Radars,Avalanche Defense Technologies,92397,Base Case,2027-04-01,185876774.0,Qualification,0.5075,94332462.80499999,New Business,Product,2027
+Radars,Kraken Maritime Defense,93704,Upside,2025-09-30,10290583.0,Qualification,0.081,833537.223,New Business,Development,2025
+Solid Rocket Motors,Iron Fortress Defense,26510,Upside,2026-01-05,77013674.0,Qualification,0.6099,46970639.7726,New Business,Development,2026
+Counter-UAS,Triton Naval Technologies,49493,Upside,2025-12-15,3238201.0,Qualification,0.25,809550.25,Option,Development,2025
+Command and Control ,Hawkeye Security Systems,76658,Upside,2026-03-31,24461877.0,Qualification,0.126,3082196.502,New Business,Development,2026
+Maritime ,Firestorm Defense Corp,73959,Upside,2026-06-05,93899541.0,Qualification,0.126,11831342.166,New Business,Product,2026
+Radars,Blitzkrieg Defense Innovations,67751,Base Case,2027-07-01,144753508.0,Qualification,0.6428,93047554.94240001,New Business,Development,2027
+Counter-UAS,Triton Naval Technologies,19905,Base Case,2029-11-01,197440032.0,Planning,0.7123999999999999,140656278.7968,New Business,O&M,2029
+Unmanned Aerial Systems,Griffin Military Tech,62787,Base Case,2029-11-01,20679028.0,Planning,0.7123999999999999,14731739.547199998,New Business,Product,2029
+Counter-Intrusion,Minerva Intelligence Systems,71826,Base Case,2029-11-01,190432575.0,Planning,0.7123999999999999,135664166.42999998,New Business,Product,2029
+Counter-UAS,Olympus Strategic Solutions,91926,Base Case,2029-11-30,183172390.0,Planning,0.9023,165276447.497,Follow-On,Product,2029
+Command and Control ,Maelstrom Defense Group,15901,Base Case,2029-05-30,192530410.0,Planning,0.7725,148729741.725,Follow-On,Product,2029
+Counter-UAS,Chimera Strategic Solutions,89376,Base Case,2029-12-25,164135426.0,Planning,0.9,147721883.4,Option,Development,2029
+Counter-UAS,Olympus Strategic Solutions,17347,Base Case,2029-02-13,181491487.0,Planning,0.7725,140202173.70749998,Modification,O&M,2029
+Radars,Borealis Defense Network,97894,Base Case,2029-12-01,151922585.0,Planning,0.9023,137079748.4455,Follow-On,O&M,2029
+Counter-Intrusion,Neptune Surveillance Systems,29082,Base Case,2029-12-01,185145228.0,Planning,0.7123999999999999,131897460.42719999,New Business,Product,2029
+Solid Rocket Motors,Jupiter Defense Platform,55412,Base Case,2029-04-25,159938843.0,Planning,0.8073,129118627.95390001,Modification,Development,2029
+Maritime ,Nightshade Security Ops,23244,Base Case,2025-03-28,142882077.0,Planning,0.9023,128922498.0771,New Business,Cost Plus Fixed Fee,2029
+Command and Control ,Silverline Security Operations,78372,Base Case,2028-01-09,142186705.0,Planning,0.65,92421358.25,Subscription Renewal,O&M,2029
+Command and Control ,Horizon Warfare Technologies,29425,Base Case,2028-08-04,164231625.0,Planning,0.68,111677505.00000001,New Business,Product,2029
+Solid Rocket Motors,Mercury Tactical Solutions,64384,Base Case,2029-04-24,153864787.0,Planning,0.7725,118860547.9575,New Business,Product,2029
+Radars,Falcon Aeronautics,84754,Base Case,2029-06-04,57509394.0,Planning,0.8073,46427333.776200004,Follow-On,Development,2029
+Unmanned Aerial Systems,Griffin Military Tech,43922,Base Case,2029-07-11,92961277.0,Planning,0.5075,47177848.07749999,Modification,Development,2029
+Solid Rocket Motors,Valiant Defense Co.,59262,Base Case,2029-08-30,87971727.0,Planning,0.6099,53653956.2973,Follow-On,Development,2029
+Counter-Intrusion,Minerva Intelligence Systems,17495,Base Case,2029-03-01,119677177.0,Planning,0.9023,107984716.8071,New Business,Cost Plus Fixed Fee,2029
+Command and Control ,Horizon Warfare Technologies,51678,Base Case,2029-04-01,88741865.0,Planning,0.5751,51035446.5615,Follow-On,Development,2029
+Radars,Phantom Recon Tech,70490,Base Case,2029-05-01,105259453.0,Planning,0.75,78944589.75,Modification,Cost Plus Fixed Fee,2029
+Maritime ,Sabre Tactical Operations,11226,Base Case,2029-04-01,24103983.0,Planning,0.9023,21749023.8609,Follow-On,Product,2029
+Counter-Intrusion,Valkyrie Defense Technologies,39424,Upside,2027-09-01,164058840.0,Planning,0.43979999999999997,72153077.832,New Business,Product,2027
+Unmanned Aerial Systems,Paladin Strategic Operations,46998,Base Case,2028-11-01,84236628.0,Planning,0.7123999999999999,60010173.7872,New Business,O&M,2028
+Maritime ,Phoenix Defense Strategies,11718,Base Case,2028-11-01,182584838.0,Planning,0.7123999999999999,130073438.59119998,New Business,Product,2028
+Radars,Kraken Maritime Defense,78322,Base Case,2028-11-01,83522575.0,Planning,0.7123999999999999,59501482.42999999,New Business,Product,2028
+Counter-Intrusion,Neptune Surveillance Systems,58963,Upside,2027-10-01,21635086.0,Planning,0.2846,6157345.4756000005,New Business,Development,2027
+Counter-Intrusion,Neptune Surveillance Systems,73920,Base Case,2028-05-03,146510596.0,Planning,0.85,124534006.6,New Business,Product,2028
+Solid Rocket Motors,Blackhawk Defense Dynamics,77926,Base Case,2028-10-08,199710724.0,Planning,0.7,139797506.79999998,Subscription Renewal,O&M,2028
+Maritime ,Fortitude Defense Operations,27089,Base Case,2028-11-15,134657246.0,Planning,0.9023,121501233.0658,New Business,Product,2028
+Solid Rocket Motors,Blackhawk Defense Dynamics,76633,Base Case,2028-05-11,134151366.0,Planning,0.9023,121044777.54179999,Follow-On,Product,2028
+Radars,Borealis Defense Network,35080,Base Case,2028-07-27,11067131.0,Planning,0.68,7525649.080000001,New Business,Product,2028
+Counter-UAS,Guardian Military Tech,61743,Base Case,2028-03-08,166104841.0,Planning,0.7123999999999999,118333088.72839999,Modification,Cost Plus Fixed Fee,2028
+Radars,Blitzkrieg Defense Innovations,84138,Base Case,2028-03-02,128614162.0,Planning,0.9,115752745.8,Follow-On,Cost Plus Fixed Fee,2028
+Counter-Intrusion,SaberEdge Security,17595,Base Case,2028-07-30,140663532.0,Planning,0.8073,113557669.3836,New Business,Development,2028
+Radars,Odyssey Security Tech,43719,Base Case,2028-08-07,140455392.0,Planning,0.8073,113389637.9616,Follow-On,Product,2028
+Solid Rocket Motors,Vortex Security Dynamics,85293,Base Case,2028-12-05,180122762.0,Planning,0.6174000000000001,111207793.25880001,Follow-On,Development,2028
+Counter-UAS,Warlock Combat Solutions,25006,Base Case,2028-06-08,182800854.0,Planning,0.8,146240683.20000002,New Business,Development,2028
+Solid Rocket Motors,Iron Fortress Defense,97688,Base Case,2028-05-27,24910149.0,Planning,0.405,10088610.345,New Business,Development,2028
+Counter-Intrusion,Skyfire Defense Solutions,68713,Base Case,2028-06-12,85813755.0,Planning,0.6099,52337809.1745,New Business,Development,2028
+Command and Control ,Hawkeye Security Systems,35656,Base Case,2028-07-22,129696025.0,Planning,0.7123999999999999,92395448.21,New Business,Product,2028
+Counter-UAS,Daemon Defense Networks,43953,Base Case,2028-10-17,29738278.0,Planning,0.4473,13301931.7494,RFI/White Paper,Development,2028
+Counter-UAS,Olympus Strategic Solutions,50754,Base Case,2029-08-13,111816532.0,Planning,0.6099,68196902.8668,New Business,Development,2028
+Command and Control ,Lionheart Defense Systems,76019,Base Case,2028-08-31,181405565.0,Planning,0.5075,92063324.2375,New Business,Product,2028
+Maritime ,Goliath Protection Systems,46608,Base Case,2028-03-31,135039230.0,Planning,0.66,89125891.8,Modification,Development,2028
+Unmanned Aerial Systems,Havoc Tactical Solutions,56150,Base Case,2028-11-30,151278151.0,Planning,0.5751,87000064.64009999,New Business,Product,2028
+Radars,Hades Defense Strategies,37393,Upside,2029-06-28,165608023.0,Planning,0.8073,133695356.96790001,Modification,Development,2029
+Counter-UAS,Osiris Combat Solutions,78680,Base Case,2028-01-03,146401108.0,Planning,0.6174000000000001,90388044.07920001,Follow-On,Product,2028
+Solid Rocket Motors,Valiant Defense Co.,36537,Base Case,2028-03-01,135456897.0,Planning,0.9023,122222758.1631,New Business,Cost Plus Fixed Fee,2028
+Radars,Borealis Defense Network,45512,Base Case,2028-04-01,128220993.0,Planning,0.5751,73739893.07429999,Follow-On,Development,2028
+Maritime ,Barricade Security Tech,48762,Base Case,2028-12-30,85216676.0,Planning,0.5075,43247463.06999999,CRADA,Development,2028
+Maritime ,Goliath Protection Systems,75197,Base Case,2028-08-31,114874404.0,Planning,0.3721,42744765.7284,New Business,O&M,2028
+Radars,Falcon Aeronautics,60123,Base Case,2026-11-01,92741844.0,Planning,0.7123999999999999,66069289.665599994,New Business,O&M,2026
+Counter-UAS,Osiris Combat Solutions,79929,Base Case,2026-11-01,83654941.0,Planning,0.7123999999999999,59595779.968399994,New Business,Product,2026
+Radars,Mars Defense Consortium,40619,Base Case,2029-02-17,199510381.0,Planning,0.45899999999999996,91575264.879,New Business,O&M,2026
+Counter-UAS,Guardian Military Tech,95134,Base Case,2029-06-19,83529495.0,Planning,0.7123999999999999,59506412.23799999,New Business,Product,2026
+Solid Rocket Motors,Titanium Security Group,22687,Base Case,2029-02-28,76408064.0,Planning,0.4,30563225.6,Follow-On,Development,2026
+Solid Rocket Motors,Templar Security Solutions,50037,Base Case,2026-06-30,123205331.0,Planning,0.4473,55109744.5563,RFI/White Paper,Development,2026
+Counter-UAS,Osiris Combat Solutions,16424,Base Case,2026-01-01,118124175.0,Planning,0.6174000000000001,72929865.64500001,Follow-On,Development,2026
+Unmanned Aerial Systems,Havoc Tactical Solutions,84014,Base Case,2028-03-25,47449264.0,Planning,0.55,26097095.200000003,Subscription Renewal,O&M,2026
+Counter-UAS,Guardian Military Tech,14057,Base Case,2028-04-02,72852644.0,Planning,0.57,41526007.08,New Business,Product,2026
+Counter-UAS,Stormbringer Defense Solutions,42372,Base Case,2028-06-29,148101589.0,Planning,0.5075,75161556.41749999,New Business,Development,2026
+Radars,Falcon Aeronautics,10991,Base Case,2027-06-25,167803211.0,Planning,0.6099,102343178.3889,New Business,Development,2026
+Solid Rocket Motors,Jupiter Defense Platform,32196,Base Case,2026-04-30,104984916.0,Planning,0.8073,84754322.6868,New Business,Development,2026
+Unmanned Aerial Systems,Atlas Protection Analytics,82657,Base Case,2026-08-28,88232382.0,Planning,0.513,45263211.966,Option,Product,2026
+Maritime ,Crimson Shield Technologies,80957,Base Case,2029-03-09,52900518.0,Planning,0.5,26450259.0,New Business,Development,2026
+Command and Control ,Maelstrom Defense Group,50967,Base Case,2026-03-01,56034758.0,Planning,0.9023,50560162.1434,New Business,Cost Plus Fixed Fee,2026
+Counter-Intrusion,Wraith Recon Systems,90871,Base Case,2026-03-01,47312229.0,Planning,0.9,42581006.1,Follow-On,Cost Plus Fixed Fee,2026
+Solid Rocket Motors,Jupiter Defense Platform,41567,Base Case,2026-04-01,196887978.0,Planning,0.5751,113230276.14779998,Follow-On,Development,2026
+Radars,Hades Defense Strategies,88003,Base Case,2026-12-31,16618115.0,Planning,0.5075,8433693.362499999,CRADA,Development,2026
+Radars,Odyssey Security Tech,22647,Base Case,2026-08-28,59944151.0,Planning,0.3721,22305218.5871,New Business,Product,2026
+Unmanned Aerial Systems,Atlas Protection Analytics,52964,Base Case,2026-05-29,162548073.0,Planning,0.9023,146667126.2679,Option,O&M,2026
+Solid Rocket Motors,Echo Combat Systems,86959,Base Case,2026-05-01,126051304.0,Planning,0.75,94538478.0,Modification,Cost Plus Fixed Fee,2026
+Unmanned Aerial Systems,Griffin Military Tech,55969,Base Case,2026-01-30,64860888.0,Planning,0.9023,58523979.2424,Follow-On,Cost Plus Fixed Fee,2026
+Counter-UAS,Osiris Combat Solutions,51142,Base Case,2026-01-30,119021170.0,Planning,0.9023,107392801.691,Follow-On,Cost Plus Fixed Fee,2026
+Solid Rocket Motors,Valiant Defense Co.,31057,Base Case,2026-01-30,153716189.0,Planning,0.9023,138698117.3347,Follow-On,Cost Plus Fixed Fee,2026
+Radars,Mars Defense Consortium,24306,Base Case,2026-04-01,3167082.0,Planning,0.9023,2857658.0886,Follow-On,Product,2026
+Command and Control ,Silverline Security Operations,76388,Base Case,2026-04-01,64021118.0,Planning,0.9023,57766254.7714,Follow-On,Product,2026
+Maritime ,Crimson Shield Technologies,56034,Base Case,2026-04-01,132509062.0,Planning,0.9023,119562926.6426,Follow-On,Product,2026
+Unmanned Aerial Systems,Havoc Tactical Solutions,61263,Base Case,2026-08-01,3965649.0,Planning,0.9023,3578205.0927,Follow-On,Product,2026
+Counter-UAS,Guardian Military Tech,33642,Base Case,2026-08-01,169257491.0,Planning,0.9023,152721034.1293,Follow-On,Product,2026
+Solid Rocket Motors,Jupiter Defense Platform,27666,Base Case,2026-08-01,26820011.0,Planning,0.9023,24199695.9253,Follow-On,Product,2026
+Command and Control ,Horizon Warfare Technologies,49796,Base Case,2026-04-01,127538989.0,Planning,0.9023,115078429.7747,Follow-On,O&M,2026
+Maritime ,Tempest Defense Innovations,69427,Base Case,2026-04-01,138159217.0,Planning,0.9023,124661061.4991,Follow-On,O&M,2026
+Unmanned Aerial Systems,Scorpion Defense Systems,65794,Base Case,2026-08-01,74957834.0,Planning,0.9023,67634453.6182,Follow-On,O&M,2026
+Counter-UAS,Warlock Combat Solutions,16122,Base Case,2026-08-01,99190720.0,Planning,0.9023,89499786.656,Follow-On,O&M,2026
+Solid Rocket Motors,Iron Fortress Defense,68741,Base Case,2029-06-26,125481828.0,Planning,0.6099,76531366.8972,New Business,Product,2029
+Maritime ,Nightshade Security Ops,58135,Base Case,2029-09-09,117129345.0,Planning,0.6428,75290742.966,New Business,O&M,2029
+Maritime ,Zenith Warfare Technologies,48972,Base Case,2029-11-18,81560913.0,Planning,0.9023,73592411.7999,Option,O&M,2029
+Maritime ,Zenith Warfare Technologies,52032,Base Case,2029-04-23,90405801.0,Planning,0.8073,72984603.1473,Follow-On,Product,2029
+Counter-UAS,Onyx Defense Strategies,60190,Base Case,2029-05-28,105203550.0,Planning,0.69,72590449.5,New Business,Development,2029
+Command and Control ,Revenant Defense Solutions,73580,Base Case,2029-06-02,89281581.0,Planning,0.81,72318080.61,Follow-On,Development,2029
+Counter-Intrusion,Skyfire Defense Solutions,50992,Base Case,2029-07-07,93177406.0,Planning,0.7725,71979546.13499999,Option,Subscription,2029
+Counter-Intrusion,Minerva Intelligence Systems,54867,Base Case,2029-04-20,99007115.0,Planning,0.7123999999999999,70532668.726,New Business,Development,2029
+Maritime ,Fortitude Defense Operations,90681,Base Case,2029-05-25,78096191.0,Planning,0.9023,70466193.1393,New Business,Product,2029
+Unmanned Aerial Systems,Scorpion Defense Systems,25380,Base Case,2029-08-08,139972630.0,Planning,0.5,69986315.0,New Business,Development,2029
+Radars,Icarus AeroTech,10529,Base Case,2029-12-27,137473445.0,Planning,0.5075,69767773.33749999,CRADA,Development,2029
+Counter-Intrusion,Legacy Combat Systems,94461,Base Case,2029-11-29,66144186.0,Planning,1.0,66144186.0,Modification,O&M,2029
+Radars,Borealis Defense Network,27489,Base Case,2029-02-21,144919708.0,Planning,0.4473,64822585.388399996,New Business,Development,2029
+Solid Rocket Motors,Templar Security Solutions,88448,Base Case,2029-08-19,102177703.0,Planning,0.6099,62318181.0597,New Business,Development,2029
+Counter-Intrusion,SaberEdge Security,39992,Base Case,2025-08-01,65694974.0,Planning,0.9023,59276575.0402,Follow-On,O&M,2025
+Unmanned Aerial Systems,StratDef Solutions,70686,Base Case,2025-06-30,58514883.0,Planning,0.9023,52797978.9309,New Business,Cost Plus Fixed Fee,2025
+Counter-UAS,Patriot Defense Solutions,61258,Base Case,2025-03-21,74751308.0,Planning,0.6912,51668104.089600004,New Business,Product,2025
+Counter-Intrusion,Wraith Recon Systems,55107,Upside,2025-09-30,177946838.0,Planning,0.34850000000000003,62014473.043000005,New Business,O&M,2025
+Counter-UAS,Centauri Space Defense,36577,Base Case,2025-04-11,61571890.0,Planning,0.81,49873230.900000006,Follow-On,Product,2025
+Counter-Intrusion,Gladiator Defense Corp,33383,Base Case,2025-12-31,92182838.0,Planning,0.5075,46782790.285,CRADA,Development,2025
+Counter-UAS,Sentinel Security Dynamics,11568,Base Case,2025-05-01,58159424.0,Planning,0.75,43619568.0,Modification,Cost Plus Fixed Fee,2025
+Counter-UAS,Daemon Defense Networks,55647,Base Case,2025-05-01,59441138.0,Planning,0.71,42203207.98,Follow-On,Cost Plus Fixed Fee,2025
+Radars,Odyssey Security Tech,33220,Base Case,2025-04-01,89110060.0,Planning,0.44409999999999994,39573777.646,Follow-On,Development,2025
+Counter-Intrusion,Ironclad Combat Systems,68342,Base Case,2025-12-01,41512455.0,Planning,0.9023,37456688.1465,Follow-On,Product,2025
+Command and Control ,Lionheart Defense Systems,93178,Base Case,2025-08-01,40007929.0,Planning,0.9023,36099154.3367,Follow-On,Product,2025
+Counter-Intrusion,Ironclad Combat Systems,26133,Base Case,2025-08-01,36198077.0,Planning,0.9023,32661524.8771,New Business,Cost Plus Fixed Fee,2025
+Maritime ,Vulcan Armament Corp,61173,Base Case,2025-08-01,33096301.0,Planning,0.9023,29862792.3923,Follow-On,Product,2025
+Unmanned Aerial Systems,Basilisk Armament Technologies,68641,Base Case,2025-05-01,102837748.0,Planning,0.266,27354840.968000002,Subscription Renewal,Subscription,2025
+Command and Control ,Nimbus Security Networks,10651,Base Case,2025-10-15,65343406.0,Planning,0.4,26137362.400000002,Follow-On,Development,2025
+Solid Rocket Motors,Vortex Security Dynamics,59002,Base Case,2025-04-17,36054361.0,Planning,0.71,25598596.31,Follow-On,Cost Plus Fixed Fee,2025
+Counter-UAS,Chimera Strategic Solutions,63404,Base Case,2025-04-30,29084133.0,Planning,0.85,24721513.05,New Business,Cost Plus Fixed Fee,2025
+Counter-Intrusion,Skyfire Defense Solutions,14832,Base Case,2025-12-15,27371881.0,Planning,0.8073,22097319.5313,Modification,Development,2025
+Solid Rocket Motors,Blackhawk Defense Dynamics,86625,Base Case,2025-02-24,34709883.0,Planning,0.5075,17615265.6225,Follow-On,Product,2025
+Counter-Intrusion,Titan Shield Networks,98428,Base Case,2025-03-28,13827526.0,Planning,0.9023,12476576.7098,New Business,Subscription,2025
+Counter-UAS,Guardian Military Tech,75267,Base Case,2025-04-01,21384215.0,Planning,0.5751,12298062.0465,Follow-On,Development,2025
+Radars,Hades Defense Strategies,43501,Base Case,2025-12-31,48010446.0,Planning,0.25,12002611.5,New Business,Product,2025
+Command and Control ,Cobalt Security Solutions,18243,Base Case,2025-12-31,31565606.0,Planning,0.3721,11745561.9926,Option,Development,2025
+Command and Control ,Thunderbolt Defense Corp,57405,Base Case,2025-04-30,14522598.0,Planning,0.8073,11724093.3654,Follow-On,Development,2025
+Solid Rocket Motors,Titanium Security Group,58739,Upside,2025-03-28,91844604.0,Planning,0.5075,46611136.529999994,New Business,Development,2025
+Counter-Intrusion,Legacy Combat Systems,69324,Base Case,2025-04-01,15671480.0,Planning,0.61,9559602.799999999,Follow-On,Cost Plus Fixed Fee,2025
+Unmanned Aerial Systems,Wildcat Tactical Solutions,51851,Base Case,2025-09-30,12807702.0,Planning,0.6099,7811417.4498,New Business,Product,2025
+Counter-Intrusion,Ironclad Combat Systems,20236,Base Case,2025-04-01,15043131.0,Planning,0.45899999999999996,6904797.129,New Business,Product,2025
+Command and Control ,Nimbus Security Networks,82523,Upside,2025-10-11,181506866.0,Planning,0.2368,42980825.8688,New Business,Product,2025
+Counter-Intrusion,Quantum Defense Corp,78801,Base Case,2025-12-03,10218844.0,Planning,0.6099,6232472.9556,New Business,Cost Plus Fixed Fee,2025
+Solid Rocket Motors,Templar Security Solutions,55393,Upside,2025-09-30,112541055.0,Planning,0.34850000000000003,39220557.667500004,New Business,Product,2025
+Command and Control ,Cerberus Defense Group,93215,Base Case,2027-11-01,178992257.0,Planning,0.7123999999999999,127514083.88679999,New Business,O&M,2027
+Maritime ,Artemis Armament Solutions,76451,Base Case,2027-11-01,8728182.0,Planning,0.7123999999999999,6217956.856799999,New Business,O&M,2027
+Command and Control ,Cobalt Security Solutions,70888,Base Case,2027-11-01,152569055.0,Planning,0.7123999999999999,108690194.78199999,New Business,Product,2027
+Maritime ,Tempest Defense Innovations,76899,Base Case,2027-04-01,131505824.0,Planning,0.45899999999999996,60361173.216,New Business,O&M,2027
+Counter-Intrusion,Valkyrie Defense Technologies,23874,Base Case,2027-10-15,152237601.0,Planning,0.4,60895040.400000006,Follow-On,Product,2027
+Counter-Intrusion,Wraith Recon Systems,18886,Base Case,2027-06-30,91887519.0,Planning,0.4473,41101287.2487,RFI/White Paper,Development,2027
+Counter-Intrusion,Ironclad Combat Systems,23676,Base Case,2027-06-30,124915645.0,Planning,0.54,67454448.3,Subscription Renewal,O&M,2027
+Counter-Intrusion,SaberEdge Security,79375,Base Case,2027-06-30,176162433.0,Planning,0.66,116267205.78,New Business,Product,2027
+Unmanned Aerial Systems,Midgard Security Systems,72412,Base Case,2027-04-01,196824962.0,Planning,0.6099,120043544.3238,New Business,Development,2027
+Counter-Intrusion,Ironclad Combat Systems,59364,Base Case,2027-04-30,21396589.0,Planning,0.5075,10858768.917499999,New Business,Development,2027
+Radars,Avalanche Defense Technologies,81420,Base Case,2027-03-01,2714799.0,Planning,0.9023,2449563.1377,New Business,Cost Plus Fixed Fee,2027
+Solid Rocket Motors,Templar Security Solutions,76717,Base Case,2027-03-01,84355317.0,Planning,0.9,75919785.3,Follow-On,Cost Plus Fixed Fee,2027
+Unmanned Aerial Systems,Griffin Military Tech,86590,Base Case,2027-01-04,36382752.0,Planning,0.6174000000000001,22462711.0848,Follow-On,Product,2027
+Counter-Intrusion,SaberEdge Security,15446,Base Case,2027-04-01,139207859.0,Planning,0.5751,80058439.7109,Follow-On,Development,2027
+Command and Control ,Thunderbolt Defense Corp,97815,Base Case,2027-12-31,27219274.0,Planning,0.5075,13813781.554999998,CRADA,Development,2027
+Command and Control ,Revenant Defense Solutions,98569,Base Case,2027-08-31,192362307.0,Planning,0.3721,71578014.4347,New Business,O&M,2027
+Counter-Intrusion,Orion Cyber Defense,11404,Base Case,2027-05-01,144843869.0,Planning,0.75,108632901.75,Modification,Cost Plus Fixed Fee,2027
+Solid Rocket Motors,Echo Combat Systems,75468,Upside,2026-11-30,73010145.0,Planning,0.1,7301014.5,New Business,Product,2026
+Radars,Falcon Aeronautics,54101,Upside,2026-03-31,173636466.0,Planning,0.36590000000000006,63533582.90940001,New Business,Product,2026
+Counter-UAS,Triton Naval Technologies,97446,Upside,2025-10-01,83612137.0,Planning,0.2846,23796014.1902,New Business,Development,2025
+Solid Rocket Motors,Valiant Defense Co.,77132,Base Case,2027-04-04,178218488.0,Planning,0.7123999999999999,126962850.85119998,New Business,Product,2027
+Maritime ,Barricade Security Tech,50075,Base Case,2027-04-30,159351774.0,Planning,0.6912,110143946.1888,Follow-On,Product,2027
+Command and Control ,Thunderbolt Defense Corp,25064,Upside,2028-09-01,41988758.0,Planning,0.43979999999999997,18466655.7684,New Business,Product,2028
+Maritime ,Barricade Security Tech,24269,Upside,2029-09-01,165604235.0,Planning,0.43979999999999997,72832742.55299999,New Business,Product,2029
+Solid Rocket Motors,Catalyst Defense Group,97901,Upside,2026-09-01,129728195.0,Planning,0.43979999999999997,57054460.161,New Business,Product,2026
+Unmanned Aerial Systems,Crossbow Defense Networks,61076,Upside,2026-02-06,51550058.0,Planning,0.35100000000000003,18094070.358000003,New Business,Product,2026
+Maritime ,Crimson Shield Technologies,71501,Base Case,2027-08-29,4664496.0,Planning,0.513,2392886.448,Option,Product,2027
+Counter-UAS,Stormbringer Defense Solutions,99219,Base Case,2027-04-01,120554426.0,Planning,0.6912,83327219.2512,New Business,Development,2027
+Solid Rocket Motors,Iron Fortress Defense,81281,Base Case,2027-03-01,86846057.0,Planning,0.5751,49945167.38069999,New Business,Product,2027
+Counter-UAS,Chimera Strategic Solutions,40362,Upside,2025-12-01,30789574.0,Planning,0.35100000000000003,10807140.474000001,New Business,O&M,2025
+Unmanned Aerial Systems,Basilisk Armament Technologies,10005,Base Case,2027-03-01,21544687.0,Planning,0.9023,19439771.0801,New Business,Product,2027
+Radars,Pinnacle Defense Innovations,27880,Base Case,2027-03-01,63101524.0,Planning,0.8073,50941860.3252,Option,Subscription,2027
+Command and Control ,Vanguard Tactical Solutions,13105,Base Case,2027-08-01,80074391.0,Planning,0.8073,64644055.8543,Option,Subscription,2027
+Counter-Intrusion,Orion Cyber Defense,47664,Base Case,2027-08-01,116029185.0,Planning,0.7123999999999999,82659191.394,New Business,O&M,2027
+Radars,Phantom Recon Tech,99076,Base Case,2027-08-01,136377525.0,Planning,0.7123999999999999,97155348.80999999,New Business,Product,2027
+Solid Rocket Motors,Mercury Tactical Solutions,58744,Base Case,2025-12-01,150136410.0,Planning,0.7123999999999999,106957178.48399998,New Business,O&M,2027
+Solid Rocket Motors,Jupiter Defense Platform,19816,Base Case,2027-07-31,111900071.0,Planning,0.95,106305067.44999999,Subscription Renewal,O&M,2027
+Unmanned Aerial Systems,StratDef Solutions,39429,Upside,2026-03-17,33800906.0,Planning,0.5286,17867158.911599997,New Business,Development,2026
+Solid Rocket Motors,Titanium Security Group,92450,Base Case,2027-03-31,164441301.0,Planning,0.6174000000000001,101526059.23740001,Option,Cost Plus Fixed Fee,2027
+Unmanned Aerial Systems,Midgard Security Systems,46754,Base Case,2027-01-31,145546819.0,Planning,0.6912,100601961.29280001,Follow-On,O&M,2027
+Unmanned Aerial Systems,Paladin Strategic Operations,19409,Upside,2029-10-01,30887470.0,Planning,0.2846,8790573.962000001,New Business,Development,2029
+Solid Rocket Motors,Mercury Tactical Solutions,14799,Upside,2026-10-01,110774074.0,Planning,0.2846,31526301.460400004,New Business,Development,2026
+Radars,Falcon Aeronautics,62774,Upside,2028-10-01,150106800.0,Planning,0.2846,42720395.28,New Business,Development,2028
+Maritime ,Vulcan Armament Corp,84230,Upside,2026-12-29,88521207.0,Planning,0.1,8852120.700000001,New Business,Cost Plus Fixed Fee,2026
+Unmanned Aerial Systems,Midgard Security Systems,26134,Upside,2026-03-31,82071532.0,Planning,0.1,8207153.2,New Business,Development,2026
+Counter-UAS,Olympus Strategic Solutions,23784,Upside,2026-03-31,153693092.0,Planning,0.1,15369309.200000001,New Business,O&M,2026
+Unmanned Aerial Systems,Midgard Security Systems,73501,Base Case,2027-08-01,108066331.0,Planning,0.9023,97508250.4613,Follow-On,Product,2027
+Radars,Blitzkrieg Defense Innovations,29862,Upside,2025-12-31,21059350.0,Planning,0.15,3158902.5,New Business,Product,2025
+Unmanned Aerial Systems,Midgard Security Systems,48281,Base Case,2027-05-30,132346760.0,Planning,0.7123999999999999,94283831.82399999,Follow-On,Development,2027
+Counter-UAS,Onyx Defense Strategies,37450,Base Case,2027-09-30,152919902.0,Planning,0.6099,93265848.2298,Follow-On,Product,2027
+Counter-UAS,Daemon Defense Networks,52917,Base Case,2029-10-09,193310923.0,Negotiation,0.9023,174424445.8229,New Business,Cost Plus Fixed Fee,2029
+Unmanned Aerial Systems,Paladin Strategic Operations,90812,Base Case,2029-07-28,187994149.0,Negotiation,0.9023,169627120.6427,New Business,Development,2029
+Command and Control ,Lionheart Defense Systems,74026,Base Case,2029-04-04,185669546.0,Negotiation,0.7725,143429724.285,New Business,Product,2029
+Maritime ,Zenith Warfare Technologies,91237,Base Case,2029-03-01,157342077.0,Negotiation,0.9,141607869.3,New Business,Subscription,2029
+Counter-Intrusion,Raptor Defense Systems,21282,Base Case,2029-04-30,168524601.0,Negotiation,0.8073,136049910.3873,New Business,Development,2029
+Counter-UAS,Olympus Strategic Solutions,65157,Base Case,2029-05-01,167472815.0,Negotiation,0.8073,135200803.5495,Modification,Development,2029
+Maritime ,Zenith Warfare Technologies,46288,Base Case,2029-08-15,168915089.0,Negotiation,0.7725,130486906.2525,New Business,Development,2029
+Counter-Intrusion,Valkyrie Defense Technologies,89375,Upside,2027-04-23,100741912.0,Negotiation,0.7123999999999999,71768538.1088,New Business,Product,2027
+Counter-Intrusion,Raptor Defense Systems,10758,Upside,2027-08-01,68536994.0,Negotiation,0.5286,36228655.0284,New Business,Subscription,2027
+Radars,Falcon Aeronautics,43443,Base Case,2028-04-26,138242759.0,Negotiation,0.9023,124736441.4457,Modification,Cost Plus Fixed Fee,2028
+Radars,Hades Defense Strategies,18935,Base Case,2028-11-29,155780689.0,Negotiation,0.7725,120340582.2525,New Business,O&M,2028
+Command and Control ,Revenant Defense Solutions,30753,Base Case,2028-02-28,148810270.0,Negotiation,0.8073,120134530.971,Follow-On,Cost Plus Fixed Fee,2028
+Counter-Intrusion,Wraith Recon Systems,21088,Base Case,2028-05-22,130525529.0,Negotiation,0.9023,117773184.8167,Modification,Product,2028
+Counter-Intrusion,Valkyrie Defense Technologies,96485,Base Case,2028-11-03,151723044.0,Negotiation,0.7725,117206051.49,New Business,Development,2028
+Counter-Intrusion,Valkyrie Defense Technologies,92134,Base Case,2028-01-17,144996060.0,Negotiation,0.8073,117055319.238,New Business,Development,2028
+Counter-Intrusion,Titan Shield Networks,21861,Base Case,2028-04-09,127973414.0,Negotiation,0.9023,115470411.4522,New Business,Development,2028
+Counter-UAS,Patriot Defense Solutions,71837,Base Case,2028-10-03,187079119.0,Negotiation,0.8073,151028972.7687,New Business,Development,2028
+Counter-UAS,Onyx Defense Strategies,98710,Base Case,2028-04-30,91588780.0,Negotiation,0.9,82429902.0,New Business,Product,2028
+Maritime ,Crimson Shield Technologies,86449,Base Case,2028-06-01,113473202.0,Negotiation,0.8073,91606915.9746,Modification,Development,2028
+Command and Control ,Revenant Defense Solutions,19630,Base Case,2028-11-28,113399285.0,Negotiation,0.8025,91002926.2125,New Business,Product,2028
+Maritime ,Phoenix Defense Strategies,71411,Base Case,2028-08-31,103545667.0,Negotiation,0.8073,83592416.9691,Option,Development,2028
+Maritime ,Vulcan Armament Corp,81647,Base Case,2028-04-01,156694306.0,Negotiation,0.5075,79522360.29499999,Modification,Product,2028
+Maritime ,Barricade Security Tech,53920,Base Case,2026-05-12,190517401.0,Negotiation,0.41,78112134.41,Follow-On,O&M,2026
+Command and Control ,Hawkeye Security Systems,50210,Base Case,2026-12-17,46333730.0,Negotiation,0.3006,13927919.238,New Business,Subscription,2026
+Command and Control ,Cobalt Security Solutions,84016,Base Case,2026-08-15,30788872.0,Negotiation,0.7725,23784403.619999997,New Business,Development,2026
+Unmanned Aerial Systems,Griffin Military Tech,60990,Base Case,2027-10-15,6893224.0,Negotiation,0.6099,4204177.3176,Option,Development,2026
+Command and Control ,Cerberus Defense Group,38891,Base Case,2026-04-02,160180936.0,Negotiation,0.9023,144531258.5528,New Business,Product,2026
+Counter-Intrusion,Raptor Defense Systems,32989,Base Case,2026-04-30,98436284.0,Negotiation,0.7123999999999999,70126008.7216,New Business,Development,2026
+Command and Control ,Thunderbolt Defense Corp,79241,Base Case,2026-03-31,1101097.0,Negotiation,0.7725,850597.4325,New Business,Development,2026
+Counter-Intrusion,Skyfire Defense Solutions,64683,Base Case,2026-03-01,147306808.0,Negotiation,0.81,119318514.48,Follow-On,Cost Plus Fixed Fee,2026
+Unmanned Aerial Systems,Basilisk Armament Technologies,63073,Base Case,2026-02-17,91904418.0,Negotiation,0.71,65252136.779999994,Follow-On,Cost Plus Fixed Fee,2026
+Command and Control ,Maelstrom Defense Group,86351,Base Case,2029-12-23,102936710.0,Negotiation,0.7123999999999999,73332112.204,New Business,Development,2029
+Maritime ,Fortitude Defense Operations,98489,Upside,2029-01-06,98019301.0,Negotiation,0.9023,88442815.2923,New Business,Product,2025
+Radars,Mars Defense Consortium,99970,Base Case,2029-08-12,89035668.0,Negotiation,0.8073,71878494.7764,Modification,Development,2029
+Maritime ,Crimson Shield Technologies,43435,Base Case,2029-10-21,88654935.0,Negotiation,0.8073,71571129.0255,Option,Product,2029
+Unmanned Aerial Systems,Midgard Security Systems,47696,Base Case,2029-02-08,102450765.0,Negotiation,0.6912,70813968.768,New Business,Development,2029
+Counter-UAS,Warlock Combat Solutions,70825,Upside,2029-02-14,112671635.0,Negotiation,0.7123999999999999,80267272.77399999,New Business,Product,2025
+Unmanned Aerial Systems,Paladin Strategic Operations,88407,Base Case,2029-07-11,127219924.0,Negotiation,0.5286,67248451.8264,RFI/White Paper,Product,2029
+Solid Rocket Motors,Iron Fortress Defense,36422,Base Case,2029-08-16,97279722.0,Negotiation,0.6912,67239743.84640001,Follow-On,Development,2029
+Unmanned Aerial Systems,Crossbow Defense Networks,45234,Base Case,2029-01-17,81065626.0,Negotiation,0.8073,65444279.8698,New Business,Development,2029
+Unmanned Aerial Systems,Paladin Strategic Operations,45680,Base Case,2025-07-06,66709187.0,Negotiation,0.9023,60191699.4301,Follow-On,O&M,2025
+Unmanned Aerial Systems,Argus Defense Systems,17680,Upside,2025-09-30,109353238.0,Negotiation,0.6428,70292261.3864,Subscription Renewal,Subscription,2025
+Maritime ,Phoenix Defense Strategies,82528,Base Case,2025-10-11,69149834.0,Negotiation,0.8073,55824660.9882,New Business,Subscription,2025
+Unmanned Aerial Systems,Scorpion Defense Systems,98993,Upside,2025-03-28,97385595.0,Negotiation,0.7123999999999999,69377497.87799999,New Business,Product,2025
+Command and Control ,Reaper Defense Innovations,63678,Base Case,2025-03-31,67663333.0,Negotiation,0.8025,54299824.7325,New Business,Development,2025
+Maritime ,Firestorm Defense Corp,30364,Base Case,2025-05-14,70881445.0,Negotiation,0.71,50325825.949999996,Follow-On,Cost Plus Fixed Fee,2025
+Counter-UAS,Patriot Defense Solutions,30487,Base Case,2025-04-30,61111705.0,Negotiation,0.8073,49335479.4465,Follow-On,Development,2025
+Radars,Mars Defense Consortium,96250,Base Case,2025-07-11,52039201.0,Negotiation,0.8073,42011246.9673,RFI/White Paper,Development,2025
+Radars,Falcon Aeronautics,20415,Base Case,2025-01-19,39853125.0,Negotiation,0.9023,35959474.6875,New Business,Development,2025
+Radars,Phantom Recon Tech,41534,Base Case,2025-03-28,64337190.0,Negotiation,0.5075,32651123.924999997,New Business,Development,2025
+Counter-Intrusion,Neptune Surveillance Systems,87229,Base Case,2025-06-19,46217911.0,Negotiation,0.6912,31945820.0832,Follow-On,Development,2025
+Counter-UAS,Triton Naval Technologies,22175,Base Case,2025-05-31,57961696.0,Negotiation,0.5,28980848.0,Follow-On,Development,2025
+Unmanned Aerial Systems,StratDef Solutions,70180,Upside,2025-07-31,57809574.0,Negotiation,0.9023,52161578.6202,New Business,Product,2025
+Maritime ,Draco Armament Research,37133,Base Case,2025-03-31,22616434.0,Negotiation,0.8025,18149688.285,New Business,Product,2025
+Counter-UAS,Triton Naval Technologies,36364,Base Case,2025-04-30,32877308.0,Negotiation,0.5286,17378945.0088,RFI/White Paper,Product,2025
+Solid Rocket Motors,Mercury Tactical Solutions,39143,Base Case,2025-05-30,30993919.0,Negotiation,0.5075,15729413.892499998,Modification,Development,2025
+Solid Rocket Motors,Manticore Aerospace Tech,79802,Base Case,2025-04-30,46779207.0,Negotiation,0.3006,14061829.6242,New Business,Subscription,2025
+Counter-UAS,Olympus Strategic Solutions,76607,Base Case,2025-03-28,13732802.0,Negotiation,0.8073,11086491.0546,New Business,Development,2025
+Radars,Pinnacle Defense Innovations,93235,Upside,2025-04-25,102574780.0,Negotiation,0.43979999999999997,45112388.243999995,Follow-On,Cost Plus Fixed Fee,2025
+Unmanned Aerial Systems,Griffin Military Tech,89943,Base Case,2025-10-11,9873050.0,Negotiation,0.8073,7970513.265000001,New Business,Subscription,2025
+Maritime ,Nightshade Security Ops,47210,Base Case,2025-05-01,8441661.0,Negotiation,0.9,7597494.9,New Business,Development,2025
+Unmanned Aerial Systems,Paladin Strategic Operations,54368,Base Case,2025-06-30,5648685.0,Negotiation,0.6912,3904371.072,Follow-On,Cost Plus Fixed Fee,2025
+Radars,Pinnacle Defense Innovations,65562,Base Case,2025-04-18,1117585.0,Negotiation,0.78,871716.3,Follow-On,O&M,2025
+Counter-UAS,Osiris Combat Solutions,96463,Base Case,2025-04-01,1250752.0,Negotiation,0.1845,230763.744,New Business,Development,2025
+Unmanned Aerial Systems,Polaris Command Systems,79335,Base Case,2027-05-12,194002826.0,Negotiation,0.41,79541158.66,Follow-On,O&M,2027
+Solid Rocket Motors,Specter Intelligence Group,72381,Base Case,2027-04-30,12066946.0,Negotiation,0.7123999999999999,8596492.3304,New Business,Development,2027
+Solid Rocket Motors,Iron Fortress Defense,85070,Base Case,2027-03-01,163036726.0,Negotiation,0.81,132059748.06,Follow-On,Cost Plus Fixed Fee,2027
+Solid Rocket Motors,Nomad Intelligence Systems,64481,Base Case,2027-04-30,136617240.0,Negotiation,0.8073,110291097.852,Follow-On,Product,2027
+Counter-UAS,Centauri Space Defense,38032,Upside,2025-06-22,32179190.0,Negotiation,0.5286,17009919.834,New Business,Subscription,2025
+Command and Control ,Cerberus Defense Group,74638,Upside,2025-06-30,21093475.0,Negotiation,0.6428,13558885.73,Follow-On,Product,2025
+Radars,Hades Defense Strategies,35959,Base Case,2027-10-31,184185678.0,Negotiation,0.5075,93474231.585,New Business,Development,2027
+Command and Control ,Thunderbolt Defense Corp,28679,Base Case,2027-06-30,195473551.0,Negotiation,0.41,80144155.91,Follow-On,O&M,2027
+Solid Rocket Motors,Titanium Security Group,91085,Upside,2026-04-24,158038450.0,Negotiation,0.7123999999999999,112586591.77999999,New Business,Product,2026
+Radars,Icarus AeroTech,94602,Base Case,2027-10-01,55143905.0,Negotiation,0.3006,16576257.842999998,New Business,Subscription,2027
+Radars,Hades Defense Strategies,34428,Upside,2028-04-24,169175065.0,Negotiation,0.7123999999999999,120520316.306,New Business,Product,2028
+Maritime ,Firestorm Defense Corp,93777,Base Case,2027-06-30,19628901.0,Negotiation,0.405,7949704.905,New Business,Development,2027
+Counter-UAS,Daemon Defense Networks,33593,Base Case,2027-03-01,103682627.0,Negotiation,0.7725,80094829.3575,Follow-On,Cost Plus Fixed Fee,2027
+Command and Control ,Zephyr Security Tech,39844,Base Case,2027-10-01,124963360.0,Negotiation,0.8073,100882920.528,Follow-On,Development,2027
+Radars,Icarus AeroTech,44230,Base Case,2027-05-01,126313061.0,Negotiation,0.81,102313579.41000001,Follow-On,Cost Plus Fixed Fee,2027
+Unmanned Aerial Systems,Atlas Protection Analytics,97471,Base Case,2027-04-30,112378731.0,Negotiation,0.9023,101399328.9813,Modification,Development,2027
+Command and Control ,Cobalt Security Solutions,52751,Base Case,2027-02-21,124500093.0,Negotiation,0.8073,100508925.07890001,Follow-On,Development,2027
+Solid Rocket Motors,Titanium Security Group,76950,Base Case,2027-04-02,110921222.0,Negotiation,0.9023,100084218.6106,New Business,Product,2027
+Counter-Intrusion,Orion Cyber Defense,17007,Base Case,2027-04-18,144514703.0,Negotiation,0.6912,99888562.71360001,Follow-On,Development,2027
+Solid Rocket Motors,Specter Intelligence Group,55442,Upside,2026-06-22,165576277.0,Negotiation,0.5286,87523620.02219999,New Business,Subscription,2026
+Radars,Borealis Defense Network,39456,Base Case,2027-09-30,139684641.0,Negotiation,0.6912,96550023.8592,Follow-On,Development,2027
+Solid Rocket Motors,Mercury Tactical Solutions,51504,Base Case,2027-01-28,102496753.0,Negotiation,0.91,93272045.23,Follow-On,Development,2027
+Radars,Kraken Maritime Defense,71652,Base Case,2029-12-07,181758465.0,Identification,0.9023,164000662.9695,Modification,Development,2029
+Command and Control ,Spartan Tactical Technologies,18606,Base Case,2029-01-24,181680676.0,Identification,0.9023,163930473.9548,Follow-On,O&M,2029
+Maritime ,Prometheus Defense Innovations,92779,Base Case,2029-03-10,170965385.0,Identification,0.8073,138020355.3105,Follow-On,Development,2029
+Maritime ,Draco Armament Research,48199,Base Case,2029-10-31,151488651.0,Identification,0.9023,136688209.7973,Modification,Development,2029
+Command and Control ,Cerberus Defense Group,72727,Base Case,2027-01-15,91155322.0,Identification,0.6912,63006558.56640001,New Business,Cost Plus Fixed Fee,2029
+Counter-UAS,Helios Tactical Solutions,98346,Base Case,2027-03-01,153044075.0,Identification,0.7123999999999999,109028599.02999999,Follow-On,Product,2029
+Command and Control ,Spartan Tactical Technologies,94608,Base Case,2029-11-25,128841337.0,Identification,0.1367,17612610.767899998,New Business,Subscription,2029
+Counter-UAS,Sentinel Security Dynamics,87949,Base Case,2029-04-01,111198932.0,Identification,0.6912,76860701.7984,New Business,Cost Plus Fixed Fee,2029
+Solid Rocket Motors,Echo Combat Systems,42888,Base Case,2029-10-01,183071614.0,Identification,0.6912,126539099.5968,New Business,Cost Plus Fixed Fee,2029
+Solid Rocket Motors,Catalyst Defense Group,28064,Base Case,2029-03-15,169618118.0,Identification,0.3075,52157571.285,New Business,Product,2029
+Unmanned Aerial Systems,StratDef Solutions,64280,Base Case,2029-04-30,47874238.0,Identification,0.7123999999999999,34105607.1512,Follow-On,O&M,2029
+Maritime ,Draco Armament Research,87909,Base Case,2029-01-14,2132531.0,Identification,0.8073,1721592.2763,Follow-On,Cost Plus Fixed Fee,2029
+Solid Rocket Motors,Manticore Aerospace Tech,53813,Base Case,2029-04-01,162551562.0,Identification,0.2368,38492209.8816,New Business,Cost Plus Fixed Fee,2029
+Radars,Mars Defense Consortium,78074,Base Case,2029-05-01,167057253.0,Identification,0.9023,150735759.3819,Follow-On,Product,2029
+Solid Rocket Motors,Mercury Tactical Solutions,79838,Base Case,2029-07-01,23423633.0,Identification,0.6174000000000001,14461751.014200002,Option,Development,2029
+Maritime ,Phoenix Defense Strategies,26760,Base Case,2029-03-16,125569300.0,Identification,0.4473,56167147.89,Follow-On,Product,2029
+Unmanned Aerial Systems,Stealth Combat Analytics,53239,Base Case,2029-07-01,162705673.0,Identification,0.9023,146809328.7479,Follow-On,Product,2029
+Counter-UAS,Patriot Defense Solutions,35828,Base Case,2029-10-01,26144947.0,Identification,0.9023,23590585.6781,Follow-On,Product,2029
+Counter-UAS,Chimera Strategic Solutions,30165,Base Case,2029-01-01,2887451.0,Identification,0.8073,2331039.1923,Follow-On,Product,2029
+Command and Control ,Thunderbolt Defense Corp,77222,Upside,2027-01-15,62543767.0,Identification,0.5,31271883.5,New Business,Product,2027
+Solid Rocket Motors,Vortex Security Dynamics,98922,Base Case,2029-01-01,88915934.0,Identification,0.8073,71781833.5182,Follow-On,Product,2029
+Command and Control ,Reaper Defense Innovations,74985,Upside,2027-01-15,55184944.0,Identification,0.5,27592472.0,New Business,Product,2027
+Counter-Intrusion,Legacy Combat Systems,40406,Base Case,2029-01-01,20714230.0,Identification,0.8073,16722597.879,Follow-On,O&M,2029
+Maritime ,Firestorm Defense Corp,34831,Base Case,2029-06-30,154138086.0,Identification,0.7725,119071671.43499999,Follow-On,O&M,2029
+Unmanned Aerial Systems,Basilisk Armament Technologies,55399,Base Case,2029-06-30,98358515.0,Identification,0.7725,75981952.83749999,Follow-On,O&M,2029
+Radars,Odyssey Security Tech,28034,Upside,2027-09-30,511613.0,Identification,0.3,153483.9,New Business,Product,2027
+Counter-UAS,Daemon Defense Networks,15384,Base Case,2029-06-30,159128010.0,Identification,0.7725,122926387.725,Follow-On,O&M,2029
+Counter-UAS,Chimera Strategic Solutions,31635,Upside,2027-06-15,2571267.0,Identification,0.3045,782950.8015,New Business,Product,2027
+Counter-UAS,Onyx Defense Strategies,99397,Upside,2027-06-15,189383274.0,Identification,0.15,28407491.099999998,New Business,Development,2027
+Unmanned Aerial Systems,Basilisk Armament Technologies,27653,Upside,2027-11-15,17349461.0,Identification,0.1845,3200975.5545,New Business,Product,2027
+Solid Rocket Motors,Templar Security Solutions,66827,Base Case,2029-06-30,51683177.0,Identification,0.7725,39925254.2325,Follow-On,O&M,2029
+Counter-Intrusion,Wraith Recon Systems,73475,Upside,2027-01-15,86577445.0,Identification,0.75,64933083.75,New Business,Product,2027
+Unmanned Aerial Systems,StratDef Solutions,24318,Base Case,2029-10-31,174486314.0,Identification,0.405,70666957.17,New Business,Product,2029
+Counter-Intrusion,Minerva Intelligence Systems,52984,Upside,2027-03-15,92221786.0,Identification,0.0525,4841643.765,New Business,Product,2027
+Unmanned Aerial Systems,Basilisk Armament Technologies,26972,Upside,2027-04-01,20290824.0,Identification,0.061500000000000006,1247885.6760000002,New Business,Development,2027
+Counter-UAS,Onyx Defense Strategies,25547,Base Case,2028-04-29,39596000.0,Identification,0.9,35636400.0,Option,Subscription,2028
+Counter-UAS,Apex Command Technologies,29931,Base Case,2028-08-01,165977560.0,Identification,0.1,16597756.0,Subscription Renewal,Subscription,2028
+Maritime ,Vulcan Armament Corp,61179,Upside,2027-03-01,5682444.0,Identification,0.3721,2114437.4124,New Business,Development,2027
+Unmanned Aerial Systems,Midgard Security Systems,94789,Upside,2027-03-01,54222353.0,Identification,0.3721,20176137.5513,New Business,Product,2027
+Counter-UAS,Olympus Strategic Solutions,92691,Upside,2027-03-01,169177880.0,Identification,0.3721,62951089.147999994,New Business,O&M,2027
+Radars,Borealis Defense Network,40821,Upside,2027-05-11,166069140.0,Identification,0.0425,7057938.45,New Business,Development,2027
+Counter-UAS,Patriot Defense Solutions,69174,Upside,2027-09-01,120197822.0,Identification,0.05,6009891.100000001,New Business,Development,2027
+Solid Rocket Motors,Nomad Intelligence Systems,56728,Upside,2027-09-01,68408009.0,Identification,0.15,10261201.35,New Business,Product,2027
+Unmanned Aerial Systems,Aegis Cyber Solutions,52827,Upside,2027-10-01,24919115.0,Identification,0.154,3837543.71,New Business,Product,2027
+Radars,Eagle Eye Defense Solutions,90279,Upside,2027-03-15,161237096.0,Identification,0.1875,30231955.5,New Business,Product,2027
+Command and Control ,Nimbus Security Networks,50543,Base Case,2028-02-12,140021115.0,Identification,0.9023,126341052.0645,Modification,Development,2028
+Counter-UAS,Guardian Military Tech,30815,Upside,2027-03-31,73838406.0,Identification,0.1,7383840.600000001,New Business,Product,2027
+Counter-UAS,Guardian Military Tech,55034,Base Case,2028-07-17,137269978.0,Identification,0.9023,123858701.1494,Follow-On,Product,2028
+Unmanned Aerial Systems,Aegis Cyber Solutions,33145,Base Case,2028-09-01,151784768.0,Identification,0.8073,122535843.2064,Follow-On,Development,2028
+Unmanned Aerial Systems,Midgard Security Systems,12152,Base Case,2028-12-22,157271955.0,Identification,0.7725,121492585.2375,Option,Product,2028
+Counter-UAS,Centauri Space Defense,29466,Base Case,2028-02-16,157043131.0,Identification,0.7725,121315818.69749999,Follow-On,Product,2028
+Counter-Intrusion,Skyfire Defense Solutions,71055,Base Case,2028-02-19,160702851.0,Identification,0.6912,111077810.6112,New Business,Development,2028
+Radars,Phantom Recon Tech,33328,Base Case,2027-11-01,52188321.0,Identification,0.6912,36072567.475200005,New Business,Cost Plus Fixed Fee,2028
+Solid Rocket Motors,Manticore Aerospace Tech,10071,Base Case,2027-08-01,184635239.0,Identification,0.7123999999999999,131534144.26359999,Follow-On,Product,2028
+Counter-Intrusion,SaberEdge Security,53511,Base Case,2028-01-12,37527143.0,Identification,0.1913,7178942.4558999995,New Business,Subscription,2028
+Command and Control ,Hawkeye Security Systems,87424,Upside,2029-12-11,170562433.0,Identification,0.9023,153898483.2959,Follow-On,Product,2029
+Radars,Phantom Recon Tech,96175,Base Case,2028-04-30,150405824.0,Identification,0.7123999999999999,107149109.01759999,Follow-On,O&M,2028
+Radars,Kraken Maritime Defense,88141,Base Case,2028-03-03,194233460.0,Identification,0.45899999999999996,89153158.13999999,New Business,Subscription,2028
+Radars,Hyperion Protection Corp,74598,Base Case,2028-05-30,92205853.0,Identification,0.9023,83197341.1619,Modification,Development,2028
+Radars,Icarus AeroTech,68123,Base Case,2028-08-31,136258614.0,Identification,0.6099,83104128.6786,Follow-On,Development,2028
+Counter-Intrusion,Ironclad Combat Systems,54272,Base Case,2028-06-30,79440521.0,Identification,0.6428,51064366.8988,Follow-On,Product,2028
+Radars,Mars Defense Consortium,76121,Base Case,2028-06-30,132598126.0,Identification,0.6428,85234075.3928,Follow-On,Product,2028
+Command and Control ,Silverline Security Operations,27380,Base Case,2028-06-30,76323641.0,Identification,0.6428,49060836.43480001,Follow-On,Product,2028
+Maritime ,Crimson Shield Technologies,95617,Base Case,2028-06-30,118940786.0,Identification,0.6428,76455137.24080001,Follow-On,Product,2028
+Maritime ,Zenith Warfare Technologies,42428,Base Case,2028-04-01,17901399.0,Identification,0.6912,12373446.9888,New Business,Cost Plus Fixed Fee,2028
+Unmanned Aerial Systems,Atlas Protection Analytics,63302,Base Case,2028-10-01,45497793.0,Identification,0.6912,31448074.5216,New Business,Cost Plus Fixed Fee,2028
+Counter-UAS,Warlock Combat Solutions,99737,Base Case,2028-06-30,162823838.0,Identification,0.1042,16966243.9196,New Business,Product,2028
+Counter-UAS,Stormbringer Defense Solutions,72120,Base Case,2028-03-15,42264579.0,Identification,0.3075,12996358.0425,New Business,Product,2028
+Maritime ,Fortitude Defense Operations,42392,Base Case,2028-04-30,154258356.0,Identification,0.7123999999999999,109893652.81439999,Follow-On,O&M,2028
+Command and Control ,Nimbus Security Networks,17427,Base Case,2028-01-14,116811847.0,Identification,0.8073,94302204.0831,Follow-On,Cost Plus Fixed Fee,2028
+Counter-UAS,Helios Tactical Solutions,53571,Base Case,2028-04-01,176486066.0,Identification,0.2368,41791900.4288,New Business,Cost Plus Fixed Fee,2028
+Command and Control ,Silverline Security Operations,26252,Base Case,2028-05-01,83790005.0,Identification,0.9023,75603721.5115,Follow-On,Product,2028
+Counter-UAS,Triton Naval Technologies,65730,Base Case,2028-07-01,122351620.0,Identification,0.6174000000000001,75539890.18800001,Option,Development,2028
+Command and Control ,Cobalt Security Solutions,38815,Base Case,2028-03-17,93397069.0,Identification,0.4473,41776508.9637,Follow-On,Product,2028
+Counter-Intrusion,Warrior Defense Systems,86253,Base Case,2028-04-01,142081597.0,Identification,0.9023,128200224.97309999,Follow-On,Product,2028
+Radars,Inferno Protection Tech,32236,Base Case,2028-08-01,189916473.0,Identification,0.9023,171361633.5879,Follow-On,Product,2028
+Command and Control ,Reaper Defense Innovations,83619,Base Case,2028-12-01,73730931.0,Identification,0.9023,66527419.0413,Follow-On,Product,2028
+Solid Rocket Motors,Nomad Intelligence Systems,10118,Base Case,2028-03-01,80982007.0,Identification,0.8073,65376774.2511,Follow-On,Product,2028
+Counter-Intrusion,Gladiator Defense Corp,29070,Base Case,2028-03-01,80880341.0,Identification,0.8073,65294699.2893,Follow-On,Product,2028
+Radars,Odyssey Security Tech,97227,Base Case,2028-03-01,81748705.0,Identification,0.8073,65995729.546500005,Follow-On,Product,2028
+Command and Control ,Revenant Defense Solutions,36963,Base Case,2028-04-01,123049290.0,Identification,0.7725,95055576.52499999,Follow-On,Product,2028
+Maritime ,Goliath Protection Systems,36797,Base Case,2028-06-01,191445747.0,Identification,0.8073,154554151.5531,Follow-On,O&M,2028
+Unmanned Aerial Systems,Crossbow Defense Networks,20737,Base Case,2028-06-01,174555469.0,Identification,0.8073,140918630.1237,Follow-On,Product,2028
+Command and Control ,Maelstrom Defense Group,15578,Base Case,2028-06-30,183654266.0,Identification,0.7725,141872920.48499998,Follow-On,O&M,2028
+Maritime ,Nightshade Security Ops,27691,Base Case,2028-06-30,50667126.0,Identification,0.7725,39140354.835,Follow-On,O&M,2028
+Unmanned Aerial Systems,Wildcat Tactical Solutions,21669,Base Case,2028-06-30,189067262.0,Identification,0.7725,146054459.89499998,Follow-On,O&M,2028
+Counter-UAS,Onyx Defense Strategies,49889,Base Case,2028-06-30,46560267.0,Identification,0.7725,35967806.2575,Follow-On,O&M,2028
+Maritime ,Fortitude Defense Operations,41652,Base Case,2028-10-31,95322195.0,Identification,0.405,38605488.975,New Business,Product,2028
+Radars,Avalanche Defense Technologies,62917,Base Case,2026-04-29,172851443.0,Identification,0.9,155566298.70000002,Option,Subscription,2026
+Maritime ,Fortitude Defense Operations,93603,Base Case,2026-08-01,25634526.0,Identification,0.1,2563452.6,Subscription Renewal,Subscription,2026
+Maritime ,Phoenix Defense Strategies,93937,Base Case,2026-04-01,158462530.0,Identification,0.2368,37523927.104,New Business,Cost Plus Fixed Fee,2026
+Command and Control ,Vanguard Tactical Solutions,55699,Base Case,2027-04-29,34581154.0,Identification,0.405,14005367.370000001,Follow-On,Product,2026
+Counter-Intrusion,Neptune Surveillance Systems,67344,Base Case,2027-09-30,27108173.0,Identification,0.6099,16533274.7127,Follow-On,Development,2026
+Radars,Eagle Eye Defense Solutions,62067,Base Case,2027-06-30,139567370.0,Identification,0.7123999999999999,99427794.388,Follow-On,Product,2026
+Command and Control ,Thunderbolt Defense Corp,70324,Base Case,2026-04-30,137505696.0,Identification,0.8073,111008348.38080001,Subscription Renewal,Subscription,2026
+Maritime ,Firestorm Defense Corp,26995,Base Case,2028-02-29,133243758.0,Identification,0.3721,49580002.351799995,New Business,Development,2026
+Radars,Pinnacle Defense Innovations,12836,Base Case,2028-05-02,141346276.0,Identification,0.7725,109189998.21,Follow-On,Product,2026
+Maritime ,Zenith Warfare Technologies,43960,Base Case,2026-09-30,152776579.0,Identification,0.7725,118019907.27749999,Follow-On,Product,2026
+Solid Rocket Motors,Valiant Defense Co.,60708,Base Case,2026-09-30,142864680.0,Identification,0.9023,128906800.764,New Business,Development,2026
+Radars,Borealis Defense Network,38812,Base Case,2026-06-30,26583289.0,Identification,0.6428,17087738.1692,Follow-On,O&M,2026
+Command and Control ,Horizon Warfare Technologies,84588,Base Case,2026-06-30,138666145.0,Identification,0.6428,89134598.00600001,Follow-On,O&M,2026
+Maritime ,Tempest Defense Innovations,70400,Base Case,2026-06-30,21555304.0,Identification,0.6428,13855749.4112,Follow-On,O&M,2026
+Unmanned Aerial Systems,Polaris Command Systems,79691,Base Case,2026-09-30,83350172.0,Identification,0.405,33756819.660000004,Follow-On,Development,2026
+Counter-UAS,Helios Tactical Solutions,17859,Base Case,2026-03-31,138453410.0,Identification,0.9023,124926511.843,Modification,Development,2026
+Solid Rocket Motors,Manticore Aerospace Tech,74531,Base Case,2026-03-31,196284359.0,Identification,0.9023,177107377.1257,Modification,Development,2026
+Solid Rocket Motors,Jupiter Defense Platform,98095,Base Case,2026-09-30,193498812.0,Identification,0.1845,35700530.814,New Business,Product,2026
+Solid Rocket Motors,Nova Intel Systems,85609,Base Case,2026-02-01,133429841.0,Identification,0.6912,92226706.09920001,New Business,Cost Plus Fixed Fee,2026
+Counter-Intrusion,Titan Shield Networks,35056,Base Case,2026-10-01,44692484.0,Identification,0.6912,30891444.9408,New Business,Cost Plus Fixed Fee,2026
+Maritime ,Tempest Defense Innovations,82477,Base Case,2026-06-30,7279950.0,Identification,0.1042,758570.79,New Business,Product,2026
+Radars,Blitzkrieg Defense Innovations,61832,Base Case,2026-04-30,55958668.0,Identification,0.7123999999999999,39864955.08319999,Follow-On,O&M,2026
+Maritime ,Artemis Armament Solutions,71486,Base Case,2026-02-21,157176451.0,Identification,0.5224,82108978.0024,Follow-On,Development,2026
+Counter-Intrusion,Raptor Defense Systems,39893,Base Case,2026-01-14,149450941.0,Identification,0.8073,120651744.6693,Follow-On,Cost Plus Fixed Fee,2026
+Unmanned Aerial Systems,Havoc Tactical Solutions,59836,Base Case,2026-05-01,149247936.0,Identification,0.9023,134666412.6528,Follow-On,Product,2026
+Maritime ,Artemis Armament Solutions,19989,Base Case,2026-07-01,178339179.0,Identification,0.6174000000000001,110106609.11460002,Option,Development,2026
+Counter-Intrusion,Neptune Surveillance Systems,18063,Base Case,2026-03-20,30376558.0,Identification,0.4473,13587434.393399999,Follow-On,Product,2026
+Counter-Intrusion,Raptor Defense Systems,11582,Base Case,2026-02-01,190997556.0,Identification,0.7725,147545612.01,Follow-On,Product,2026
+Radars,Hyperion Protection Corp,49164,Base Case,2026-06-01,171597244.0,Identification,0.7725,132558870.99,Follow-On,Product,2026
+Command and Control ,Nimbus Security Networks,98965,Base Case,2026-10-01,110825081.0,Identification,0.7725,85612375.07249999,Follow-On,Product,2026
+Maritime ,Draco Armament Research,39109,Base Case,2026-11-01,123751239.0,Identification,0.7725,95597832.1275,Follow-On,Product,2026
+Solid Rocket Motors,Titanium Security Group,43484,Base Case,2026-12-01,138268399.0,Identification,0.9023,124759576.4177,Follow-On,Product,2026
+Counter-Intrusion,Valkyrie Defense Technologies,95587,Base Case,2026-12-01,86095097.0,Identification,0.9023,77683606.0231,Follow-On,Product,2026
+Radars,Hades Defense Strategies,59629,Base Case,2026-12-01,134021513.0,Identification,0.9023,120927611.1799,Follow-On,Product,2026
+Command and Control ,Thunderbolt Defense Corp,13205,Base Case,2026-12-01,49055871.0,Identification,0.9023,44263112.4033,Follow-On,O&M,2026
+Maritime ,Barricade Security Tech,82465,Base Case,2026-12-01,76882315.0,Identification,0.9023,69370912.8245,Follow-On,O&M,2026
+Radars,Blitzkrieg Defense Innovations,60724,Base Case,2026-10-30,119243495.0,Identification,0.405,48293615.475,New Business,Product,2026
+Command and Control ,Cerberus Defense Group,29219,Base Case,2029-03-28,143342868.0,Identification,0.4473,64117264.8564,New Business,Development,2029
+Command and Control ,Vanguard Tactical Solutions,73751,Base Case,2025-03-31,65862216.0,Identification,0.8573000000000001,56463677.77680001,Follow-On,Cost Plus Fixed Fee,2025
+Command and Control ,Hawkeye Security Systems,23981,Base Case,2025-08-31,89853425.0,Identification,0.6099,54801603.9075,New Business,Development,2025
+Maritime ,Barricade Security Tech,87898,Base Case,2025-09-30,155797804.0,Identification,0.35100000000000003,54685029.204,New Business,Product,2025
+Solid Rocket Motors,Specter Intelligence Group,65392,Base Case,2025-09-01,70340769.0,Identification,0.7725,54338244.052499995,Follow-On,Product,2025
+Radars,Avalanche Defense Technologies,21404,Base Case,2025-07-31,147623995.0,Identification,0.36590000000000006,54015619.77050001,New Business,Development,2025
+Maritime ,Firestorm Defense Corp,75799,Base Case,2025-08-31,86665447.0,Identification,0.6099,52857256.1253,New Business,Development,2025
+Command and Control ,Spartan Tactical Technologies,83904,Base Case,2025-05-30,57289385.0,Identification,0.9023,51692212.0855,Modification,Development,2025
+Solid Rocket Motors,Blackhawk Defense Dynamics,14967,Base Case,2025-06-30,124314212.0,Identification,0.405,50347255.86000001,New Business,Subscription,2025
+Command and Control ,Cerberus Defense Group,54278,Base Case,2025-08-01,162626790.0,Identification,0.297,48300156.629999995,New Business,Product,2025
+Counter-UAS,Daemon Defense Networks,60773,Base Case,2025-09-30,107235728.0,Identification,0.41,43966648.48,New Business,Product,2025
+Radars,Eagle Eye Defense Solutions,90164,Base Case,2025-09-01,83915634.0,Identification,0.45899999999999996,38517276.006,New Business,Subscription,2025
+Counter-Intrusion,Legacy Combat Systems,15180,Base Case,2025-12-31,53010599.0,Identification,0.6912,36640926.0288,Follow-On,O&M,2025
+Radars,Borealis Defense Network,45176,Base Case,2025-12-30,198359192.0,Identification,0.1845,36597270.924,New Business,Product,2025
+Counter-Intrusion,SaberEdge Security,19386,Base Case,2025-09-30,192463107.0,Identification,0.1845,35509443.2415,New Business,Product,2025
+Radars,Avalanche Defense Technologies,58175,Base Case,2025-12-31,48787018.0,Identification,0.6912,33721586.8416,Follow-On,O&M,2025
+Solid Rocket Motors,Vortex Security Dynamics,10938,Base Case,2025-12-31,42940558.0,Identification,0.6912,29680513.689600002,Follow-On,O&M,2025
+Counter-Intrusion,Titan Shield Networks,35914,Base Case,2025-08-01,62450696.0,Identification,0.4274,26691427.4704,New Business,Cost Plus Fixed Fee,2025
+Solid Rocket Motors,Nova Intel Systems,67287,Base Case,2025-08-01,36160114.0,Identification,0.7123999999999999,25760465.2136,New Business,Cost Plus Fixed Fee,2025
+Maritime ,Prometheus Defense Innovations,66186,Base Case,2025-10-15,21473183.0,Identification,0.9023,19375253.0209,Follow-On,O&M,2025
+Radars,Icarus AeroTech,38218,Upside,2025-09-30,182287391.0,Identification,0.26649999999999996,48579589.70149999,New Business,Product,2025
+Radars,Phantom Recon Tech,60903,Base Case,2025-12-01,15844992.0,Identification,0.6174000000000001,9782698.060800001,Follow-On,Cost Plus Fixed Fee,2025
+Counter-UAS,Daemon Defense Networks,70342,Base Case,2025-08-01,52760396.0,Identification,0.1845,9734293.061999999,New Business,Subscription,2025
+Counter-UAS,Chimera Strategic Solutions,76716,Base Case,2025-09-30,14253930.0,Identification,0.5751,8197435.142999999,New Business,Product,2025
+Unmanned Aerial Systems,Argus Defense Systems,42286,Base Case,2025-10-31,8890104.0,Identification,0.9023,8021540.8392,Modification,Development,2025
+Unmanned Aerial Systems,Basilisk Armament Technologies,71658,Base Case,2025-11-30,11539112.0,Identification,0.6099,7037704.4088,New Business,Product,2025
+Unmanned Aerial Systems,Aegis Cyber Solutions,47618,Base Case,2025-10-15,7416553.0,Identification,0.9023,6691955.7719,Follow-On,O&M,2025
+Counter-UAS,Centauri Space Defense,67101,Base Case,2025-05-30,7313351.0,Identification,0.9023,6598836.6073,Modification,Development,2025
+Command and Control ,Silverline Security Operations,52382,Upside,2025-11-28,130274720.0,Identification,0.3006,39160580.831999995,New Business,Development,2025
+Radars,Hyperion Protection Corp,67098,Base Case,2025-03-14,2047419.0,Identification,0.6099,1248720.8481,Modification,Cost Plus Fixed Fee,2025
+Radars,Hyperion Protection Corp,40248,Base Case,2025-02-11,8091292.0,Identification,0.1367,1106079.6164,New Business,O&M,2025
+Unmanned Aerial Systems,Wildcat Tactical Solutions,38080,Base Case,2027-04-29,27759676.0,Identification,0.9,24983708.400000002,Option,Subscription,2027
+Unmanned Aerial Systems,StratDef Solutions,75498,Base Case,2027-08-02,3099475.0,Identification,0.1,309947.5,Subscription Renewal,Subscription,2027
+Counter-Intrusion,Orion Cyber Defense,57275,Base Case,2027-01-01,143537501.0,Identification,0.6912,99213120.6912,New Business,Cost Plus Fixed Fee,2027
+Counter-Intrusion,Quantum Defense Corp,24750,Base Case,2027-07-01,58010225.0,Identification,0.7123999999999999,41326484.29,Follow-On,Product,2027
+Unmanned Aerial Systems,Scorpion Defense Systems,32051,Base Case,2027-06-30,122568485.0,Identification,0.7725,94684154.6625,Follow-On,O&M,2027
+Counter-UAS,Warlock Combat Solutions,93898,Base Case,2027-06-30,33458267.0,Identification,0.7725,25846511.2575,Follow-On,O&M,2027
+Solid Rocket Motors,Titanium Security Group,63583,Base Case,2027-06-30,84831153.0,Identification,0.7725,65532065.692499995,Follow-On,O&M,2027
+Maritime ,Vulcan Armament Corp,37524,Base Case,2027-06-30,177967654.0,Identification,0.513,91297406.502,Follow-On,Product,2027
+Unmanned Aerial Systems,Midgard Security Systems,69114,Base Case,2027-06-30,70640315.0,Identification,0.513,36238481.595,Follow-On,Product,2027
+Counter-UAS,Olympus Strategic Solutions,13097,Base Case,2027-06-30,103976198.0,Identification,0.513,53339789.574,Follow-On,Product,2027
+Solid Rocket Motors,Blackhawk Defense Dynamics,70829,Base Case,2027-06-30,154334780.0,Identification,0.513,79173742.14,Follow-On,Product,2027
+Radars,Pinnacle Defense Innovations,25305,Base Case,2027-04-01,59322352.0,Identification,0.6912,41003609.7024,New Business,Cost Plus Fixed Fee,2027
+Command and Control ,Vanguard Tactical Solutions,15822,Base Case,2027-10-01,5132171.0,Identification,0.6912,3547356.5952000003,New Business,Cost Plus Fixed Fee,2027
+Unmanned Aerial Systems,Scorpion Defense Systems,87659,Base Case,2027-06-27,43298704.0,Identification,0.1042,4511724.9568,New Business,Product,2027
+Unmanned Aerial Systems,Polaris Command Systems,17406,Base Case,2027-03-15,157874953.0,Identification,0.3075,48546548.0475,New Business,Product,2027
+Command and Control ,Zephyr Security Tech,10461,Base Case,2027-04-30,189899080.0,Identification,0.7123999999999999,135284104.59199998,Follow-On,O&M,2027
+Radars,Hyperion Protection Corp,94890,Base Case,2027-01-14,58124800.0,Identification,0.8073,46924151.04,Follow-On,Cost Plus Fixed Fee,2027
+Unmanned Aerial Systems,Argus Defense Systems,32981,Base Case,2027-04-01,38674905.0,Identification,0.2368,9158217.504,New Business,Cost Plus Fixed Fee,2027
+Maritime ,Crimson Shield Technologies,70957,Base Case,2027-05-01,166037266.0,Identification,0.9023,149815425.1118,Follow-On,Product,2027
+Solid Rocket Motors,Manticore Aerospace Tech,10743,Upside,2025-12-04,83483201.0,Identification,0.35,29219120.349999998,Subscription Renewal,Product,2025
+Counter-UAS,Warlock Combat Solutions,10780,Base Case,2027-01-30,91762073.0,Identification,0.9023,82796918.4679,Follow-On,Cost Plus Fixed Fee,2027
+Solid Rocket Motors,Titanium Security Group,98482,Base Case,2027-01-30,175625888.0,Identification,0.9023,158467238.7424,Follow-On,Cost Plus Fixed Fee,2027
+Counter-Intrusion,Valkyrie Defense Technologies,30151,Base Case,2027-01-30,105743693.0,Identification,0.9023,95412534.1939,Follow-On,Cost Plus Fixed Fee,2027
+Radars,Hades Defense Strategies,74609,Base Case,2027-10-16,52491485.0,Identification,0.9023,47363066.9155,Follow-On,O&M,2027
+Command and Control ,Thunderbolt Defense Corp,58079,Base Case,2027-10-16,136374920.0,Identification,0.9023,123051090.316,Follow-On,O&M,2027
+Maritime ,Barricade Security Tech,80420,Base Case,2027-10-16,126050699.0,Identification,0.9023,113735545.7077,Follow-On,O&M,2027
+Counter-UAS,Stormbringer Defense Solutions,55834,Base Case,2027-04-01,189919267.0,Identification,0.8073,153321824.2491,Follow-On,Product,2027
+Solid Rocket Motors,Catalyst Defense Group,90068,Base Case,2027-04-01,11510698.0,Identification,0.8073,9292586.4954,Follow-On,Product,2027
+Counter-Intrusion,Warrior Defense Systems,18387,Base Case,2027-03-01,139534501.0,Identification,0.8073,112646202.6573,Follow-On,Product,2027
+Radars,Inferno Protection Tech,94697,Base Case,2027-03-01,34187160.0,Identification,0.8073,27599294.268,Follow-On,Product,2027
+Command and Control ,Reaper Defense Innovations,40354,Base Case,2027-03-01,97055572.0,Identification,0.8073,78352963.2756,Follow-On,Product,2027
+Maritime ,Sabre Tactical Operations,96104,Base Case,2027-03-01,34891304.0,Identification,0.8073,28167749.7192,Follow-On,Product,2027
+Unmanned Aerial Systems,Stealth Combat Analytics,20681,Base Case,2027-04-01,33132732.0,Identification,0.9023,29895664.0836,Follow-On,Product,2027
+Counter-UAS,Helios Tactical Solutions,49134,Upside,2026-12-03,47990007.0,Identification,0.35,16796502.45,Subscription Renewal,Product,2026
+Unmanned Aerial Systems,Paladin Strategic Operations,83507,Base Case,2027-07-01,105432318.0,Identification,0.6174000000000001,65093913.133200005,Option,Development,2027
+Radars,Falcon Aeronautics,15191,Base Case,2027-03-19,73661852.0,Identification,0.4473,32948946.3996,Follow-On,Product,2027
+Unmanned Aerial Systems,Argus Defense Systems,84549,Base Case,2027-01-01,45676518.0,Identification,0.7725,35285110.155,Follow-On,Product,2027
+Counter-UAS,Apex Command Technologies,55264,Upside,2025-09-30,136818070.0,Identification,0.1845,25242933.915,Follow-On,Product,2025
+Unmanned Aerial Systems,Scorpion Defense Systems,88937,Upside,2026-12-01,154766829.0,Identification,0.0525,8125258.5225,New Business,Product,2026
+Counter-UAS,Helios Tactical Solutions,24959,Base Case,2027-04-01,15765207.0,Identification,0.7725,12178622.407499999,Follow-On,Product,2027
+Solid Rocket Motors,Manticore Aerospace Tech,75838,Base Case,2027-06-01,103630715.0,Identification,0.7725,80054727.33749999,Follow-On,Product,2027
+Radars,Hades Defense Strategies,97784,Upside,2026-01-15,73161457.0,Identification,0.5,36580728.5,New Business,Product,2026
+Maritime ,Barricade Security Tech,64780,Upside,2028-01-15,195330708.0,Identification,0.5,97665354.0,New Business,Product,2028
+Unmanned Aerial Systems,Polaris Command Systems,50558,Upside,2029-01-15,181640638.0,Identification,0.5,90820319.0,New Business,Product,2029
+Radars,Inferno Protection Tech,98704,Upside,2026-04-01,148958360.0,Identification,0.5,74479180.0,New Business,Product,2026
+Unmanned Aerial Systems,Polaris Command Systems,39172,Base Case,2027-04-01,86228936.0,Identification,0.9023,77804368.9528,Follow-On,Product,2027
+Maritime ,Sabre Tactical Operations,38085,Upside,2028-01-15,119068151.0,Identification,0.5,59534075.5,New Business,Product,2028
+Counter-UAS,Stormbringer Defense Solutions,49114,Base Case,2027-08-01,3309971.0,Identification,0.9023,2986586.8333,Follow-On,Product,2027
+Command and Control ,Revenant Defense Solutions,14313,Upside,2028-09-30,129639820.0,Identification,0.3,38891946.0,New Business,Product,2028
+Maritime ,Goliath Protection Systems,20309,Upside,2029-09-30,191190924.0,Identification,0.3,57357277.199999996,New Business,Product,2029
+Unmanned Aerial Systems,Crossbow Defense Networks,67307,Upside,2026-06-15,187925153.0,Identification,0.3045,57223209.0885,New Business,Product,2026
+Solid Rocket Motors,Catalyst Defense Group,92991,Base Case,2027-12-01,35210681.0,Identification,0.9023,31770597.4663,Follow-On,Product,2027
+Solid Rocket Motors,Vortex Security Dynamics,18275,Upside,2028-06-15,106586901.0,Identification,0.3045,32455711.3545,New Business,Product,2028
+Counter-Intrusion,Legacy Combat Systems,98186,Upside,2029-06-15,55872286.0,Identification,0.3045,17013111.087,New Business,Product,2029
+Unmanned Aerial Systems,Wildcat Tactical Solutions,49092,Upside,2026-06-15,118078767.0,Identification,0.15,17711815.05,New Business,Development,2026
+Solid Rocket Motors,Iron Fortress Defense,87420,Base Case,2027-06-30,13086737.0,Identification,0.7725,10109504.3325,Follow-On,O&M,2027
+Solid Rocket Motors,Iron Fortress Defense,27817,Upside,2028-06-15,123514379.0,Identification,0.15,18527156.849999998,New Business,Development,2028
+Counter-Intrusion,Skyfire Defense Solutions,55715,Upside,2029-06-15,182577856.0,Identification,0.5,91288928.0,New Business,Development,2029
+Radars,Icarus AeroTech,92163,Upside,2025-06-16,124230066.0,Identification,0.1845,22920447.177,New Business,Product,2025
+Maritime ,Firestorm Defense Corp,13478,Upside,2026-11-15,969750.0,Identification,0.1845,178918.875,New Business,Product,2026
+Counter-UAS,Daemon Defense Networks,63616,Upside,2028-11-15,162589134.0,Identification,0.1845,29997695.223,New Business,Product,2028
+Solid Rocket Motors,Templar Security Solutions,21104,Upside,2026-01-15,48985027.0,Identification,0.75,36738770.25,New Business,Product,2026
+Counter-Intrusion,Skyfire Defense Solutions,56108,Base Case,2027-06-30,115293361.0,Identification,0.7725,89064121.3725,Follow-On,O&M,2027
+Radars,Blitzkrieg Defense Innovations,85597,Upside,2028-01-15,47671665.0,Identification,0.75,35753748.75,New Business,Product,2028
+Radars,Icarus AeroTech,31261,Base Case,2027-06-30,176654.0,Identification,0.7725,136465.215,Follow-On,O&M,2027
+Command and Control ,Hawkeye Security Systems,46483,Base Case,2027-06-30,37740633.0,Identification,0.7725,29154638.9925,Follow-On,O&M,2027
+Command and Control ,Zephyr Security Tech,99008,Base Case,2027-10-29,184908091.0,Identification,0.405,74887776.855,New Business,Product,2027
+Solid Rocket Motors,Iron Fortress Defense,90475,Base Case,2027-09-30,185965427.0,Identification,0.6912,128539303.14240001,New Business,Development,2027
+Radars,Kraken Maritime Defense,31224,Upside,2028-03-15,17165338.0,Identification,0.0525,901180.245,New Business,Product,2028
+Command and Control ,Spartan Tactical Technologies,28140,Upside,2029-03-15,132116989.0,Identification,0.0525,6936141.922499999,New Business,Product,2029
+Maritime ,Prometheus Defense Innovations,40795,Upside,2028-09-30,71389755.0,Identification,0.05,3569487.75,New Business,Product,2028
+Unmanned Aerial Systems,Aegis Cyber Solutions,44426,Upside,2026-03-25,21703087.0,Identification,0.098,2126902.526,New Business,Product,2026
+Counter-UAS,Onyx Defense Strategies,33986,Upside,2025-09-30,185925071.0,Identification,0.1,18592507.1,New Business,Development,2025
+Radars,Avalanche Defense Technologies,49750,Upside,2025-06-02,166058527.0,Identification,0.11,18266437.97,New Business,Product,2025
+Counter-Intrusion,Skyfire Defense Solutions,56595,Upside,2025-09-30,181645783.0,Identification,0.1,18164578.3,New Business,Development,2025
+Counter-Intrusion,Warrior Defense Systems,92566,Upside,2026-03-18,178610796.0,Identification,0.1367,24416095.813199997,New Business,Development,2026
+Command and Control ,Maelstrom Defense Group,11470,Upside,2025-09-30,89812962.0,Identification,0.1845,16570491.489,Follow-On,Product,2025
+Command and Control ,Reaper Defense Innovations,23211,Upside,2028-12-08,93937733.0,Identification,0.33,30999451.89,New Business,Product,2028
+Maritime ,Sabre Tactical Operations,87307,Upside,2028-12-08,35040888.0,Identification,0.33,11563493.040000001,New Business,Product,2028
+Unmanned Aerial Systems,Stealth Combat Analytics,81319,Upside,2028-12-08,182298148.0,Identification,0.33,60158388.84,New Business,Product,2028
+Counter-UAS,Patriot Defense Solutions,51809,Upside,2028-12-08,161805700.0,Identification,0.33,53395881.0,New Business,Product,2028
+Solid Rocket Motors,Nomad Intelligence Systems,90251,Upside,2028-12-08,55935149.0,Identification,0.33,18458599.17,New Business,Product,2028
+Solid Rocket Motors,Iron Fortress Defense,74081,Upside,2025-09-30,161102086.0,Identification,0.1,16110208.600000001,New Business,Development,2025
+Unmanned Aerial Systems,Wildcat Tactical Solutions,16690,Upside,2025-09-30,156109365.0,Identification,0.1,15610936.5,New Business,Development,2025
+Command and Control ,Revenant Defense Solutions,86783,Upside,2025-09-19,60581563.0,Identification,0.25,15145390.75,New Business,Product,2025
+Maritime ,Firestorm Defense Corp,62193,Upside,2026-04-01,64448435.0,Identification,0.061500000000000006,3963578.7525000004,New Business,Development,2026
+Counter-UAS,Daemon Defense Networks,74393,Upside,2028-04-01,192875866.0,Identification,0.061500000000000006,11861865.759000001,New Business,Development,2028
+Solid Rocket Motors,Templar Security Solutions,94011,Upside,2029-04-01,146720610.0,Identification,0.061500000000000006,9023317.515,New Business,Development,2029
+Radars,Blitzkrieg Defense Innovations,39347,Upside,2026-08-01,72467915.0,Identification,0.0675,4891584.2625,New Business,Subscription,2026
+Command and Control ,Zephyr Security Tech,68031,Upside,2026-04-29,9559972.0,Identification,0.0675,645298.11,New Business,Subscription,2026
+Counter-UAS,Apex Command Technologies,90941,Upside,2026-10-01,21958768.0,Identification,0.154,3381650.272,New Business,Product,2026
+Counter-Intrusion,Titan Shield Networks,63446,Upside,2026-03-02,37621363.0,Identification,0.154,5793689.902,New Business,Product,2026
+Solid Rocket Motors,Nova Intel Systems,51833,Upside,2025-06-02,199904116.0,Identification,0.0675,13493527.83,New Business,Development,2025
+Counter-UAS,Patriot Defense Solutions,20373,Upside,2025-12-31,130834728.0,Identification,0.1,13083472.8,New Business,Development,2025
+Counter-Intrusion,Quantum Defense Corp,90927,Upside,2026-08-01,169595757.0,Identification,0.3721,63106581.179699995,New Business,Development,2026
+Radars,Eagle Eye Defense Solutions,48801,Upside,2026-08-01,53455066.0,Identification,0.3721,19890630.0586,New Business,Product,2026
+Command and Control ,Lionheart Defense Systems,11585,Upside,2026-08-01,21078054.0,Identification,0.3721,7843143.8933999995,New Business,O&M,2026
+Solid Rocket Motors,Blackhawk Defense Dynamics,98931,Upside,2028-03-01,166694767.0,Identification,0.3721,62027122.8007,New Business,Development,2028
+Counter-Intrusion,Ironclad Combat Systems,59236,Upside,2028-03-01,37118021.0,Identification,0.3721,13811615.6141,New Business,Product,2028
+Radars,Mars Defense Consortium,44312,Upside,2028-03-01,125091148.0,Identification,0.3721,46546416.1708,New Business,O&M,2028
+Command and Control ,Silverline Security Operations,45453,Upside,2029-03-01,50064387.0,Identification,0.3721,18628958.4027,New Business,Product,2029
+Maritime ,Crimson Shield Technologies,79396,Upside,2029-03-01,92081697.0,Identification,0.3721,34263599.4537,New Business,O&M,2029
+Unmanned Aerial Systems,Havoc Tactical Solutions,85528,Upside,2028-05-11,189372652.0,Identification,0.1845,34939254.294,New Business,Development,2028
+Counter-UAS,Guardian Military Tech,20437,Upside,2026-05-11,178345528.0,Identification,0.1845,32904749.916,New Business,Development,2026
+Solid Rocket Motors,Jupiter Defense Platform,89422,Upside,2028-05-15,16757370.0,Identification,0.126,2111428.62,New Business,Product,2028
+Counter-Intrusion,SaberEdge Security,91245,Upside,2029-05-14,115120318.0,Identification,0.126,14505160.068,Follow-On,Product,2029
+Command and Control ,Horizon Warfare Technologies,74112,Upside,2026-05-11,167051596.0,Identification,0.0425,7099692.83,New Business,Development,2026
+Maritime ,Tempest Defense Innovations,89680,Upside,2029-05-17,7885647.0,Identification,0.0425,335139.9975,New Business,Development,2029
+Counter-Intrusion,Gladiator Defense Corp,95993,Upside,2028-09-30,26769023.0,Identification,0.15,4015353.4499999997,New Business,Cost Plus Fixed Fee,2028
+Counter-UAS,Chimera Strategic Solutions,32627,Upside,2026-12-01,172271761.0,Identification,0.15,25840764.15,Follow-On,Development,2026
+Command and Control ,Hawkeye Security Systems,23568,Upside,2025-09-30,68977734.0,Identification,0.1,6897773.4,New Business,Development,2025
+Command and Control ,Spartan Tactical Technologies,66880,Upside,2026-10-30,113333004.0,Identification,0.154,17453282.616,New Business,Subscription,2026
+Command and Control ,Hawkeye Security Systems,16303,Upside,2025-11-15,22980143.0,Identification,0.1845,4239836.3834999995,New Business,Product,2025
+Command and Control ,Spartan Tactical Technologies,76527,Base Case,2027-03-10,121812917.0,Identification,0.8073,98339567.8941,Follow-On,Development,2027
+Maritime ,Sabre Tactical Operations,78198,Upside,2025-07-01,36843367.0,Identification,0.1,3684336.7,Follow-On,Product,2025
+Maritime ,Crimson Shield Technologies,88030,Upside,2026-04-30,173812583.0,Identification,0.3006,52248062.4498,New Business,Development,2026
+Unmanned Aerial Systems,Havoc Tactical Solutions,27338,Upside,2026-08-01,142776229.0,Identification,0.1,14277622.9,New Business,Development,2026
+Command and Control ,Thunderbolt Defense Corp,97321,Upside,2026-03-15,73245042.0,Identification,0.1875,13733445.375,New Business,Development,2026
+Maritime ,Barricade Security Tech,93796,Upside,2028-03-15,25248498.0,Identification,0.1875,4734093.375,New Business,Product,2028
+Unmanned Aerial Systems,Polaris Command Systems,57086,Upside,2029-03-15,71977327.0,Identification,0.1875,13495748.8125,New Business,Product,2029
+Counter-Intrusion,Warrior Defense Systems,69579,Upside,2026-04-17,195080618.0,Identification,0.1025,19995763.345,New Business,Product,2026
+Counter-Intrusion,Raptor Defense Systems,20932,Upside,2025-06-30,30227282.0,Identification,0.0675,2040341.5350000001,New Business,Development,2025
+Radars,Icarus AeroTech,16201,Upside,2025-09-30,17362910.0,Identification,0.1,1736291.0,New Business,Development,2025
+Solid Rocket Motors,Nomad Intelligence Systems,94385,Upside,2029-04-30,48076211.0,Identification,0.3006,14451709.0266,New Business,Product,2029
+Counter-Intrusion,Gladiator Defense Corp,42736,Upside,2028-03-31,114196058.0,Identification,0.1,11419605.8,New Business,Product,2028
+Radars,Odyssey Security Tech,51785,Upside,2028-04-28,8048520.0,Identification,0.3006,2419385.1119999997,New Business,Product,2028
+Radars,Pinnacle Defense Innovations,84566,Base Case,2027-03-24,118554768.0,Identification,0.8073,95709264.2064,Follow-On,Development,2027
+Counter-UAS,Chimera Strategic Solutions,75935,Upside,2026-06-26,97753182.0,Identification,0.098,9579811.836000001,New Business,Development,2026
+Maritime ,Nightshade Security Ops,99464,Upside,2025-09-30,2937822.0,Identification,0.1,293782.2,New Business,O&M,2025
+Unmanned Aerial Systems,Atlas Protection Analytics,46843,Upside,2025-09-19,828444.0,Identification,0.1,82844.40000000001,New Business,Product,2025
+Counter-UAS,Olympus Strategic Solutions,44639,Base Case,2029-07-18,196624427.0,Contracting,0.9023,177414220.4821,Option,Development,2029
+Command and Control ,Vanguard Tactical Solutions,68746,Base Case,2029-11-16,193147324.0,Contracting,0.9023,174276830.4452,Follow-On,Development,2029
+Unmanned Aerial Systems,Aegis Cyber Solutions,76193,Base Case,2029-09-14,185239080.0,Contracting,0.9023,167141221.884,Modification,Development,2029
+Maritime ,Vulcan Armament Corp,76964,Base Case,2029-10-21,184421099.0,Contracting,0.9023,166403157.6277,Follow-On,O&M,2029
+Counter-UAS,Apex Command Technologies,93616,Base Case,2029-05-23,173289270.0,Contracting,0.91,157693235.70000002,New Business,Product,2029
+Unmanned Aerial Systems,Stealth Combat Analytics,32484,Base Case,2029-09-15,151577487.0,Contracting,1.0,151577487.0,New Business,Development,2029
+Radars,Odyssey Security Tech,23439,Base Case,2029-03-10,191623979.0,Contracting,0.6912,132450494.28480001,Follow-On,O&M,2029
+Counter-Intrusion,Raptor Defense Systems,16077,Base Case,2029-02-11,143890165.0,Contracting,0.9023,129832095.8795,New Business,Development,2029
+Counter-Intrusion,Neptune Surveillance Systems,32909,Base Case,2029-05-09,137333794.0,Contracting,0.95,130467104.3,New Business,Product,2029
+Radars,Kraken Maritime Defense,17836,Base Case,2029-09-17,84772167.0,Contracting,0.9023,76489926.2841,Follow-On,Development,2029
+Solid Rocket Motors,Manticore Aerospace Tech,46841,Upside,2027-03-31,141345430.0,Contracting,0.41,57951626.3,New Business,Product,2027
+Command and Control ,Spartan Tactical Technologies,20682,Base Case,2028-06-18,156600598.0,Contracting,0.7725,120973961.955,Follow-On,Cost Plus Fixed Fee,2028
+Unmanned Aerial Systems,Aegis Cyber Solutions,98672,Base Case,2028-02-24,129553382.0,Contracting,0.9023,116896016.5786,Option,Development,2028
+Unmanned Aerial Systems,Havoc Tactical Solutions,12784,Base Case,2028-05-16,127198906.0,Contracting,0.9023,114771572.8838,New Business,Development,2028
+Command and Control ,Horizon Warfare Technologies,54845,Base Case,2028-04-21,189214195.0,Contracting,1.0,189214195.0,Modification,Cost Plus Fixed Fee,2028
+Unmanned Aerial Systems,Scorpion Defense Systems,71407,Base Case,2028-05-15,102461769.0,Contracting,0.9023,92451254.1687,Option,Development,2028
+Command and Control ,Reaper Defense Innovations,28437,Base Case,2028-09-14,50277564.0,Contracting,0.9023,45365445.9972,Modification,Development,2028
+Counter-UAS,Apex Command Technologies,37908,Base Case,2028-03-03,100836229.0,Contracting,0.9023,90984529.4267,Modification,Cost Plus Fixed Fee,2028
+Maritime ,Barricade Security Tech,55041,Base Case,2028-03-28,101583889.0,Contracting,0.8073,82008673.5897,New Business,Development,2028
+Radars,Inferno Protection Tech,13811,Base Case,2028-03-28,195104633.0,Contracting,0.41,79992899.53,New Business,Development,2028
+Counter-UAS,Sentinel Security Dynamics,98278,Base Case,2026-08-29,134242042.0,Contracting,0.9023,121126594.4966,Modification,Development,2026
+Command and Control ,Spartan Tactical Technologies,28279,Base Case,2026-01-15,49028593.0,Contracting,0.9023,44238499.4639,Option,O&M,2026
+Unmanned Aerial Systems,Polaris Command Systems,45381,Base Case,2029-07-07,190697133.0,Contracting,1.0,190697133.0,New Business,Development,2026
+Solid Rocket Motors,Vortex Security Dynamics,92616,Base Case,2028-09-14,71072725.0,Contracting,0.297,21108599.325,New Business,Product,2026
+Unmanned Aerial Systems,Aegis Cyber Solutions,95108,Base Case,2027-06-30,192545006.0,Contracting,0.88,169439605.28,Modification,Development,2026
+Radars,Pinnacle Defense Innovations,86209,Upside,2027-07-31,125240269.0,Contracting,0.8073,101106469.1637,New Business,Development,2027
+Command and Control ,Lionheart Defense Systems,52475,Base Case,2029-05-21,19322365.0,Contracting,0.4473,8642893.8645,New Business,Development,2026
+Radars,Phantom Recon Tech,96718,Base Case,2026-03-31,87514179.0,Contracting,0.297,25991711.163,New Business,Product,2026
+Maritime ,Artemis Armament Solutions,42259,Base Case,2026-03-31,97208581.0,Contracting,0.297,28870948.557,New Business,Product,2026
+Solid Rocket Motors,Nomad Intelligence Systems,92035,Base Case,2026-02-18,59105379.0,Contracting,0.6912,40853637.9648,Follow-On,Product,2026
+Counter-Intrusion,Gladiator Defense Corp,88638,Base Case,2026-02-18,61907782.0,Contracting,0.6912,42790658.918400005,Follow-On,Development,2026
+Radars,Eagle Eye Defense Solutions,61490,Base Case,2029-12-30,159252432.0,Contracting,0.4473,71233612.8336,New Business,Development,2029
+Solid Rocket Motors,Jupiter Defense Platform,81719,Base Case,2029-01-10,113604713.0,Contracting,0.6099,69287514.4587,New Business,Development,2029
+Counter-Intrusion,Gladiator Defense Corp,16659,Base Case,2029-09-20,73448505.0,Contracting,0.9023,66272586.0615,Follow-On,Development,2029
+Command and Control ,Horizon Warfare Technologies,43133,Base Case,2029-10-25,73426572.0,Contracting,0.9023,66252795.9156,Subscription Renewal,Subscription,2029
+Counter-Intrusion,Ironclad Combat Systems,45915,Base Case,2029-04-01,69776862.0,Contracting,0.9023,62959662.5826,New Business,Development,2029
+Counter-UAS,Triton Naval Technologies,59145,Base Case,2025-03-28,66475453.0,Contracting,0.9023,59980801.2419,Follow-On,Product,2025
+Unmanned Aerial Systems,Paladin Strategic Operations,18504,Base Case,2025-12-15,114834979.0,Contracting,0.5193,59633804.5947,Follow-On,Development,2025
+Counter-UAS,Osiris Combat Solutions,27106,Base Case,2025-06-06,64555113.0,Contracting,0.9023,58248078.4599,Follow-On,Development,2025
+Solid Rocket Motors,Nova Intel Systems,36794,Base Case,2025-03-03,62737177.0,Contracting,0.9023,56607754.8071,Modification,Cost Plus Fixed Fee,2025
+Radars,Eagle Eye Defense Solutions,66253,Base Case,2025-03-31,90067001.0,Contracting,0.6099,54931863.9099,New Business,Product,2025
+Counter-Intrusion,Wraith Recon Systems,10097,Base Case,2025-03-31,79269155.0,Contracting,0.6099,48346257.6345,New Business,Product,2025
+Solid Rocket Motors,Specter Intelligence Group,56763,Base Case,2025-03-07,64991610.0,Contracting,0.7123999999999999,46300022.963999994,Follow-On,Development,2025
+Maritime ,Sabre Tactical Operations,85915,Base Case,2025-03-07,66660901.0,Contracting,0.6912,46076014.7712,Follow-On,Subscription,2025
+Counter-Intrusion,Titan Shield Networks,63502,Base Case,2025-03-13,44900062.0,Contracting,0.9023,40513325.9426,Follow-On,Development,2025
+Command and Control ,Spartan Tactical Technologies,22700,Base Case,2025-05-01,48195003.0,Contracting,0.8073,38907825.921900004,New Business,Development,2025
+Unmanned Aerial Systems,Polaris Command Systems,85539,Base Case,2025-09-30,55656159.0,Contracting,0.6912,38469537.1008,Follow-On,Development,2025
+Counter-UAS,Guardian Military Tech,70695,Base Case,2025-03-28,39203641.0,Contracting,0.8073,31649099.379300002,New Business,Development,2025
+Counter-UAS,Chimera Strategic Solutions,39462,Base Case,2025-03-28,29954242.0,Contracting,0.9023,27027712.5566,New Business,Development,2025
+Command and Control ,Cerberus Defense Group,16419,Base Case,2025-04-30,43166769.0,Contracting,0.6099,26327412.4131,New Business,Product,2025
+Counter-UAS,Daemon Defense Networks,31076,Base Case,2025-08-29,26272336.0,Contracting,0.7725,20295379.56,New Business,Development,2025
+Unmanned Aerial Systems,Aegis Cyber Solutions,80747,Base Case,2025-07-08,19156608.0,Contracting,0.8073,15465129.6384,Option,Cost Plus Fixed Fee,2025
+Counter-Intrusion,Ironclad Combat Systems,34115,Base Case,2025-03-31,20297898.0,Contracting,0.6099,12379687.9902,New Business,Product,2025
+Unmanned Aerial Systems,Havoc Tactical Solutions,50396,Base Case,2025-03-31,13512329.0,Contracting,0.6099,8241169.4571,New Business,Cost Plus Fixed Fee,2025
+Solid Rocket Motors,Mercury Tactical Solutions,14465,Base Case,2025-06-30,7426883.0,Contracting,0.9023,6701276.5309,Subscription Renewal,O&M,2025
+Maritime ,Firestorm Defense Corp,59403,Base Case,2025-03-31,611167.0,Contracting,0.8073,493395.1191,Option,Product,2025
+Solid Rocket Motors,Vortex Security Dynamics,34270,Base Case,2025-02-28,334605.0,Contracting,0.9023,301914.0915,New Business,Development,2025
+Maritime ,Zenith Warfare Technologies,86161,Base Case,2027-08-29,60106008.0,Contracting,0.9023,54233651.0184,Modification,Development,2027
+Maritime ,Prometheus Defense Innovations,22789,Base Case,2027-01-15,155787688.0,Contracting,0.9023,140567230.8824,Option,O&M,2027
+Counter-UAS,Apex Command Technologies,78366,Base Case,2027-03-19,154343507.0,Contracting,0.7123999999999999,109954314.38679999,Follow-On,Development,2027
+Maritime ,Prometheus Defense Innovations,65444,Base Case,2027-01-14,113729109.0,Contracting,0.95,108042653.55,Option,Development,2027
+Counter-Intrusion,Ironclad Combat Systems,90474,Base Case,2027-09-26,154969510.0,Contracting,0.9023,139828988.873,New Business,Development,2027
+Solid Rocket Motors,Manticore Aerospace Tech,62044,Upside,2028-01-15,102003349.0,Contracting,0.9023,92037621.8027,Option,O&M,2028
+Unmanned Aerial Systems,Atlas Protection Analytics,39680,Base Case,2027-08-01,56794197.0,Contracting,0.9023,51245403.953099996,Modification,Development,2027
+Command and Control ,Lionheart Defense Systems,59539,Base Case,2027-03-14,133719973.0,Contracting,0.8073,107952134.2029,Follow-On,Cost Plus Fixed Fee,2027
+Maritime ,Sabre Tactical Operations,23221,Base Case,2027-04-11,104967663.0,Contracting,1.0,104967663.0,New Business,Product,2027
+Counter-UAS,Guardian Military Tech,60589,Base Case,2027-07-31,125550096.0,Contracting,0.8073,101356592.5008,Follow-On,Development,2027
+Command and Control ,Thunderbolt Defense Corp,86210,Base Case,2027-03-28,123486932.0,Contracting,0.8073,99691000.2036,New Business,Development,2027
+Counter-UAS,Sentinel Security Dynamics,28076,"Closed, Won",2029-01-06,194789322.0,Closed Won,1.0,194789322.0,Follow-On,Product,2029
+Radars,Falcon Aeronautics,21001,"Closed, Won",2029-02-13,190810296.0,Closed Won,1.0,190810296.0,Follow-On,Product,2029
+Solid Rocket Motors,Nomad Intelligence Systems,70232,"Closed, Won",2029-03-20,182732664.0,Closed Won,1.0,182732664.0,Modification,Development,2029
+Radars,Kraken Maritime Defense,90450,"Closed, Won",2029-04-27,182434451.0,Closed Won,1.0,182434451.0,Modification,Cost Plus Fixed Fee,2029
+Unmanned Aerial Systems,StratDef Solutions,69794,"Closed, Won",2029-05-04,182323911.0,Closed Won,1.0,182323911.0,New Business,O&M,2029
+Counter-UAS,Daemon Defense Networks,27358,"Closed, Won",2029-09-02,174475566.0,Closed Won,1.0,174475566.0,Follow-On,Development,2029
+Command and Control ,Spartan Tactical Technologies,21604,"Closed, Won",2029-01-10,171042292.0,Closed Won,1.0,171042292.0,Follow-On,Development,2029
+Command and Control ,Zephyr Security Tech,25755,"Closed, Won",2029-03-26,170373873.0,Closed Won,1.0,170373873.0,New Business,Development,2029
+Radars,Hades Defense Strategies,42664,"Closed, Won",2029-05-12,169948655.0,Closed Won,1.0,169948655.0,New Business,Development,2029
+Unmanned Aerial Systems,Griffin Military Tech,33749,"Closed, Won",2029-08-05,168929596.0,Closed Won,1.0,168929596.0,Follow-On,Development,2029
+Command and Control ,Vanguard Tactical Solutions,22686,"Closed, Won",2029-04-16,159292463.0,Closed Won,1.0,159292463.0,Option,Development,2029
+Radars,Mars Defense Consortium,84037,"Closed, Won",2029-02-25,153304920.0,Closed Won,1.0,153304920.0,New Business,Product,2029
+Solid Rocket Motors,Manticore Aerospace Tech,80113,"Closed, Won",2029-03-03,152878964.0,Closed Won,1.0,152878964.0,Follow-On,Development,2029
+Command and Control ,Cobalt Security Solutions,43596,"Closed, Won",2029-04-10,152805839.0,Closed Won,1.0,152805839.0,Follow-On,Product,2029
+Command and Control ,Revenant Defense Solutions,14845,"Closed, Won",2029-09-26,149190316.0,Closed Won,1.0,149190316.0,New Business,Development,2029
+Counter-Intrusion,Warrior Defense Systems,63319,"Closed, Won",2029-01-14,142955922.0,Closed Won,1.0,142955922.0,New Business,Development,2029
+Counter-Intrusion,Ironclad Combat Systems,59964,"Closed, Won",2029-09-27,140925771.0,Closed Won,1.0,140925771.0,Option,Product,2029
+Maritime ,Zenith Warfare Technologies,73297,"Closed, Won",2029-01-08,140138140.0,Closed Won,1.0,140138140.0,Follow-On,Product,2029
+Counter-UAS,Osiris Combat Solutions,74568,"Closed, Won",2029-02-04,137291907.0,Closed Won,1.0,137291907.0,Option,Cost Plus Fixed Fee,2029
+Counter-UAS,Stormbringer Defense Solutions,53740,"Closed, Won",2029-08-31,135087483.0,Closed Won,1.0,135087483.0,New Business,Product,2029
+Unmanned Aerial Systems,Aegis Cyber Solutions,77967,"Closed, Won",2029-01-16,131447071.0,Closed Won,1.0,131447071.0,New Business,Cost Plus Fixed Fee,2029
+Radars,Inferno Protection Tech,61421,"Closed, Won",2028-08-13,117475011.0,Closed Won,1.0,117475011.0,Follow-On,Cost Plus Fixed Fee,2028
+Radars,Borealis Defense Network,21409,Base Case,2028-03-07,125700555.0,Closed Won,1.0,125700555.0,Modification,Cost Plus Fixed Fee,2028
+Solid Rocket Motors,Iron Fortress Defense,99424,"Closed, Won",2028-10-28,87739613.0,Closed Won,1.0,87739613.0,New Business,Product,2028
+Maritime ,Prometheus Defense Innovations,21665,"Closed, Won",2028-02-19,86561226.0,Closed Won,1.0,86561226.0,Follow-On,O&M,2028
+Unmanned Aerial Systems,Havoc Tactical Solutions,30307,"Closed, Won",2028-07-12,86559881.0,Closed Won,1.0,86559881.0,New Business,Subscription,2028
+Radars,Hyperion Protection Corp,64115,"Closed, Won",2028-03-05,82650559.0,Closed Won,1.0,82650559.0,Follow-On,Product,2028
+Command and Control ,Silverline Security Operations,92498,"Closed, Won",2028-07-12,80613103.0,Closed Won,1.0,80613103.0,New Business,Subscription,2028
+Counter-UAS,Sentinel Security Dynamics,19975,"Closed, Won",2026-12-31,8987629.0,Closed Won,0.6099,5481554.9271,New Business,O&M,2026
+Counter-Intrusion,Orion Cyber Defense,63747,"Closed, Won",2026-05-06,55676580.0,Closed Won,0.5075,28255864.349999998,New Business,Cost Plus Fixed Fee,2026
+Counter-UAS,Triton Naval Technologies,29300,"Closed, Won",2026-07-06,101417532.0,Closed Won,0.9023,91509039.1236,Follow-On,O&M,2026
+Counter-UAS,Osiris Combat Solutions,40921,"Closed, Won",2026-11-27,131268114.0,Closed Won,0.5075,66618567.855,New Business,Product,2026
+Maritime ,Draco Armament Research,25451,"Closed, Won",2026-04-30,184213614.0,Closed Won,0.6099,112351883.1786,New Business,Development,2026
+Maritime ,Vulcan Armament Corp,77897,"Closed, Won",2026-02-11,55244068.0,Closed Won,0.5751,31770863.506799996,New Business,O&M,2026
+Maritime ,Crimson Shield Technologies,93142,"Closed, Won",2026-07-12,17628099.0,Closed Won,1.0,17628099.0,New Business,Subscription,2026
+Counter-UAS,Guardian Military Tech,88540,"Closed, Won",2026-07-12,30787825.0,Closed Won,1.0,30787825.0,New Business,Subscription,2026
+Counter-Intrusion,SaberEdge Security,48330,"Closed, Won",2026-07-12,152353443.0,Closed Won,1.0,152353443.0,New Business,Subscription,2026
+Command and Control ,Horizon Warfare Technologies,22144,"Closed, Won",2026-07-12,13399568.0,Closed Won,1.0,13399568.0,New Business,Subscription,2026
+Unmanned Aerial Systems,Scorpion Defense Systems,91715,"Closed, Won",2026-07-17,3256280.0,Closed Won,1.0,3256280.0,New Business,Development,2026
+Counter-Intrusion,Gladiator Defense Corp,94609,"Closed, Won",2026-12-12,46108134.0,Closed Won,1.0,46108134.0,Modification,Development,2026
+Maritime ,Goliath Protection Systems,30376,"Closed, Won",2026-09-26,16584295.0,Closed Won,1.0,16584295.0,New Business,Development,2026
+Solid Rocket Motors,Echo Combat Systems,88963,"Closed, Won",2026-01-18,147959779.0,Closed Won,1.0,147959779.0,Follow-On,Development,2026
+Counter-UAS,Helios Tactical Solutions,94139,"Closed, Won",2026-02-20,18983408.0,Closed Won,1.0,18983408.0,New Business,Development,2026
+Solid Rocket Motors,Nova Intel Systems,40491,"Closed, Won",2029-01-02,79089028.0,Closed Won,1.0,79089028.0,Modification,Cost Plus Fixed Fee,2029
+Radars,Avalanche Defense Technologies,85116,"Closed, Won",2029-03-12,77687947.0,Closed Won,1.0,77687947.0,New Business,Development,2029
+Maritime ,Nightshade Security Ops,50168,"Closed, Won",2029-04-17,76991814.0,Closed Won,1.0,76991814.0,Follow-On,Product,2029
+Solid Rocket Motors,Jupiter Defense Platform,23026,"Closed, Won",2029-10-14,74260612.0,Closed Won,1.0,74260612.0,New Business,Subscription,2029
+Solid Rocket Motors,Titanium Security Group,86365,"Closed, Won",2029-02-11,73242474.0,Closed Won,1.0,73242474.0,New Business,Development,2029
+Radars,Phantom Recon Tech,51462,"Closed, Won",2029-03-18,73025699.0,Closed Won,1.0,73025699.0,Option,Development,2029
+Maritime ,Firestorm Defense Corp,31903,"Closed, Won",2029-01-03,71004632.0,Closed Won,1.0,71004632.0,Subscription Renewal,O&M,2029
+Solid Rocket Motors,Catalyst Defense Group,13380,"Closed, Won",2029-06-29,70183454.0,Closed Won,1.0,70183454.0,New Business,Development,2029
+Solid Rocket Motors,Specter Intelligence Group,36126,"Closed, Won",2029-04-26,68234171.0,Closed Won,1.0,68234171.0,Subscription Renewal,Subscription,2029
+Command and Control ,Hawkeye Security Systems,10153,"Closed, Won",2029-11-01,61536499.0,Closed Won,1.0,61536499.0,Follow-On,Product,2029
+Counter-UAS,Chimera Strategic Solutions,46474,"Closed, Won",2025-01-12,56193140.0,Closed Won,1.0,56193140.0,Option,Development,2025
+Command and Control ,Nimbus Security Networks,79600,"Closed, Won",2025-02-25,56021074.0,Closed Won,1.0,56021074.0,Follow-On,Product,2025
+Counter-Intrusion,Quantum Defense Corp,64252,"Closed, Won",2025-03-07,55347293.0,Closed Won,1.0,55347293.0,New Business,Product,2025
+Solid Rocket Motors,Valiant Defense Co.,90912,"Closed, Won",2025-02-28,52777348.0,Closed Won,1.0,52777348.0,Option,Product,2025
+Radars,Eagle Eye Defense Solutions,60371,"Closed, Won",2025-03-07,51772028.0,Closed Won,1.0,51772028.0,New Business,Product,2025
+Command and Control ,Reaper Defense Innovations,48384,"Closed, Won",2025-01-31,46714222.0,Closed Won,1.0,46714222.0,Follow-On,Development,2025
+Radars,Icarus AeroTech,24678,"Closed, Won",2025-11-04,46628575.0,Closed Won,1.0,46628575.0,Follow-On,O&M,2025
+Unmanned Aerial Systems,Basilisk Armament Technologies,10147,"Closed, Won",2025-01-07,43832039.0,Closed Won,1.0,43832039.0,New Business,Development,2025
+Unmanned Aerial Systems,Stealth Combat Analytics,28415,"Closed, Won",2025-02-11,42302338.0,Closed Won,1.0,42302338.0,Follow-On,Product,2025
+Counter-Intrusion,Skyfire Defense Solutions,96357,"Closed, Won",2025-01-09,40548109.0,Closed Won,1.0,40548109.0,Option,Development,2025
+Counter-Intrusion,Minerva Intelligence Systems,35927,"Closed, Won",2025-02-28,37125882.0,Closed Won,1.0,37125882.0,Option,Development,2025
+Radars,Borealis Defense Network,52888,"Closed, Won",2025-07-12,35748527.0,Closed Won,1.0,35748527.0,New Business,Subscription,2025
+Counter-Intrusion,Neptune Surveillance Systems,94889,"Closed, Won",2025-01-21,35332396.0,Closed Won,1.0,35332396.0,Follow-On,Product,2025
+Maritime ,Tempest Defense Innovations,96280,"Closed, Won",2025-07-17,33813520.0,Closed Won,1.0,33813520.0,New Business,Development,2025
+Counter-Intrusion,Orion Cyber Defense,27874,"Closed, Won",2025-01-23,31019671.0,Closed Won,1.0,31019671.0,Modification,Cost Plus Fixed Fee,2025
+Command and Control ,Cerberus Defense Group,40681,"Closed, Won",2025-01-21,29175692.0,Closed Won,1.0,29175692.0,Follow-On,Product,2025
+Command and Control ,Nimbus Security Networks,22839,"Closed, Won",2025-04-30,23308663.0,Closed Won,1.0,23308663.0,New Business,Development,2025
+Command and Control ,Hawkeye Security Systems,21697,Base Case,2025-02-11,21545915.0,Closed Won,1.0,21545915.0,Option,Development,2025
+Counter-UAS,Warlock Combat Solutions,40910,"Closed, Won",2025-12-20,19689528.0,Closed Won,1.0,19689528.0,New Business,Development,2025
+Maritime ,Barricade Security Tech,21688,"Closed, Won",2025-03-06,17905870.0,Closed Won,1.0,17905870.0,Follow-On,Development,2025
+Counter-Intrusion,Legacy Combat Systems,59666,"Closed, Won",2025-02-10,17248329.0,Closed Won,1.0,17248329.0,Modification,Development,2025
+Unmanned Aerial Systems,Polaris Command Systems,97636,"Closed, Won",2025-01-31,15734972.0,Closed Won,1.0,15734972.0,Follow-On,Product,2025
+Maritime ,Phoenix Defense Strategies,80220,"Closed, Won",2025-01-10,15276832.0,Closed Won,1.0,15276832.0,New Business,Development,2025
+Unmanned Aerial Systems,Wildcat Tactical Solutions,61314,"Closed, Won",2025-12-20,13051829.0,Closed Won,1.0,13051829.0,RFI/White Paper,Development,2025
+Counter-UAS,Onyx Defense Strategies,15504,"Closed, Won",2025-10-28,11200930.0,Closed Won,1.0,11200930.0,New Business,Product,2025
+Counter-UAS,Apex Command Technologies,15762,"Closed, Won",2025-12-18,11082375.0,Closed Won,1.0,11082375.0,Follow-On,O&M,2025
+Command and Control ,Lionheart Defense Systems,45469,"Closed, Won",2025-03-07,9278356.0,Closed Won,1.0,9278356.0,New Business,Product,2025
+Maritime ,Vulcan Armament Corp,53977,"Closed, Won",2025-03-05,7929697.0,Closed Won,1.0,7929697.0,Follow-On,Product,2025
+Counter-Intrusion,Titan Shield Networks,87787,"Closed, Won",2025-01-13,3643027.0,Closed Won,1.0,3643027.0,Modification,Cost Plus Fixed Fee,2025
+Maritime ,Fortitude Defense Operations,85421,"Closed, Won",2025-12-16,356761.0,Closed Won,1.0,356761.0,Option,Development,2025
+Radars,Phantom Recon Tech,66721,"Closed, Won",2027-05-06,6650586.0,Closed Won,0.8073,5369018.0778,New Business,Cost Plus Fixed Fee,2027
+Radars,Odyssey Security Tech,50360,"Closed, Won",2027-12-12,22395868.0,Closed Won,1.0,22395868.0,Modification,Development,2027
+Unmanned Aerial Systems,Crossbow Defense Networks,82040,"Closed, Won",2027-09-26,140806892.0,Closed Won,1.0,140806892.0,New Business,Development,2027
+Unmanned Aerial Systems,Atlas Protection Analytics,31915,"Closed, Won",2027-01-31,106421278.0,Closed Won,1.0,106421278.0,Follow-On,O&M,2027
+Counter-Intrusion,Valkyrie Defense Technologies,57714,"Closed, Won",2027-02-21,105174493.0,Closed Won,1.0,105174493.0,New Business,O&M,2027
+Command and Control ,Maelstrom Defense Group,91879,"Closed, Won",2027-01-30,101828350.0,Closed Won,1.0,101828350.0,New Business,Product,2027
+Counter-UAS,Patriot Defense Solutions,73769,"Closed, Won",2027-02-11,101297867.0,Closed Won,1.0,101297867.0,Modification,Development,2027
+Radars,Blitzkrieg Defense Innovations,26660,"Closed, Won",2027-01-13,99849344.0,Closed Won,1.0,99849344.0,Follow-On,Product,2027
+Maritime ,Draco Armament Research,37957,"Closed, Won",2027-02-26,98916175.0,Closed Won,1.0,98916175.0,Modification,Product,2027
+Unmanned Aerial Systems,Argus Defense Systems,41873,"Closed, Won",2027-02-05,96610340.0,Closed Won,1.0,96610340.0,New Business,Product,2027
