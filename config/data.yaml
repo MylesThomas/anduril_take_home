@@ -72,5 +72,4 @@ logging:
 
 reports:
   powerpoint:
-    template: templates/take_home_report.pptx
-    output: reports/Take_Home_Analysis_2025_2029.pptx
+    path: 20250429_anduril_ppt.pptx

@@ -1,9 +1,9 @@
 numpy
 pandas
-pyyaml
+PyYAML
 python-dotenv
-ipykernel
 openpyxl
 matplotlib
 seaborn
 scipy
+ipykernel

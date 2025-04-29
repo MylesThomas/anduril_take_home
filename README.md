@@ -1,4 +1,4 @@
-# Anduril – Take Home
+# Anduril – Quantitative Analyst Take-Home
 
 Quantitative Analyst position at Anduril Industries
 
@@ -49,12 +49,12 @@ pip install -r requirements.txt
 
 ## 1. Pipeline
 
-Steps:
-- `00_data_cleaning.ipynb`
-- `01_modeling.ipynb`
+Method 1:
 
-### Assumptions Made
+```bash
+python src/main.py
+```
 
-1. One can derive the month from `Award Date`
-2. It's OK to remove the 1 row of data where `Award Date` is NA
-3. 
+Method 2: Notebooks
+- `00_data_cleaning_clean.ipynb`
+- `01_modeling_clean.ipynb`
