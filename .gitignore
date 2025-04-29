@@ -3,3 +3,5 @@ __pycache__/
 .DS_Store
 src/__pycache__/
 logs/*.log
+notebooks/**/99*.ipynb
+~$*.pptx
