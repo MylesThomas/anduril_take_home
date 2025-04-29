@@ -5,6 +5,13 @@ paths:
   clean_data: data/01_clean/
   output_data: data/02_output/
   other_data: data/99_other/
+  simulation_results: data/03_simulation/
+  reports: reports/
+  logs: logs/
+
+logging:
+  level: INFO
+  path: logs/app.log
 
 data:
   raw:
@@ -39,3 +46,31 @@ data:
       type: string[python]
       revenue_type: string[python]
       revenue_year: int64
+
+simulation:
+  monte_carlo:
+    n_simulations: 10000
+    random_seed: 1
+    targets:
+      - year: 2025
+        revenue_target: 11755000000
+      - year: 2026
+        revenue_target: 13860000000
+      - year: 2027
+        revenue_target: 15355000000
+      - year: 2028
+        revenue_target: 16256000000
+      - year: 2029
+        revenue_target: 20700000000
+    output:
+      summary_stats: simulation_summary.csv
+      distributions_plot: revenue_distributions.png
+
+logging:
+  level: INFO
+  path: logs/app.log
+
+reports:
+  powerpoint:
+    template: templates/take_home_report.pptx
+    output: reports/Take_Home_Analysis_2025_2029.pptx
